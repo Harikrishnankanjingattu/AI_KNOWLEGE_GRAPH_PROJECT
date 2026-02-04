@@ -1,6 +1,7 @@
 # AI-Based Graph Builder for Enterprise Intelligence HARIKRISHNAN K batch 8/9/10 Infosys project -harikanjingattu@gmail.com
 
-![Project Screenshot]([images/project_screenshot_1.png](https://github.com/harikrishnanklcs24-creator/SYSTEM-SOFTWARE-LAB-/blob/main/Screenshot%202026-02-01%20124855.png))
+![Project Screenshot](https://github.com/harikrishnanklcs24-creator/SYSTEM-SOFTWARE-LAB-/blob/main/Screenshot%202026-02-01%20124855.png)
+
 
 ## 📌 Project Description
 This project is an **AI-Based Graph Builder** designed to analyze enterprise data and convert it into an intelligent, connected knowledge system. The platform uses **artificial intelligence, knowledge graphs, and semantic search** to understand relationships between data entities and present meaningful insights through an interactive dashboard.
