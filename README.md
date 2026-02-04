@@ -1,53 +1,56 @@
-# Enterprise AI Ingestion & Knowledge Graph Platform
+# AI-Based Graph Builder for Enterprise Intelligence HARIKRISHNAN K batch 8/9/10 Infosys project -harikanjingattu@gmail.com
 
-This project provides an end-to-end pipeline for ingesting, normalizing, and extracting knowledge from various enterprise data sources. It transforms structured, semi-structured, and unstructured data into a unified format suitable for RAG pipelines and Neo4j Knowledge Graph construction.
+![Project Screenshot](images/project_screenshot_1.png)
 
-## 🚀 Features
+## 📌 Project Description
+This project is an **AI-Based Graph Builder** designed to analyze enterprise data and convert it into an intelligent, connected knowledge system. The platform uses **artificial intelligence, knowledge graphs, and semantic search** to understand relationships between data entities and present meaningful insights through an interactive dashboard.
 
-- **Multi-Source Ingestion**: Automatically processes CSVs, text files, and PDFs from structured and unstructured directories.
-- **Data Normalization**: Cleans and normalizes disparate datasets into a standard JSON schema.
-- **Knowledge Graph Extraction**: Rule-based extraction of (Subject)-[Relation]->(Object) triples from unstructured text.
-- **Neo4j Ready**: Generates CSV and JSON outputs optimized for graph database ingestion.
+The system helps transform raw enterprise data into structured knowledge that can be explored visually and queried using natural language.
 
-## 📂 Project Structure
+---
 
-```text
-├── structured/             # CSV files (Employees, Products)
-├── semi_structured/        # CRM Leads, IT Tickets CSVs
-├── unstructured/           # Text policies, meeting notes, reports
-├── output/                 # Processed JSON/CSV results
-├── ingest.py               # Core ingestion and normalization engine
-├── extract_triples.py      # Entity-Relationship extraction script
-└── enterprise_schema.sql   # SQL schema for relational storage
-```
+## ⚙️ How the System Works
+The project follows a unified AI-driven process:
+- Enterprise data is collected from multiple sources
+- Data is cleaned, standardized, and converted into a common format
+- Important entities and relationships are identified
+- A dynamic knowledge graph is generated
+- Semantic embeddings enable intelligent search
+- AI retrieves relevant context and generates accurate insights
+- Results are visualized through an interactive dashboard with trust and confidence indicators
 
-## 🛠️ Getting Started
+---
 
-### Prerequisites
-- Python 3.8+
+## 🧠 Core Capabilities
+- Intelligent enterprise data analysis
+- Knowledge graph generation and visualization
+- AI-powered semantic search and RAG
+- Trust score and confidence matrix visualization
+- Interactive dashboard with downloadable outputs
 
-### Ingestion Pipeline
-To ingest all data from the source directories into the normalized `output/` folder:
-```bash
-python ingest.py
-```
+---
 
-### Knowledge Graph Extraction
-To extract entities and relationships from the unstructured text for a Knowledge Graph:
-```bash
-python extract_triples.py
-```
-This generates:
-- `output/knowledge_graph_triples.json`
-- `output/knowledge_graph_triples.csv`
+## 🚀 Use Cases
+- Enterprise threat and risk analysis
+- Zero Trust and compliance monitoring
+- Knowledge discovery and data exploration
+- AI-assisted decision support systems
 
-## 📊 Data Mapping (Triples)
+---
 
-The extracted knowledge graph includes relationships such as:
-- `(Employee)-[:ATTENDED]->(Meeting)`
-- `(Platform)-[:GENERATED_REVENUE]->(Value)`
-- `(Client)-[:USES]->(Platform)`
-- `(Company)-[:INVESTS_IN]->(Technology)`
-**Author**: Harikrishnan
-**Email**: harikanjingattu@gmail.com
-**Repository**: [info_pro](https://github.com/Harikrishnankanjingattu/info_pro)
+## 🛠️ Technologies Used
+- AI & Machine Learning
+- Knowledge Graphs
+- Vector Databases (FAISS)
+- Retrieval-Augmented Generation (RAG)
+- Web-based Dashboard
+- JSON & Enterprise Data Formats
+
+---
+
+## 👤 Author
+**Harikrishnan K**
+
+---
+
+⭐ This project demonstrates how AI and knowledge graphs can be combined to build intelligent, scalable enterprise systems.
