@@ -1,51 +1,51 @@
-project_id,project_name,product_name,start_date,end_date,status
-PRJ001,Enterprise AI Deployment 1,InsightAI Platform 2,2024-01-15,2025-06-30,Completed
-PRJ002,Enterprise AI Deployment 2,InsightAI Platform 3,2024-01-15,2025-06-30,On Hold
-PRJ003,Enterprise AI Deployment 3,InsightAI Platform 4,2024-01-15,2025-06-30,Active
-PRJ004,Enterprise AI Deployment 4,InsightAI Platform 5,2024-01-15,2025-06-30,Completed
-PRJ005,Enterprise AI Deployment 5,InsightAI Platform 6,2024-01-15,2025-06-30,On Hold
-PRJ006,Enterprise AI Deployment 6,InsightAI Platform 7,2024-01-15,2025-06-30,Active
-PRJ007,Enterprise AI Deployment 7,InsightAI Platform 8,2024-01-15,2025-06-30,Completed
-PRJ008,Enterprise AI Deployment 8,InsightAI Platform 9,2024-01-15,2025-06-30,On Hold
-PRJ009,Enterprise AI Deployment 9,InsightAI Platform 10,2024-01-15,2025-06-30,Active
-PRJ010,Enterprise AI Deployment 10,InsightAI Platform 11,2024-01-15,2025-06-30,Completed
-PRJ011,Enterprise AI Deployment 11,InsightAI Platform 12,2024-01-15,2025-06-30,On Hold
-PRJ012,Enterprise AI Deployment 12,InsightAI Platform 13,2024-01-15,2025-06-30,Active
-PRJ013,Enterprise AI Deployment 13,InsightAI Platform 14,2024-01-15,2025-06-30,Completed
-PRJ014,Enterprise AI Deployment 14,InsightAI Platform 15,2024-01-15,2025-06-30,On Hold
-PRJ015,Enterprise AI Deployment 15,InsightAI Platform 16,2024-01-15,2025-06-30,Active
-PRJ016,Enterprise AI Deployment 16,InsightAI Platform 17,2024-01-15,2025-06-30,Completed
-PRJ017,Enterprise AI Deployment 17,InsightAI Platform 18,2024-01-15,2025-06-30,On Hold
-PRJ018,Enterprise AI Deployment 18,InsightAI Platform 19,2024-01-15,2025-06-30,Active
-PRJ019,Enterprise AI Deployment 19,InsightAI Platform 20,2024-01-15,2025-06-30,Completed
-PRJ020,Enterprise AI Deployment 20,InsightAI Platform 21,2024-01-15,2025-06-30,On Hold
-PRJ021,Enterprise AI Deployment 21,InsightAI Platform 22,2024-01-15,2025-06-30,Active
-PRJ022,Enterprise AI Deployment 22,InsightAI Platform 23,2024-01-15,2025-06-30,Completed
-PRJ023,Enterprise AI Deployment 23,InsightAI Platform 24,2024-01-15,2025-06-30,On Hold
-PRJ024,Enterprise AI Deployment 24,InsightAI Platform 25,2024-01-15,2025-06-30,Active
-PRJ025,Enterprise AI Deployment 25,InsightAI Platform 26,2024-01-15,2025-06-30,Completed
-PRJ026,Enterprise AI Deployment 26,InsightAI Platform 27,2024-01-15,2025-06-30,On Hold
-PRJ027,Enterprise AI Deployment 27,InsightAI Platform 28,2024-01-15,2025-06-30,Active
-PRJ028,Enterprise AI Deployment 28,InsightAI Platform 29,2024-01-15,2025-06-30,Completed
-PRJ029,Enterprise AI Deployment 29,InsightAI Platform 30,2024-01-15,2025-06-30,On Hold
-PRJ030,Enterprise AI Deployment 30,InsightAI Platform 31,2024-01-15,2025-06-30,Active
-PRJ031,Enterprise AI Deployment 31,InsightAI Platform 32,2024-01-15,2025-06-30,Completed
-PRJ032,Enterprise AI Deployment 32,InsightAI Platform 33,2024-01-15,2025-06-30,On Hold
-PRJ033,Enterprise AI Deployment 33,InsightAI Platform 34,2024-01-15,2025-06-30,Active
-PRJ034,Enterprise AI Deployment 34,InsightAI Platform 35,2024-01-15,2025-06-30,Completed
-PRJ035,Enterprise AI Deployment 35,InsightAI Platform 36,2024-01-15,2025-06-30,On Hold
-PRJ036,Enterprise AI Deployment 36,InsightAI Platform 37,2024-01-15,2025-06-30,Active
-PRJ037,Enterprise AI Deployment 37,InsightAI Platform 38,2024-01-15,2025-06-30,Completed
-PRJ038,Enterprise AI Deployment 38,InsightAI Platform 39,2024-01-15,2025-06-30,On Hold
-PRJ039,Enterprise AI Deployment 39,InsightAI Platform 40,2024-01-15,2025-06-30,Active
-PRJ040,Enterprise AI Deployment 40,InsightAI Platform 41,2024-01-15,2025-06-30,Completed
-PRJ041,Enterprise AI Deployment 41,InsightAI Platform 42,2024-01-15,2025-06-30,On Hold
-PRJ042,Enterprise AI Deployment 42,InsightAI Platform 43,2024-01-15,2025-06-30,Active
-PRJ043,Enterprise AI Deployment 43,InsightAI Platform 44,2024-01-15,2025-06-30,Completed
-PRJ044,Enterprise AI Deployment 44,InsightAI Platform 45,2024-01-15,2025-06-30,On Hold
-PRJ045,Enterprise AI Deployment 45,InsightAI Platform 46,2024-01-15,2025-06-30,Active
-PRJ046,Enterprise AI Deployment 46,InsightAI Platform 47,2024-01-15,2025-06-30,Completed
-PRJ047,Enterprise AI Deployment 47,InsightAI Platform 48,2024-01-15,2025-06-30,On Hold
-PRJ048,Enterprise AI Deployment 48,InsightAI Platform 49,2024-01-15,2025-06-30,Active
-PRJ049,Enterprise AI Deployment 49,InsightAI Platform 50,2024-01-15,2025-06-30,Completed
-PRJ050,Enterprise AI Deployment 50,InsightAI Platform 1,2024-01-15,2025-06-30,On Hold
+project_id,company_name,project_name,product_name,start_date,end_date,status
+PRJ001,Infosys,Enterprise AI Deployment 1,NexaRisk Guard,2023-01-10,2023-12-20,Completed
+PRJ002,TCS,Enterprise AI Deployment 2,HealthAssist AI,2023-03-15,2024-02-28,Active
+PRJ003,Wipro,Enterprise AI Deployment 3,FinSecure AI,2023-02-20,2024-03-15,On Hold
+PRJ004,HCLTech,Enterprise AI Deployment 4,DataLens Core,2023-04-01,2024-01-30,Completed
+PRJ005,Accenture,Enterprise AI Deployment 5,ThreatWatch Pro,2023-05-12,2024-06-01,Active
+PRJ006,Cognizant,Enterprise AI Deployment 6,CareBot AI,2023-06-05,2024-05-20,On Hold
+PRJ007,Capgemini,Enterprise AI Deployment 7,PayFlow AI,2023-07-18,2024-06-30,Completed
+PRJ008,IBM,Enterprise AI Deployment 8,Insight360 Analytics,2023-08-02,2024-07-15,Active
+PRJ009,Oracle,Enterprise AI Deployment 9,FraudShield AI,2023-09-10,2024-08-25,On Hold
+PRJ010,Microsoft,Enterprise AI Deployment 10,HealthIQ AI,2023-10-01,2024-09-20,Completed
+PRJ011,Google,Enterprise AI Deployment 11,CreditSense AI,2023-11-15,2024-10-30,Active
+PRJ012,SAP,Enterprise AI Deployment 12,AnalyticsPro Suite,2023-12-01,2024-11-15,On Hold
+PRJ013,Amazon Web Services,Enterprise AI Deployment 13,RiskRadar Cloud,2024-01-20,2024-12-10,Completed
+PRJ014,Salesforce,Enterprise AI Deployment 14,MedVision Cloud,2024-02-15,2025-01-25,Active
+PRJ015,Adobe,Enterprise AI Deployment 15,WealthAI Studio,2024-03-05,2025-02-28,On Hold
+PRJ016,Oracle,Enterprise AI Deployment 16,TrendAnalyzer AI,2024-04-10,2025-03-20,Completed
+PRJ017,Infosys,Enterprise AI Deployment 17,ComplianceX Suite,2024-05-01,2025-04-15,Active
+PRJ018,TCS,Enterprise AI Deployment 18,PatientFlow AI,2024-06-05,2025-05-25,On Hold
+PRJ019,Wipro,Enterprise AI Deployment 19,LoanAssist AI,2024-07-10,2025-06-30,Completed
+PRJ020,HCLTech,Enterprise AI Deployment 20,MarketPulse Pro,2024-08-15,2025-07-20,Active
+PRJ021,Accenture,Enterprise AI Deployment 21,RiskScore Pro,2024-09-01,2025-08-15,On Hold
+PRJ022,Cognizant,Enterprise AI Deployment 22,CarePath AI,2024-10-05,2025-09-30,Completed
+PRJ023,Capgemini,Enterprise AI Deployment 23,TradeAI Platform,2024-11-12,2025-10-20,Active
+PRJ024,IBM,Enterprise AI Deployment 24,InsightHub Analytics,2024-12-01,2025-11-25,On Hold
+PRJ025,Amazon Web Services,Enterprise AI Deployment 25,ThreatDetect Cloud,2024-01-15,2025-06-30,Completed
+PRJ026,Salesforce,Enterprise AI Deployment 26,HealthNavigator AI,2024-02-20,2025-07-15,Active
+PRJ027,Adobe,Enterprise AI Deployment 27,InvestIQ AI,2024-03-05,2025-08-01,On Hold
+PRJ028,SAP,Enterprise AI Deployment 28,DataExplorer Suite,2024-04-10,2025-09-10,Completed
+PRJ029,Infosys,Enterprise AI Deployment 29,RiskMatrix Suite,2024-05-15,2025-10-20,Active
+PRJ030,TCS,Enterprise AI Deployment 30,ClinicalAI Pro,2024-06-01,2025-11-30,On Hold
+PRJ031,Wipro,Enterprise AI Deployment 31,PaySecure AI,2024-07-10,2025-12-15,Completed
+PRJ032,HCLTech,Enterprise AI Deployment 32,ReportGen Suite,2024-08-20,2026-01-10,Active
+PRJ033,Accenture,Enterprise AI Deployment 33,RiskOps AI,2024-09-05,2026-02-15,On Hold
+PRJ034,Cognizant,Enterprise AI Deployment 34,CareInsights AI,2024-10-12,2026-03-01,Completed
+PRJ035,Capgemini,Enterprise AI Deployment 35,FinOpsAI Platform,2024-11-01,2026-03-20,Active
+PRJ036,IBM,Enterprise AI Deployment 36,AnalyticsEdge Suite,2024-12-05,2026-04-10,On Hold
+PRJ037,Oracle,Enterprise AI Deployment 37,RiskAI Pro,2024-01-10,2026-05-01,Completed
+PRJ038,Microsoft,Enterprise AI Deployment 38,HealthAnalytics Suite,2024-02-15,2026-05-20,Active
+PRJ039,Google,Enterprise AI Deployment 39,PaymentAI Studio,2024-03-01,2026-06-10,On Hold
+PRJ040,SAP,Enterprise AI Deployment 40,DataVision Cloud,2024-04-12,2026-06-30,Completed
+PRJ041,Amazon Web Services,Enterprise AI Deployment 41,RiskCompliance Pro,2024-05-05,2026-07-15,Active
+PRJ042,Salesforce,Enterprise AI Deployment 42,MedAnalytics Pro,2024-06-01,2026-07-30,On Hold
+PRJ043,Adobe,Enterprise AI Deployment 43,FinAnalytics Studio,2024-07-10,2026-08-20,Completed
+PRJ044,Infosys,Enterprise AI Deployment 44,InsightEngine Suite,2024-08-15,2026-09-05,Active
+PRJ045,TCS,Enterprise AI Deployment 45,RiskPro Plus,2024-09-05,2026-09-25,On Hold
+PRJ046,Wipro,Enterprise AI Deployment 46,HealthAI Plus,2024-10-12,2026-10-10,Completed
+PRJ047,HCLTech,Enterprise AI Deployment 47,LendingAI Pro,2024-11-01,2026-10-30,Active
+PRJ048,Accenture,Enterprise AI Deployment 48,AnalyticsCloud Suite,2024-12-05,2026-11-15,On Hold
+PRJ049,Cognizant,Enterprise AI Deployment 49,RiskVision AI,2024-01-20,2026-11-30,Completed
+PRJ050,Capgemini,Enterprise AI Deployment 50,HealthPro AI,2024-02-15,2026-12-15,Active

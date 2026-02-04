@@ -1,51 +1,51 @@
-product_id,product_name,category,launch_year,annual_revenue_usd
-P001,InsightAI Platform 1,Risk Intelligence,2019,1245000
-P002,InsightAI Platform 2,Healthcare AI,2020,1290000
-P003,InsightAI Platform 3,FinTech AI,2021,1335000
-P004,InsightAI Platform 4,AI Analytics,2022,1380000
-P005,InsightAI Platform 5,Risk Intelligence,2018,1425000
-P006,InsightAI Platform 6,Healthcare AI,2019,1470000
-P007,InsightAI Platform 7,FinTech AI,2020,1515000
-P008,InsightAI Platform 8,AI Analytics,2021,1560000
-P009,InsightAI Platform 9,Risk Intelligence,2022,1605000
-P010,InsightAI Platform 10,Healthcare AI,2018,1650000
-P011,InsightAI Platform 11,FinTech AI,2019,1695000
-P012,InsightAI Platform 12,AI Analytics,2020,1740000
-P013,InsightAI Platform 13,Risk Intelligence,2021,1785000
-P014,InsightAI Platform 14,Healthcare AI,2022,1830000
-P015,InsightAI Platform 15,FinTech AI,2018,1875000
-P016,InsightAI Platform 16,AI Analytics,2019,1920000
-P017,InsightAI Platform 17,Risk Intelligence,2020,1965000
-P018,InsightAI Platform 18,Healthcare AI,2021,2010000
-P019,InsightAI Platform 19,FinTech AI,2022,2055000
-P020,InsightAI Platform 20,AI Analytics,2018,2100000
-P021,InsightAI Platform 21,Risk Intelligence,2019,2145000
-P022,InsightAI Platform 22,Healthcare AI,2020,2190000
-P023,InsightAI Platform 23,FinTech AI,2021,2235000
-P024,InsightAI Platform 24,AI Analytics,2022,2280000
-P025,InsightAI Platform 25,Risk Intelligence,2018,2325000
-P026,InsightAI Platform 26,Healthcare AI,2019,2370000
-P027,InsightAI Platform 27,FinTech AI,2020,2415000
-P028,InsightAI Platform 28,AI Analytics,2021,2460000
-P029,InsightAI Platform 29,Risk Intelligence,2022,2505000
-P030,InsightAI Platform 30,Healthcare AI,2018,2550000
-P031,InsightAI Platform 31,FinTech AI,2019,2595000
-P032,InsightAI Platform 32,AI Analytics,2020,2640000
-P033,InsightAI Platform 33,Risk Intelligence,2021,2685000
-P034,InsightAI Platform 34,Healthcare AI,2022,2730000
-P035,InsightAI Platform 35,FinTech AI,2018,2775000
-P036,InsightAI Platform 36,AI Analytics,2019,2820000
-P037,InsightAI Platform 37,Risk Intelligence,2020,2865000
-P038,InsightAI Platform 38,Healthcare AI,2021,2910000
-P039,InsightAI Platform 39,FinTech AI,2022,2955000
-P040,InsightAI Platform 40,AI Analytics,2018,3000000
-P041,InsightAI Platform 41,Risk Intelligence,2019,3045000
-P042,InsightAI Platform 42,Healthcare AI,2020,3090000
-P043,InsightAI Platform 43,FinTech AI,2021,3135000
-P044,InsightAI Platform 44,AI Analytics,2022,3180000
-P045,InsightAI Platform 45,Risk Intelligence,2018,3225000
-P046,InsightAI Platform 46,Healthcare AI,2019,3270000
-P047,InsightAI Platform 47,FinTech AI,2020,3315000
-P048,InsightAI Platform 48,AI Analytics,2021,3360000
-P049,InsightAI Platform 49,Risk Intelligence,2022,3405000
-P050,InsightAI Platform 50,Healthcare AI,2018,3450000
+product_id,company_name,product_name,category,launch_year,annual_revenue_usd
+P001,Infosys,NexaRisk Guard,Risk Intelligence,2018,1750000
+P002,TCS,HealthAssist AI,Healthcare AI,2019,1980000
+P003,Wipro,FinSecure AI,FinTech AI,2020,2250000
+P004,HCLTech,DataLens Core,AI Analytics,2018,2100000
+P005,Accenture,ThreatWatch Pro,Risk Intelligence,2021,2400000
+P006,Cognizant,CareBot AI,Healthcare AI,2020,1850000
+P007,Capgemini,PayFlow AI,FinTech AI,2019,2550000
+P008,IBM,Insight360 Analytics,AI Analytics,2021,2750000
+P009,Oracle,FraudShield AI,Risk Intelligence,2019,2600000
+P010,Microsoft,HealthIQ AI,Healthcare AI,2021,2050000
+P011,Google,CreditSense AI,FinTech AI,2018,2300000
+P012,SAP,AnalyticsPro Suite,AI Analytics,2020,2920000
+P013,Amazon Web Services,RiskRadar Cloud,Risk Intelligence,2022,3200000
+P014,Salesforce,MedVision Cloud,Healthcare AI,2022,2380000
+P015,Adobe,WealthAI Studio,FinTech AI,2021,3050000
+P016,Oracle,TrendAnalyzer AI,AI Analytics,2019,2200000
+P017,Infosys,ComplianceX Suite,Risk Intelligence,2020,2100000
+P018,TCS,PatientFlow AI,Healthcare AI,2018,1700000
+P019,Wipro,LoanAssist AI,FinTech AI,2022,3350000
+P020,HCLTech,MarketPulse Pro,AI Analytics,2022,2900000
+P021,Accenture,RiskScore Pro,Risk Intelligence,2018,1950000
+P022,Cognizant,CarePath AI,Healthcare AI,2019,1820000
+P023,Capgemini,TradeAI Platform,FinTech AI,2020,2500000
+P024,IBM,InsightHub Analytics,AI Analytics,2021,2680000
+P025,Amazon Web Services,ThreatDetect Cloud,Risk Intelligence,2021,2800000
+P026,Salesforce,HealthNavigator AI,Healthcare AI,2020,2100000
+P027,Adobe,InvestIQ AI,FinTech AI,2019,2400000
+P028,SAP,DataExplorer Suite,AI Analytics,2018,2050000
+P029,Infosys,RiskMatrix Suite,Risk Intelligence,2022,3450000
+P030,TCS,ClinicalAI Pro,Healthcare AI,2021,2250000
+P031,Wipro,PaySecure AI,FinTech AI,2022,3150000
+P032,HCLTech,ReportGen Suite,AI Analytics,2019,2300000
+P033,Accenture,RiskOps AI,Risk Intelligence,2019,2250000
+P034,Cognizant,CareInsights AI,Healthcare AI,2022,2400000
+P035,Capgemini,FinOpsAI Platform,FinTech AI,2020,2600000
+P036,IBM,AnalyticsEdge Suite,AI Analytics,2020,2800000
+P037,Oracle,RiskAI Pro,Risk Intelligence,2021,3100000
+P038,Microsoft,HealthAnalytics Suite,Healthcare AI,2018,1950000
+P039,Google,PaymentAI Studio,FinTech AI,2019,2700000
+P040,SAP,DataVision Cloud,AI Analytics,2022,3050000
+P041,Amazon Web Services,RiskCompliance Pro,Risk Intelligence,2018,2050000
+P042,Salesforce,MedAnalytics Pro,Healthcare AI,2019,2150000
+P043,Adobe,FinAnalytics Studio,FinTech AI,2021,2850000
+P044,Infosys,InsightEngine Suite,AI Analytics,2018,1980000
+P045,TCS,RiskPro Plus,Risk Intelligence,2022,3300000
+P046,Wipro,HealthAI Plus,Healthcare AI,2020,2280000
+P047,HCLTech,LendingAI Pro,FinTech AI,2022,3400000
+P048,Accenture,AnalyticsCloud Suite,AI Analytics,2021,2950000
+P049,Cognizant,RiskVision AI,Risk Intelligence,2019,2400000
+P050,Capgemini,HealthPro AI,Healthcare AI,2021,2500000

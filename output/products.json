@@ -6,14 +6,15 @@
     "entity_id": "P001",
     "attributes": {
       "product_id": "P001",
-      "product_name": "InsightAI Platform 1",
+      "company_name": "Infosys",
+      "product_name": "NexaRisk Guard",
       "category": "Risk Intelligence",
-      "launch_year": "2019",
-      "annual_revenue_usd": "1245000"
+      "launch_year": "2018",
+      "annual_revenue_usd": "1750000"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.272725+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.582175+00:00",
       "source_confidence": 1.0,
       "origin_system": "File System"
     }
@@ -25,14 +26,15 @@
     "entity_id": "P002",
     "attributes": {
       "product_id": "P002",
-      "product_name": "InsightAI Platform 2",
+      "company_name": "TCS",
+      "product_name": "HealthAssist AI",
       "category": "Healthcare AI",
-      "launch_year": "2020",
-      "annual_revenue_usd": "1290000"
+      "launch_year": "2019",
+      "annual_revenue_usd": "1980000"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.272806+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.582187+00:00",
       "source_confidence": 1.0,
       "origin_system": "File System"
     }
@@ -44,14 +46,15 @@
     "entity_id": "P003",
     "attributes": {
       "product_id": "P003",
-      "product_name": "InsightAI Platform 3",
+      "company_name": "Wipro",
+      "product_name": "FinSecure AI",
       "category": "FinTech AI",
-      "launch_year": "2021",
-      "annual_revenue_usd": "1335000"
+      "launch_year": "2020",
+      "annual_revenue_usd": "2250000"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.272815+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.582191+00:00",
       "source_confidence": 1.0,
       "origin_system": "File System"
     }
@@ -63,14 +66,15 @@
     "entity_id": "P004",
     "attributes": {
       "product_id": "P004",
-      "product_name": "InsightAI Platform 4",
+      "company_name": "HCLTech",
+      "product_name": "DataLens Core",
       "category": "AI Analytics",
-      "launch_year": "2022",
-      "annual_revenue_usd": "1380000"
+      "launch_year": "2018",
+      "annual_revenue_usd": "2100000"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.272823+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.582194+00:00",
       "source_confidence": 1.0,
       "origin_system": "File System"
     }
@@ -82,14 +86,15 @@
     "entity_id": "P005",
     "attributes": {
       "product_id": "P005",
-      "product_name": "InsightAI Platform 5",
+      "company_name": "Accenture",
+      "product_name": "ThreatWatch Pro",
       "category": "Risk Intelligence",
-      "launch_year": "2018",
-      "annual_revenue_usd": "1425000"
+      "launch_year": "2021",
+      "annual_revenue_usd": "2400000"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.272834+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.582197+00:00",
       "source_confidence": 1.0,
       "origin_system": "File System"
     }
@@ -101,14 +106,15 @@
     "entity_id": "P006",
     "attributes": {
       "product_id": "P006",
-      "product_name": "InsightAI Platform 6",
+      "company_name": "Cognizant",
+      "product_name": "CareBot AI",
       "category": "Healthcare AI",
-      "launch_year": "2019",
-      "annual_revenue_usd": "1470000"
+      "launch_year": "2020",
+      "annual_revenue_usd": "1850000"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.272841+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.582200+00:00",
       "source_confidence": 1.0,
       "origin_system": "File System"
     }
@@ -120,14 +126,15 @@
     "entity_id": "P007",
     "attributes": {
       "product_id": "P007",
-      "product_name": "InsightAI Platform 7",
+      "company_name": "Capgemini",
+      "product_name": "PayFlow AI",
       "category": "FinTech AI",
-      "launch_year": "2020",
-      "annual_revenue_usd": "1515000"
+      "launch_year": "2019",
+      "annual_revenue_usd": "2550000"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.272849+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.582203+00:00",
       "source_confidence": 1.0,
       "origin_system": "File System"
     }
@@ -139,14 +146,15 @@
     "entity_id": "P008",
     "attributes": {
       "product_id": "P008",
-      "product_name": "InsightAI Platform 8",
+      "company_name": "IBM",
+      "product_name": "Insight360 Analytics",
       "category": "AI Analytics",
       "launch_year": "2021",
-      "annual_revenue_usd": "1560000"
+      "annual_revenue_usd": "2750000"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.272857+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.582206+00:00",
       "source_confidence": 1.0,
       "origin_system": "File System"
     }
@@ -158,14 +166,15 @@
     "entity_id": "P009",
     "attributes": {
       "product_id": "P009",
-      "product_name": "InsightAI Platform 9",
+      "company_name": "Oracle",
+      "product_name": "FraudShield AI",
       "category": "Risk Intelligence",
-      "launch_year": "2022",
-      "annual_revenue_usd": "1605000"
+      "launch_year": "2019",
+      "annual_revenue_usd": "2600000"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.272865+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.582209+00:00",
       "source_confidence": 1.0,
       "origin_system": "File System"
     }
@@ -177,14 +186,15 @@
     "entity_id": "P010",
     "attributes": {
       "product_id": "P010",
-      "product_name": "InsightAI Platform 10",
+      "company_name": "Microsoft",
+      "product_name": "HealthIQ AI",
       "category": "Healthcare AI",
-      "launch_year": "2018",
-      "annual_revenue_usd": "1650000"
+      "launch_year": "2021",
+      "annual_revenue_usd": "2050000"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.272872+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.582212+00:00",
       "source_confidence": 1.0,
       "origin_system": "File System"
     }
@@ -196,14 +206,15 @@
     "entity_id": "P011",
     "attributes": {
       "product_id": "P011",
-      "product_name": "InsightAI Platform 11",
+      "company_name": "Google",
+      "product_name": "CreditSense AI",
       "category": "FinTech AI",
-      "launch_year": "2019",
-      "annual_revenue_usd": "1695000"
+      "launch_year": "2018",
+      "annual_revenue_usd": "2300000"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.272879+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.582214+00:00",
       "source_confidence": 1.0,
       "origin_system": "File System"
     }
@@ -215,14 +226,15 @@
     "entity_id": "P012",
     "attributes": {
       "product_id": "P012",
-      "product_name": "InsightAI Platform 12",
+      "company_name": "SAP",
+      "product_name": "AnalyticsPro Suite",
       "category": "AI Analytics",
       "launch_year": "2020",
-      "annual_revenue_usd": "1740000"
+      "annual_revenue_usd": "2920000"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.272886+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.582217+00:00",
       "source_confidence": 1.0,
       "origin_system": "File System"
     }
@@ -234,14 +246,15 @@
     "entity_id": "P013",
     "attributes": {
       "product_id": "P013",
-      "product_name": "InsightAI Platform 13",
+      "company_name": "Amazon Web Services",
+      "product_name": "RiskRadar Cloud",
       "category": "Risk Intelligence",
-      "launch_year": "2021",
-      "annual_revenue_usd": "1785000"
+      "launch_year": "2022",
+      "annual_revenue_usd": "3200000"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.272892+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.582220+00:00",
       "source_confidence": 1.0,
       "origin_system": "File System"
     }
@@ -253,14 +266,15 @@
     "entity_id": "P014",
     "attributes": {
       "product_id": "P014",
-      "product_name": "InsightAI Platform 14",
+      "company_name": "Salesforce",
+      "product_name": "MedVision Cloud",
       "category": "Healthcare AI",
       "launch_year": "2022",
-      "annual_revenue_usd": "1830000"
+      "annual_revenue_usd": "2380000"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.272900+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.582223+00:00",
       "source_confidence": 1.0,
       "origin_system": "File System"
     }
@@ -272,14 +286,15 @@
     "entity_id": "P015",
     "attributes": {
       "product_id": "P015",
-      "product_name": "InsightAI Platform 15",
+      "company_name": "Adobe",
+      "product_name": "WealthAI Studio",
       "category": "FinTech AI",
-      "launch_year": "2018",
-      "annual_revenue_usd": "1875000"
+      "launch_year": "2021",
+      "annual_revenue_usd": "3050000"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.272908+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.582226+00:00",
       "source_confidence": 1.0,
       "origin_system": "File System"
     }
@@ -291,14 +306,15 @@
     "entity_id": "P016",
     "attributes": {
       "product_id": "P016",
-      "product_name": "InsightAI Platform 16",
+      "company_name": "Oracle",
+      "product_name": "TrendAnalyzer AI",
       "category": "AI Analytics",
       "launch_year": "2019",
-      "annual_revenue_usd": "1920000"
+      "annual_revenue_usd": "2200000"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.272916+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.582229+00:00",
       "source_confidence": 1.0,
       "origin_system": "File System"
     }
@@ -310,14 +326,15 @@
     "entity_id": "P017",
     "attributes": {
       "product_id": "P017",
-      "product_name": "InsightAI Platform 17",
+      "company_name": "Infosys",
+      "product_name": "ComplianceX Suite",
       "category": "Risk Intelligence",
       "launch_year": "2020",
-      "annual_revenue_usd": "1965000"
+      "annual_revenue_usd": "2100000"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.272924+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.582232+00:00",
       "source_confidence": 1.0,
       "origin_system": "File System"
     }
@@ -329,14 +346,15 @@
     "entity_id": "P018",
     "attributes": {
       "product_id": "P018",
-      "product_name": "InsightAI Platform 18",
+      "company_name": "TCS",
+      "product_name": "PatientFlow AI",
       "category": "Healthcare AI",
-      "launch_year": "2021",
-      "annual_revenue_usd": "2010000"
+      "launch_year": "2018",
+      "annual_revenue_usd": "1700000"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.272933+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.582235+00:00",
       "source_confidence": 1.0,
       "origin_system": "File System"
     }
@@ -348,14 +366,15 @@
     "entity_id": "P019",
     "attributes": {
       "product_id": "P019",
-      "product_name": "InsightAI Platform 19",
+      "company_name": "Wipro",
+      "product_name": "LoanAssist AI",
       "category": "FinTech AI",
       "launch_year": "2022",
-      "annual_revenue_usd": "2055000"
+      "annual_revenue_usd": "3350000"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.272938+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.582238+00:00",
       "source_confidence": 1.0,
       "origin_system": "File System"
     }
@@ -367,14 +386,15 @@
     "entity_id": "P020",
     "attributes": {
       "product_id": "P020",
-      "product_name": "InsightAI Platform 20",
+      "company_name": "HCLTech",
+      "product_name": "MarketPulse Pro",
       "category": "AI Analytics",
-      "launch_year": "2018",
-      "annual_revenue_usd": "2100000"
+      "launch_year": "2022",
+      "annual_revenue_usd": "2900000"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.272946+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.582241+00:00",
       "source_confidence": 1.0,
       "origin_system": "File System"
     }
@@ -386,14 +406,15 @@
     "entity_id": "P021",
     "attributes": {
       "product_id": "P021",
-      "product_name": "InsightAI Platform 21",
+      "company_name": "Accenture",
+      "product_name": "RiskScore Pro",
       "category": "Risk Intelligence",
-      "launch_year": "2019",
-      "annual_revenue_usd": "2145000"
+      "launch_year": "2018",
+      "annual_revenue_usd": "1950000"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.272955+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.582244+00:00",
       "source_confidence": 1.0,
       "origin_system": "File System"
     }
@@ -405,14 +426,15 @@
     "entity_id": "P022",
     "attributes": {
       "product_id": "P022",
-      "product_name": "InsightAI Platform 22",
+      "company_name": "Cognizant",
+      "product_name": "CarePath AI",
       "category": "Healthcare AI",
-      "launch_year": "2020",
-      "annual_revenue_usd": "2190000"
+      "launch_year": "2019",
+      "annual_revenue_usd": "1820000"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.272961+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.582247+00:00",
       "source_confidence": 1.0,
       "origin_system": "File System"
     }
@@ -424,14 +446,15 @@
     "entity_id": "P023",
     "attributes": {
       "product_id": "P023",
-      "product_name": "InsightAI Platform 23",
+      "company_name": "Capgemini",
+      "product_name": "TradeAI Platform",
       "category": "FinTech AI",
-      "launch_year": "2021",
-      "annual_revenue_usd": "2235000"
+      "launch_year": "2020",
+      "annual_revenue_usd": "2500000"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.272968+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.582249+00:00",
       "source_confidence": 1.0,
       "origin_system": "File System"
     }
@@ -443,14 +466,15 @@
     "entity_id": "P024",
     "attributes": {
       "product_id": "P024",
-      "product_name": "InsightAI Platform 24",
+      "company_name": "IBM",
+      "product_name": "InsightHub Analytics",
       "category": "AI Analytics",
-      "launch_year": "2022",
-      "annual_revenue_usd": "2280000"
+      "launch_year": "2021",
+      "annual_revenue_usd": "2680000"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.272973+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.582252+00:00",
       "source_confidence": 1.0,
       "origin_system": "File System"
     }
@@ -462,14 +486,15 @@
     "entity_id": "P025",
     "attributes": {
       "product_id": "P025",
-      "product_name": "InsightAI Platform 25",
+      "company_name": "Amazon Web Services",
+      "product_name": "ThreatDetect Cloud",
       "category": "Risk Intelligence",
-      "launch_year": "2018",
-      "annual_revenue_usd": "2325000"
+      "launch_year": "2021",
+      "annual_revenue_usd": "2800000"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.272979+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.582255+00:00",
       "source_confidence": 1.0,
       "origin_system": "File System"
     }
@@ -481,14 +506,15 @@
     "entity_id": "P026",
     "attributes": {
       "product_id": "P026",
-      "product_name": "InsightAI Platform 26",
+      "company_name": "Salesforce",
+      "product_name": "HealthNavigator AI",
       "category": "Healthcare AI",
-      "launch_year": "2019",
-      "annual_revenue_usd": "2370000"
+      "launch_year": "2020",
+      "annual_revenue_usd": "2100000"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.272986+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.582258+00:00",
       "source_confidence": 1.0,
       "origin_system": "File System"
     }
@@ -500,14 +526,15 @@
     "entity_id": "P027",
     "attributes": {
       "product_id": "P027",
-      "product_name": "InsightAI Platform 27",
+      "company_name": "Adobe",
+      "product_name": "InvestIQ AI",
       "category": "FinTech AI",
-      "launch_year": "2020",
-      "annual_revenue_usd": "2415000"
+      "launch_year": "2019",
+      "annual_revenue_usd": "2400000"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.272993+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.582260+00:00",
       "source_confidence": 1.0,
       "origin_system": "File System"
     }
@@ -519,14 +546,15 @@
     "entity_id": "P028",
     "attributes": {
       "product_id": "P028",
-      "product_name": "InsightAI Platform 28",
+      "company_name": "SAP",
+      "product_name": "DataExplorer Suite",
       "category": "AI Analytics",
-      "launch_year": "2021",
-      "annual_revenue_usd": "2460000"
+      "launch_year": "2018",
+      "annual_revenue_usd": "2050000"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.273000+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.582263+00:00",
       "source_confidence": 1.0,
       "origin_system": "File System"
     }
@@ -538,14 +566,15 @@
     "entity_id": "P029",
     "attributes": {
       "product_id": "P029",
-      "product_name": "InsightAI Platform 29",
+      "company_name": "Infosys",
+      "product_name": "RiskMatrix Suite",
       "category": "Risk Intelligence",
       "launch_year": "2022",
-      "annual_revenue_usd": "2505000"
+      "annual_revenue_usd": "3450000"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.273005+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.582266+00:00",
       "source_confidence": 1.0,
       "origin_system": "File System"
     }
@@ -557,14 +586,15 @@
     "entity_id": "P030",
     "attributes": {
       "product_id": "P030",
-      "product_name": "InsightAI Platform 30",
+      "company_name": "TCS",
+      "product_name": "ClinicalAI Pro",
       "category": "Healthcare AI",
-      "launch_year": "2018",
-      "annual_revenue_usd": "2550000"
+      "launch_year": "2021",
+      "annual_revenue_usd": "2250000"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.273012+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.582269+00:00",
       "source_confidence": 1.0,
       "origin_system": "File System"
     }
@@ -576,14 +606,15 @@
     "entity_id": "P031",
     "attributes": {
       "product_id": "P031",
-      "product_name": "InsightAI Platform 31",
+      "company_name": "Wipro",
+      "product_name": "PaySecure AI",
       "category": "FinTech AI",
-      "launch_year": "2019",
-      "annual_revenue_usd": "2595000"
+      "launch_year": "2022",
+      "annual_revenue_usd": "3150000"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.273019+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.582272+00:00",
       "source_confidence": 1.0,
       "origin_system": "File System"
     }
@@ -595,14 +626,15 @@
     "entity_id": "P032",
     "attributes": {
       "product_id": "P032",
-      "product_name": "InsightAI Platform 32",
+      "company_name": "HCLTech",
+      "product_name": "ReportGen Suite",
       "category": "AI Analytics",
-      "launch_year": "2020",
-      "annual_revenue_usd": "2640000"
+      "launch_year": "2019",
+      "annual_revenue_usd": "2300000"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.273026+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.582275+00:00",
       "source_confidence": 1.0,
       "origin_system": "File System"
     }
@@ -614,14 +646,15 @@
     "entity_id": "P033",
     "attributes": {
       "product_id": "P033",
-      "product_name": "InsightAI Platform 33",
+      "company_name": "Accenture",
+      "product_name": "RiskOps AI",
       "category": "Risk Intelligence",
-      "launch_year": "2021",
-      "annual_revenue_usd": "2685000"
+      "launch_year": "2019",
+      "annual_revenue_usd": "2250000"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.273031+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.582277+00:00",
       "source_confidence": 1.0,
       "origin_system": "File System"
     }
@@ -633,14 +666,15 @@
     "entity_id": "P034",
     "attributes": {
       "product_id": "P034",
-      "product_name": "InsightAI Platform 34",
+      "company_name": "Cognizant",
+      "product_name": "CareInsights AI",
       "category": "Healthcare AI",
       "launch_year": "2022",
-      "annual_revenue_usd": "2730000"
+      "annual_revenue_usd": "2400000"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.273037+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.582280+00:00",
       "source_confidence": 1.0,
       "origin_system": "File System"
     }
@@ -652,14 +686,15 @@
     "entity_id": "P035",
     "attributes": {
       "product_id": "P035",
-      "product_name": "InsightAI Platform 35",
+      "company_name": "Capgemini",
+      "product_name": "FinOpsAI Platform",
       "category": "FinTech AI",
-      "launch_year": "2018",
-      "annual_revenue_usd": "2775000"
+      "launch_year": "2020",
+      "annual_revenue_usd": "2600000"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.273042+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.582283+00:00",
       "source_confidence": 1.0,
       "origin_system": "File System"
     }
@@ -671,14 +706,15 @@
     "entity_id": "P036",
     "attributes": {
       "product_id": "P036",
-      "product_name": "InsightAI Platform 36",
+      "company_name": "IBM",
+      "product_name": "AnalyticsEdge Suite",
       "category": "AI Analytics",
-      "launch_year": "2019",
-      "annual_revenue_usd": "2820000"
+      "launch_year": "2020",
+      "annual_revenue_usd": "2800000"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.273047+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.582288+00:00",
       "source_confidence": 1.0,
       "origin_system": "File System"
     }
@@ -690,14 +726,15 @@
     "entity_id": "P037",
     "attributes": {
       "product_id": "P037",
-      "product_name": "InsightAI Platform 37",
+      "company_name": "Oracle",
+      "product_name": "RiskAI Pro",
       "category": "Risk Intelligence",
-      "launch_year": "2020",
-      "annual_revenue_usd": "2865000"
+      "launch_year": "2021",
+      "annual_revenue_usd": "3100000"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.273053+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.582291+00:00",
       "source_confidence": 1.0,
       "origin_system": "File System"
     }
@@ -709,14 +746,15 @@
     "entity_id": "P038",
     "attributes": {
       "product_id": "P038",
-      "product_name": "InsightAI Platform 38",
+      "company_name": "Microsoft",
+      "product_name": "HealthAnalytics Suite",
       "category": "Healthcare AI",
-      "launch_year": "2021",
-      "annual_revenue_usd": "2910000"
+      "launch_year": "2018",
+      "annual_revenue_usd": "1950000"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.273059+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.582294+00:00",
       "source_confidence": 1.0,
       "origin_system": "File System"
     }
@@ -728,14 +766,15 @@
     "entity_id": "P039",
     "attributes": {
       "product_id": "P039",
-      "product_name": "InsightAI Platform 39",
+      "company_name": "Google",
+      "product_name": "PaymentAI Studio",
       "category": "FinTech AI",
-      "launch_year": "2022",
-      "annual_revenue_usd": "2955000"
+      "launch_year": "2019",
+      "annual_revenue_usd": "2700000"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.273064+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.582297+00:00",
       "source_confidence": 1.0,
       "origin_system": "File System"
     }
@@ -747,14 +786,15 @@
     "entity_id": "P040",
     "attributes": {
       "product_id": "P040",
-      "product_name": "InsightAI Platform 40",
+      "company_name": "SAP",
+      "product_name": "DataVision Cloud",
       "category": "AI Analytics",
-      "launch_year": "2018",
-      "annual_revenue_usd": "3000000"
+      "launch_year": "2022",
+      "annual_revenue_usd": "3050000"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.273072+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.582299+00:00",
       "source_confidence": 1.0,
       "origin_system": "File System"
     }
@@ -766,14 +806,15 @@
     "entity_id": "P041",
     "attributes": {
       "product_id": "P041",
-      "product_name": "InsightAI Platform 41",
+      "company_name": "Amazon Web Services",
+      "product_name": "RiskCompliance Pro",
       "category": "Risk Intelligence",
-      "launch_year": "2019",
-      "annual_revenue_usd": "3045000"
+      "launch_year": "2018",
+      "annual_revenue_usd": "2050000"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.273078+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.582302+00:00",
       "source_confidence": 1.0,
       "origin_system": "File System"
     }
@@ -785,14 +826,15 @@
     "entity_id": "P042",
     "attributes": {
       "product_id": "P042",
-      "product_name": "InsightAI Platform 42",
+      "company_name": "Salesforce",
+      "product_name": "MedAnalytics Pro",
       "category": "Healthcare AI",
-      "launch_year": "2020",
-      "annual_revenue_usd": "3090000"
+      "launch_year": "2019",
+      "annual_revenue_usd": "2150000"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.273085+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.582305+00:00",
       "source_confidence": 1.0,
       "origin_system": "File System"
     }
@@ -804,14 +846,15 @@
     "entity_id": "P043",
     "attributes": {
       "product_id": "P043",
-      "product_name": "InsightAI Platform 43",
+      "company_name": "Adobe",
+      "product_name": "FinAnalytics Studio",
       "category": "FinTech AI",
       "launch_year": "2021",
-      "annual_revenue_usd": "3135000"
+      "annual_revenue_usd": "2850000"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.273092+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.582308+00:00",
       "source_confidence": 1.0,
       "origin_system": "File System"
     }
@@ -823,14 +866,15 @@
     "entity_id": "P044",
     "attributes": {
       "product_id": "P044",
-      "product_name": "InsightAI Platform 44",
+      "company_name": "Infosys",
+      "product_name": "InsightEngine Suite",
       "category": "AI Analytics",
-      "launch_year": "2022",
-      "annual_revenue_usd": "3180000"
+      "launch_year": "2018",
+      "annual_revenue_usd": "1980000"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.273099+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.582311+00:00",
       "source_confidence": 1.0,
       "origin_system": "File System"
     }
@@ -842,14 +886,15 @@
     "entity_id": "P045",
     "attributes": {
       "product_id": "P045",
-      "product_name": "InsightAI Platform 45",
+      "company_name": "TCS",
+      "product_name": "RiskPro Plus",
       "category": "Risk Intelligence",
-      "launch_year": "2018",
-      "annual_revenue_usd": "3225000"
+      "launch_year": "2022",
+      "annual_revenue_usd": "3300000"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.273106+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.582315+00:00",
       "source_confidence": 1.0,
       "origin_system": "File System"
     }
@@ -861,14 +906,15 @@
     "entity_id": "P046",
     "attributes": {
       "product_id": "P046",
-      "product_name": "InsightAI Platform 46",
+      "company_name": "Wipro",
+      "product_name": "HealthAI Plus",
       "category": "Healthcare AI",
-      "launch_year": "2019",
-      "annual_revenue_usd": "3270000"
+      "launch_year": "2020",
+      "annual_revenue_usd": "2280000"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.273112+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.582318+00:00",
       "source_confidence": 1.0,
       "origin_system": "File System"
     }
@@ -880,14 +926,15 @@
     "entity_id": "P047",
     "attributes": {
       "product_id": "P047",
-      "product_name": "InsightAI Platform 47",
+      "company_name": "HCLTech",
+      "product_name": "LendingAI Pro",
       "category": "FinTech AI",
-      "launch_year": "2020",
-      "annual_revenue_usd": "3315000"
+      "launch_year": "2022",
+      "annual_revenue_usd": "3400000"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.273118+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.582321+00:00",
       "source_confidence": 1.0,
       "origin_system": "File System"
     }
@@ -899,14 +946,15 @@
     "entity_id": "P048",
     "attributes": {
       "product_id": "P048",
-      "product_name": "InsightAI Platform 48",
+      "company_name": "Accenture",
+      "product_name": "AnalyticsCloud Suite",
       "category": "AI Analytics",
       "launch_year": "2021",
-      "annual_revenue_usd": "3360000"
+      "annual_revenue_usd": "2950000"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.273123+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.582324+00:00",
       "source_confidence": 1.0,
       "origin_system": "File System"
     }
@@ -918,14 +966,15 @@
     "entity_id": "P049",
     "attributes": {
       "product_id": "P049",
-      "product_name": "InsightAI Platform 49",
+      "company_name": "Cognizant",
+      "product_name": "RiskVision AI",
       "category": "Risk Intelligence",
-      "launch_year": "2022",
-      "annual_revenue_usd": "3405000"
+      "launch_year": "2019",
+      "annual_revenue_usd": "2400000"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.273130+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.582327+00:00",
       "source_confidence": 1.0,
       "origin_system": "File System"
     }
@@ -937,14 +986,15 @@
     "entity_id": "P050",
     "attributes": {
       "product_id": "P050",
-      "product_name": "InsightAI Platform 50",
+      "company_name": "Capgemini",
+      "product_name": "HealthPro AI",
       "category": "Healthcare AI",
-      "launch_year": "2018",
-      "annual_revenue_usd": "3450000"
+      "launch_year": "2021",
+      "annual_revenue_usd": "2500000"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.273135+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.582330+00:00",
       "source_confidence": 1.0,
       "origin_system": "File System"
     }

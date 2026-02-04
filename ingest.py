@@ -5,7 +5,7 @@ import datetime
 import uuid
 import hashlib
 
-DATA_DIR = r"C:\Users\Admin\Downloads\ai enterprise"
+DATA_DIR = os.path.dirname(os.path.abspath(__file__))
 OUTPUT_DIR = os.path.join(DATA_DIR, "output")
 STRUCTURED_DIR = os.path.join(DATA_DIR, "structured")
 SEMI_STRUCTURED_DIR = os.path.join(DATA_DIR, "semi_structured")

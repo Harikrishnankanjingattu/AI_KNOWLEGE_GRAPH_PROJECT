@@ -6,14 +6,14 @@
     "entity_id": "TCK001",
     "attributes": {
       "ticket_id": "TCK001",
-      "product_name": "InsightAI Platform 2",
+      "product_name": "MedSense AI",
       "issue_summary": "Model latency observed during peak transaction hours",
       "priority": "Medium",
       "status": "In Progress"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.309453+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.591119+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -25,14 +25,14 @@
     "entity_id": "TCK002",
     "attributes": {
       "ticket_id": "TCK002",
-      "product_name": "InsightAI Platform 3",
-      "issue_summary": "Model latency observed during peak transaction hours",
+      "product_name": "PayGuard AI",
+      "issue_summary": "Data ingestion failure from external API",
       "priority": "Low",
       "status": "Resolved"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.309496+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.591130+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -44,14 +44,14 @@
     "entity_id": "TCK003",
     "attributes": {
       "ticket_id": "TCK003",
-      "product_name": "InsightAI Platform 4",
-      "issue_summary": "Model latency observed during peak transaction hours",
+      "product_name": "DataLens Analytics",
+      "issue_summary": "Dashboard not loading for multiple users",
       "priority": "High",
       "status": "Open"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.309506+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.591134+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -63,14 +63,14 @@
     "entity_id": "TCK004",
     "attributes": {
       "ticket_id": "TCK004",
-      "product_name": "InsightAI Platform 5",
-      "issue_summary": "Model latency observed during peak transaction hours",
+      "product_name": "RiskPulse Pro",
+      "issue_summary": "Incorrect risk scoring for new customers",
       "priority": "Medium",
       "status": "In Progress"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.309516+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.591137+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -82,14 +82,14 @@
     "entity_id": "TCK005",
     "attributes": {
       "ticket_id": "TCK005",
-      "product_name": "InsightAI Platform 6",
-      "issue_summary": "Model latency observed during peak transaction hours",
+      "product_name": "HealthWave AI",
+      "issue_summary": "Model accuracy drop after new data update",
       "priority": "Low",
       "status": "Resolved"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.309525+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.591140+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -101,14 +101,14 @@
     "entity_id": "TCK006",
     "attributes": {
       "ticket_id": "TCK006",
-      "product_name": "InsightAI Platform 7",
-      "issue_summary": "Model latency observed during peak transaction hours",
+      "product_name": "LoanPredict AI",
+      "issue_summary": "Feature store sync failure",
       "priority": "High",
       "status": "Open"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.309534+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.591143+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -120,14 +120,14 @@
     "entity_id": "TCK007",
     "attributes": {
       "ticket_id": "TCK007",
-      "product_name": "InsightAI Platform 8",
-      "issue_summary": "Model latency observed during peak transaction hours",
+      "product_name": "InsightViz Analytics",
+      "issue_summary": "Slow query response on dashboard",
       "priority": "Medium",
       "status": "In Progress"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.309543+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.591145+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -139,14 +139,14 @@
     "entity_id": "TCK008",
     "attributes": {
       "ticket_id": "TCK008",
-      "product_name": "InsightAI Platform 9",
-      "issue_summary": "Model latency observed during peak transaction hours",
+      "product_name": "SecureRisk Suite",
+      "issue_summary": "Alerts not triggering for high-risk events",
       "priority": "Low",
       "status": "Resolved"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.309551+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.591148+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -158,14 +158,14 @@
     "entity_id": "TCK009",
     "attributes": {
       "ticket_id": "TCK009",
-      "product_name": "InsightAI Platform 10",
-      "issue_summary": "Model latency observed during peak transaction hours",
+      "product_name": "CareAssist AI",
+      "issue_summary": "Chatbot not responding to specific intents",
       "priority": "High",
       "status": "Open"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.309559+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.591151+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -177,14 +177,14 @@
     "entity_id": "TCK010",
     "attributes": {
       "ticket_id": "TCK010",
-      "product_name": "InsightAI Platform 1",
-      "issue_summary": "Model latency observed during peak transaction hours",
+      "product_name": "TradeFlow AI",
+      "issue_summary": "Payment reconciliation mismatch",
       "priority": "Medium",
       "status": "In Progress"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.309588+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.591154+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -196,14 +196,14 @@
     "entity_id": "TCK011",
     "attributes": {
       "ticket_id": "TCK011",
-      "product_name": "InsightAI Platform 2",
-      "issue_summary": "Model latency observed during peak transaction hours",
+      "product_name": "DeepAnalytics Pro",
+      "issue_summary": "Missing data in exported reports",
       "priority": "Low",
       "status": "Resolved"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.309599+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.591156+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -215,14 +215,14 @@
     "entity_id": "TCK012",
     "attributes": {
       "ticket_id": "TCK012",
-      "product_name": "InsightAI Platform 3",
-      "issue_summary": "Model latency observed during peak transaction hours",
+      "product_name": "RiskGuardian AI",
+      "issue_summary": "Model retraining job failing",
       "priority": "High",
       "status": "Open"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.309606+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.591159+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -234,14 +234,14 @@
     "entity_id": "TCK013",
     "attributes": {
       "ticket_id": "TCK013",
-      "product_name": "InsightAI Platform 4",
-      "issue_summary": "Model latency observed during peak transaction hours",
+      "product_name": "HealthGuard AI",
+      "issue_summary": "Latency spike during peak hours",
       "priority": "Medium",
       "status": "In Progress"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.309613+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.591162+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -253,14 +253,14 @@
     "entity_id": "TCK014",
     "attributes": {
       "ticket_id": "TCK014",
-      "product_name": "InsightAI Platform 5",
-      "issue_summary": "Model latency observed during peak transaction hours",
+      "product_name": "FinTrack AI",
+      "issue_summary": "Incorrect financial forecast outputs",
       "priority": "Low",
       "status": "Resolved"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.309620+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.591164+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -272,14 +272,14 @@
     "entity_id": "TCK015",
     "attributes": {
       "ticket_id": "TCK015",
-      "product_name": "InsightAI Platform 6",
-      "issue_summary": "Model latency observed during peak transaction hours",
+      "product_name": "AnalyticsX Suite",
+      "issue_summary": "Service downtime during deployment",
       "priority": "High",
       "status": "Open"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.309626+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.591167+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -291,14 +291,14 @@
     "entity_id": "TCK016",
     "attributes": {
       "ticket_id": "TCK016",
-      "product_name": "InsightAI Platform 7",
-      "issue_summary": "Model latency observed during peak transaction hours",
+      "product_name": "RiskIQ Platform",
+      "issue_summary": "Unexpected errors in API response",
       "priority": "Medium",
       "status": "In Progress"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.309634+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.591170+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -310,14 +310,14 @@
     "entity_id": "TCK017",
     "attributes": {
       "ticket_id": "TCK017",
-      "product_name": "InsightAI Platform 8",
-      "issue_summary": "Model latency observed during peak transaction hours",
+      "product_name": "MedAI Care",
+      "issue_summary": "Integration failure with hospital EMR",
       "priority": "Low",
       "status": "Resolved"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.309641+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.591172+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -329,14 +329,14 @@
     "entity_id": "TCK018",
     "attributes": {
       "ticket_id": "TCK018",
-      "product_name": "InsightAI Platform 9",
-      "issue_summary": "Model latency observed during peak transaction hours",
+      "product_name": "PaySmart AI",
+      "issue_summary": "Model drift detected in production",
       "priority": "High",
       "status": "Open"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.309648+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.591175+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -348,14 +348,14 @@
     "entity_id": "TCK019",
     "attributes": {
       "ticket_id": "TCK019",
-      "product_name": "InsightAI Platform 10",
-      "issue_summary": "Model latency observed during peak transaction hours",
+      "product_name": "VisionAnalytics",
+      "issue_summary": "Report generation timeout",
       "priority": "Medium",
       "status": "In Progress"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.309656+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.591178+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -367,14 +367,14 @@
     "entity_id": "TCK020",
     "attributes": {
       "ticket_id": "TCK020",
-      "product_name": "InsightAI Platform 1",
-      "issue_summary": "Model latency observed during peak transaction hours",
+      "product_name": "RiskControl Pro",
+      "issue_summary": "User access issue for admin role",
       "priority": "Low",
       "status": "Resolved"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.309663+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.591181+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -386,14 +386,14 @@
     "entity_id": "TCK021",
     "attributes": {
       "ticket_id": "TCK021",
-      "product_name": "InsightAI Platform 2",
-      "issue_summary": "Model latency observed during peak transaction hours",
+      "product_name": "HealthOps AI",
+      "issue_summary": "Data pipeline delay during nightly batch",
       "priority": "High",
       "status": "Open"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.309670+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.591183+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -405,14 +405,14 @@
     "entity_id": "TCK022",
     "attributes": {
       "ticket_id": "TCK022",
-      "product_name": "InsightAI Platform 3",
-      "issue_summary": "Model latency observed during peak transaction hours",
+      "product_name": "FinAI Insights",
+      "issue_summary": "Incorrect anomaly detection alerts",
       "priority": "Medium",
       "status": "In Progress"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.309676+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.591186+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -424,14 +424,14 @@
     "entity_id": "TCK023",
     "attributes": {
       "ticket_id": "TCK023",
-      "product_name": "InsightAI Platform 4",
-      "issue_summary": "Model latency observed during peak transaction hours",
+      "product_name": "DataX Analytics",
+      "issue_summary": "Data mismatch between dashboards",
       "priority": "Low",
       "status": "Resolved"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.309683+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.591188+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -443,14 +443,14 @@
     "entity_id": "TCK024",
     "attributes": {
       "ticket_id": "TCK024",
-      "product_name": "InsightAI Platform 5",
-      "issue_summary": "Model latency observed during peak transaction hours",
+      "product_name": "RiskMonitor AI",
+      "issue_summary": "Model version rollback needed",
       "priority": "High",
       "status": "Open"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.309691+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.591191+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -462,14 +462,14 @@
     "entity_id": "TCK025",
     "attributes": {
       "ticket_id": "TCK025",
-      "product_name": "InsightAI Platform 6",
-      "issue_summary": "Model latency observed during peak transaction hours",
+      "product_name": "ClinicAI Suite",
+      "issue_summary": "Patient record sync failure",
       "priority": "Medium",
       "status": "In Progress"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.309698+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.591194+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -481,14 +481,14 @@
     "entity_id": "TCK026",
     "attributes": {
       "ticket_id": "TCK026",
-      "product_name": "InsightAI Platform 7",
-      "issue_summary": "Model latency observed during peak transaction hours",
+      "product_name": "FinanceGuard AI",
+      "issue_summary": "Missing audit logs for transactions",
       "priority": "Low",
       "status": "Resolved"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.309706+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.591196+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -500,14 +500,14 @@
     "entity_id": "TCK027",
     "attributes": {
       "ticket_id": "TCK027",
-      "product_name": "InsightAI Platform 8",
-      "issue_summary": "Model latency observed during peak transaction hours",
+      "product_name": "AnalyticsPro Plus",
+      "issue_summary": "Dashboard charts showing wrong values",
       "priority": "High",
       "status": "Open"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.309713+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.591199+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -519,14 +519,14 @@
     "entity_id": "TCK028",
     "attributes": {
       "ticket_id": "TCK028",
-      "product_name": "InsightAI Platform 9",
-      "issue_summary": "Model latency observed during peak transaction hours",
+      "product_name": "RiskSense AI",
+      "issue_summary": "High memory usage in microservice",
       "priority": "Medium",
       "status": "In Progress"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.309720+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.591202+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -538,14 +538,14 @@
     "entity_id": "TCK029",
     "attributes": {
       "ticket_id": "TCK029",
-      "product_name": "InsightAI Platform 10",
-      "issue_summary": "Model latency observed during peak transaction hours",
+      "product_name": "HealthIntel AI",
+      "issue_summary": "Delayed notifications for critical events",
       "priority": "Low",
       "status": "Resolved"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.309726+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.591204+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -557,14 +557,14 @@
     "entity_id": "TCK030",
     "attributes": {
       "ticket_id": "TCK030",
-      "product_name": "InsightAI Platform 1",
-      "issue_summary": "Model latency observed during peak transaction hours",
+      "product_name": "FinOps AI",
+      "issue_summary": "Failed scheduled jobs after update",
       "priority": "High",
       "status": "Open"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.309733+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.591207+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -576,14 +576,14 @@
     "entity_id": "TCK031",
     "attributes": {
       "ticket_id": "TCK031",
-      "product_name": "InsightAI Platform 2",
-      "issue_summary": "Model latency observed during peak transaction hours",
+      "product_name": "SmartAnalytics AI",
+      "issue_summary": "API latency issue during peak traffic",
       "priority": "Medium",
       "status": "In Progress"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.309741+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.591210+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -595,14 +595,14 @@
     "entity_id": "TCK032",
     "attributes": {
       "ticket_id": "TCK032",
-      "product_name": "InsightAI Platform 3",
-      "issue_summary": "Model latency observed during peak transaction hours",
+      "product_name": "RiskAlert Pro",
+      "issue_summary": "False positive alerts for low-risk events",
       "priority": "Low",
       "status": "Resolved"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.309749+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.591216+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -614,14 +614,14 @@
     "entity_id": "TCK033",
     "attributes": {
       "ticket_id": "TCK033",
-      "product_name": "InsightAI Platform 4",
-      "issue_summary": "Model latency observed during peak transaction hours",
+      "product_name": "MedInsight AI",
+      "issue_summary": "Data ingestion error from CSV upload",
       "priority": "High",
       "status": "Open"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.309756+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.591219+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -633,14 +633,14 @@
     "entity_id": "TCK034",
     "attributes": {
       "ticket_id": "TCK034",
-      "product_name": "InsightAI Platform 5",
-      "issue_summary": "Model latency observed during peak transaction hours",
+      "product_name": "FinWise AI",
+      "issue_summary": "Dashboard filters not working correctly",
       "priority": "Medium",
       "status": "In Progress"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.309765+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.591222+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -652,14 +652,14 @@
     "entity_id": "TCK035",
     "attributes": {
       "ticket_id": "TCK035",
-      "product_name": "InsightAI Platform 6",
-      "issue_summary": "Model latency observed during peak transaction hours",
+      "product_name": "AnalyticsEdge",
+      "issue_summary": "Missing KPIs in monthly report",
       "priority": "Low",
       "status": "Resolved"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.309772+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.591225+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -671,14 +671,14 @@
     "entity_id": "TCK036",
     "attributes": {
       "ticket_id": "TCK036",
-      "product_name": "InsightAI Platform 7",
-      "issue_summary": "Model latency observed during peak transaction hours",
+      "product_name": "RiskAnalytics AI",
+      "issue_summary": "Model training job stuck in queue",
       "priority": "High",
       "status": "Open"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.309778+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.591227+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -690,14 +690,14 @@
     "entity_id": "TCK037",
     "attributes": {
       "ticket_id": "TCK037",
-      "product_name": "InsightAI Platform 8",
-      "issue_summary": "Model latency observed during peak transaction hours",
+      "product_name": "HealthAI Navigator",
+      "issue_summary": "Search results not showing all records",
       "priority": "Medium",
       "status": "In Progress"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.309785+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.591230+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -709,14 +709,14 @@
     "entity_id": "TCK038",
     "attributes": {
       "ticket_id": "TCK038",
-      "product_name": "InsightAI Platform 9",
-      "issue_summary": "Model latency observed during peak transaction hours",
+      "product_name": "PayAI Suite",
+      "issue_summary": "Payment gateway integration error",
       "priority": "Low",
       "status": "Resolved"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.309792+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.591233+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -728,14 +728,14 @@
     "entity_id": "TCK039",
     "attributes": {
       "ticket_id": "TCK039",
-      "product_name": "InsightAI Platform 10",
-      "issue_summary": "Model latency observed during peak transaction hours",
+      "product_name": "DataVision Pro",
+      "issue_summary": "High CPU usage in analytics engine",
       "priority": "High",
       "status": "Open"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.309799+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.591235+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -747,14 +747,14 @@
     "entity_id": "TCK040",
     "attributes": {
       "ticket_id": "TCK040",
-      "product_name": "InsightAI Platform 1",
-      "issue_summary": "Model latency observed during peak transaction hours",
+      "product_name": "RiskPredict AI",
+      "issue_summary": "Incorrect risk score after model update",
       "priority": "Medium",
       "status": "In Progress"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.309807+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.591238+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -766,14 +766,14 @@
     "entity_id": "TCK041",
     "attributes": {
       "ticket_id": "TCK041",
-      "product_name": "InsightAI Platform 2",
-      "issue_summary": "Model latency observed during peak transaction hours",
+      "product_name": "HealthAI Guardian",
+      "issue_summary": "Data sync failure across regions",
       "priority": "Low",
       "status": "Resolved"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.309820+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.591241+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -785,14 +785,14 @@
     "entity_id": "TCK042",
     "attributes": {
       "ticket_id": "TCK042",
-      "product_name": "InsightAI Platform 3",
-      "issue_summary": "Model latency observed during peak transaction hours",
+      "product_name": "FinRisk AI",
+      "issue_summary": "Unexpected crash in backend service",
       "priority": "High",
       "status": "Open"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.309829+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.591243+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -804,14 +804,14 @@
     "entity_id": "TCK043",
     "attributes": {
       "ticket_id": "TCK043",
-      "product_name": "InsightAI Platform 4",
-      "issue_summary": "Model latency observed during peak transaction hours",
+      "product_name": "AnalyticsCloud",
+      "issue_summary": "Incorrect dashboard refresh rate",
       "priority": "Medium",
       "status": "In Progress"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.309838+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.591246+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -823,14 +823,14 @@
     "entity_id": "TCK044",
     "attributes": {
       "ticket_id": "TCK044",
-      "product_name": "InsightAI Platform 5",
-      "issue_summary": "Model latency observed during peak transaction hours",
+      "product_name": "RiskX Pro",
+      "issue_summary": "Alerts missing for priority customers",
       "priority": "Low",
       "status": "Resolved"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.309846+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.591249+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -842,14 +842,14 @@
     "entity_id": "TCK045",
     "attributes": {
       "ticket_id": "TCK045",
-      "product_name": "InsightAI Platform 6",
-      "issue_summary": "Model latency observed during peak transaction hours",
+      "product_name": "HealthFlow AI",
+      "issue_summary": "Patient data mismatch in reports",
       "priority": "High",
       "status": "Open"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.309854+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.591252+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -861,14 +861,14 @@
     "entity_id": "TCK046",
     "attributes": {
       "ticket_id": "TCK046",
-      "product_name": "InsightAI Platform 7",
-      "issue_summary": "Model latency observed during peak transaction hours",
+      "product_name": "FinServe AI",
+      "issue_summary": "API authentication failure",
       "priority": "Medium",
       "status": "In Progress"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.309862+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.591255+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -880,14 +880,14 @@
     "entity_id": "TCK047",
     "attributes": {
       "ticket_id": "TCK047",
-      "product_name": "InsightAI Platform 8",
-      "issue_summary": "Model latency observed during peak transaction hours",
+      "product_name": "DataSmart Analytics",
+      "issue_summary": "Delayed data updates in dashboards",
       "priority": "Low",
       "status": "Resolved"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.309869+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.591257+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -899,14 +899,14 @@
     "entity_id": "TCK048",
     "attributes": {
       "ticket_id": "TCK048",
-      "product_name": "InsightAI Platform 9",
-      "issue_summary": "Model latency observed during peak transaction hours",
+      "product_name": "RiskOps AI",
+      "issue_summary": "Model performance degradation over time",
       "priority": "High",
       "status": "Open"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.309876+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.591260+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -918,14 +918,14 @@
     "entity_id": "TCK049",
     "attributes": {
       "ticket_id": "TCK049",
-      "product_name": "InsightAI Platform 10",
-      "issue_summary": "Model latency observed during peak transaction hours",
+      "product_name": "HealthCare AI Suite",
+      "issue_summary": "User session timeout issue",
       "priority": "Medium",
       "status": "In Progress"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.309883+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.591263+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -937,14 +937,14 @@
     "entity_id": "TCK050",
     "attributes": {
       "ticket_id": "TCK050",
-      "product_name": "InsightAI Platform 1",
-      "issue_summary": "Model latency observed during peak transaction hours",
+      "product_name": "DataLens Analytics",
+      "issue_summary": "Data export feature failing",
       "priority": "Low",
       "status": "Resolved"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.309891+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.591266+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }

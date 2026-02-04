@@ -1,51 +1,51 @@
 ticket_id,product_name,issue_summary,priority,status
-TCK001,InsightAI Platform 2,Model latency observed during peak transaction hours,Medium,In Progress
-TCK002,InsightAI Platform 3,Model latency observed during peak transaction hours,Low,Resolved
-TCK003,InsightAI Platform 4,Model latency observed during peak transaction hours,High,Open
-TCK004,InsightAI Platform 5,Model latency observed during peak transaction hours,Medium,In Progress
-TCK005,InsightAI Platform 6,Model latency observed during peak transaction hours,Low,Resolved
-TCK006,InsightAI Platform 7,Model latency observed during peak transaction hours,High,Open
-TCK007,InsightAI Platform 8,Model latency observed during peak transaction hours,Medium,In Progress
-TCK008,InsightAI Platform 9,Model latency observed during peak transaction hours,Low,Resolved
-TCK009,InsightAI Platform 10,Model latency observed during peak transaction hours,High,Open
-TCK010,InsightAI Platform 1,Model latency observed during peak transaction hours,Medium,In Progress
-TCK011,InsightAI Platform 2,Model latency observed during peak transaction hours,Low,Resolved
-TCK012,InsightAI Platform 3,Model latency observed during peak transaction hours,High,Open
-TCK013,InsightAI Platform 4,Model latency observed during peak transaction hours,Medium,In Progress
-TCK014,InsightAI Platform 5,Model latency observed during peak transaction hours,Low,Resolved
-TCK015,InsightAI Platform 6,Model latency observed during peak transaction hours,High,Open
-TCK016,InsightAI Platform 7,Model latency observed during peak transaction hours,Medium,In Progress
-TCK017,InsightAI Platform 8,Model latency observed during peak transaction hours,Low,Resolved
-TCK018,InsightAI Platform 9,Model latency observed during peak transaction hours,High,Open
-TCK019,InsightAI Platform 10,Model latency observed during peak transaction hours,Medium,In Progress
-TCK020,InsightAI Platform 1,Model latency observed during peak transaction hours,Low,Resolved
-TCK021,InsightAI Platform 2,Model latency observed during peak transaction hours,High,Open
-TCK022,InsightAI Platform 3,Model latency observed during peak transaction hours,Medium,In Progress
-TCK023,InsightAI Platform 4,Model latency observed during peak transaction hours,Low,Resolved
-TCK024,InsightAI Platform 5,Model latency observed during peak transaction hours,High,Open
-TCK025,InsightAI Platform 6,Model latency observed during peak transaction hours,Medium,In Progress
-TCK026,InsightAI Platform 7,Model latency observed during peak transaction hours,Low,Resolved
-TCK027,InsightAI Platform 8,Model latency observed during peak transaction hours,High,Open
-TCK028,InsightAI Platform 9,Model latency observed during peak transaction hours,Medium,In Progress
-TCK029,InsightAI Platform 10,Model latency observed during peak transaction hours,Low,Resolved
-TCK030,InsightAI Platform 1,Model latency observed during peak transaction hours,High,Open
-TCK031,InsightAI Platform 2,Model latency observed during peak transaction hours,Medium,In Progress
-TCK032,InsightAI Platform 3,Model latency observed during peak transaction hours,Low,Resolved
-TCK033,InsightAI Platform 4,Model latency observed during peak transaction hours,High,Open
-TCK034,InsightAI Platform 5,Model latency observed during peak transaction hours,Medium,In Progress
-TCK035,InsightAI Platform 6,Model latency observed during peak transaction hours,Low,Resolved
-TCK036,InsightAI Platform 7,Model latency observed during peak transaction hours,High,Open
-TCK037,InsightAI Platform 8,Model latency observed during peak transaction hours,Medium,In Progress
-TCK038,InsightAI Platform 9,Model latency observed during peak transaction hours,Low,Resolved
-TCK039,InsightAI Platform 10,Model latency observed during peak transaction hours,High,Open
-TCK040,InsightAI Platform 1,Model latency observed during peak transaction hours,Medium,In Progress
-TCK041,InsightAI Platform 2,Model latency observed during peak transaction hours,Low,Resolved
-TCK042,InsightAI Platform 3,Model latency observed during peak transaction hours,High,Open
-TCK043,InsightAI Platform 4,Model latency observed during peak transaction hours,Medium,In Progress
-TCK044,InsightAI Platform 5,Model latency observed during peak transaction hours,Low,Resolved
-TCK045,InsightAI Platform 6,Model latency observed during peak transaction hours,High,Open
-TCK046,InsightAI Platform 7,Model latency observed during peak transaction hours,Medium,In Progress
-TCK047,InsightAI Platform 8,Model latency observed during peak transaction hours,Low,Resolved
-TCK048,InsightAI Platform 9,Model latency observed during peak transaction hours,High,Open
-TCK049,InsightAI Platform 10,Model latency observed during peak transaction hours,Medium,In Progress
-TCK050,InsightAI Platform 1,Model latency observed during peak transaction hours,Low,Resolved
+TCK001,MedSense AI,Model latency observed during peak transaction hours,Medium,In Progress
+TCK002,PayGuard AI,Data ingestion failure from external API,Low,Resolved
+TCK003,DataLens Analytics,Dashboard not loading for multiple users,High,Open
+TCK004,RiskPulse Pro,Incorrect risk scoring for new customers,Medium,In Progress
+TCK005,HealthWave AI,Model accuracy drop after new data update,Low,Resolved
+TCK006,LoanPredict AI,Feature store sync failure,High,Open
+TCK007,InsightViz Analytics,Slow query response on dashboard,Medium,In Progress
+TCK008,SecureRisk Suite,Alerts not triggering for high-risk events,Low,Resolved
+TCK009,CareAssist AI,Chatbot not responding to specific intents,High,Open
+TCK010,TradeFlow AI,Payment reconciliation mismatch,Medium,In Progress
+TCK011,DeepAnalytics Pro,Missing data in exported reports,Low,Resolved
+TCK012,RiskGuardian AI,Model retraining job failing,High,Open
+TCK013,HealthGuard AI,Latency spike during peak hours,Medium,In Progress
+TCK014,FinTrack AI,Incorrect financial forecast outputs,Low,Resolved
+TCK015,AnalyticsX Suite,Service downtime during deployment,High,Open
+TCK016,RiskIQ Platform,Unexpected errors in API response,Medium,In Progress
+TCK017,MedAI Care,Integration failure with hospital EMR,Low,Resolved
+TCK018,PaySmart AI,Model drift detected in production,High,Open
+TCK019,VisionAnalytics,Report generation timeout,Medium,In Progress
+TCK020,RiskControl Pro,User access issue for admin role,Low,Resolved
+TCK021,HealthOps AI,Data pipeline delay during nightly batch,High,Open
+TCK022,FinAI Insights,Incorrect anomaly detection alerts,Medium,In Progress
+TCK023,DataX Analytics,Data mismatch between dashboards,Low,Resolved
+TCK024,RiskMonitor AI,Model version rollback needed,High,Open
+TCK025,ClinicAI Suite,Patient record sync failure,Medium,In Progress
+TCK026,FinanceGuard AI,Missing audit logs for transactions,Low,Resolved
+TCK027,AnalyticsPro Plus,Dashboard charts showing wrong values,High,Open
+TCK028,RiskSense AI,High memory usage in microservice,Medium,In Progress
+TCK029,HealthIntel AI,Delayed notifications for critical events,Low,Resolved
+TCK030,FinOps AI,Failed scheduled jobs after update,High,Open
+TCK031,SmartAnalytics AI,API latency issue during peak traffic,Medium,In Progress
+TCK032,RiskAlert Pro,False positive alerts for low-risk events,Low,Resolved
+TCK033,MedInsight AI,Data ingestion error from CSV upload,High,Open
+TCK034,FinWise AI,Dashboard filters not working correctly,Medium,In Progress
+TCK035,AnalyticsEdge,Missing KPIs in monthly report,Low,Resolved
+TCK036,RiskAnalytics AI,Model training job stuck in queue,High,Open
+TCK037,HealthAI Navigator,Search results not showing all records,Medium,In Progress
+TCK038,PayAI Suite,Payment gateway integration error,Low,Resolved
+TCK039,DataVision Pro,High CPU usage in analytics engine,High,Open
+TCK040,RiskPredict AI,Incorrect risk score after model update,Medium,In Progress
+TCK041,HealthAI Guardian,Data sync failure across regions,Low,Resolved
+TCK042,FinRisk AI,Unexpected crash in backend service,High,Open
+TCK043,AnalyticsCloud,Incorrect dashboard refresh rate,Medium,In Progress
+TCK044,RiskX Pro,Alerts missing for priority customers,Low,Resolved
+TCK045,HealthFlow AI,Patient data mismatch in reports,High,Open
+TCK046,FinServe AI,API authentication failure,Medium,In Progress
+TCK047,DataSmart Analytics,Delayed data updates in dashboards,Low,Resolved
+TCK048,RiskOps AI,Model performance degradation over time,High,Open
+TCK049,HealthCare AI Suite,User session timeout issue,Medium,In Progress
+TCK050,DataLens Analytics,Data export feature failing,Low,Resolved

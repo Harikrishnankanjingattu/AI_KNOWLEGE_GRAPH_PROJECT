@@ -3,18 +3,19 @@
     "source_type": "structured",
     "source_name": "projects.csv",
     "entity_type": "Project",
-    "entity_id": "PRO-418f5d49",
+    "entity_id": "PRO-179d4284",
     "attributes": {
       "project_id": "PRJ001",
+      "company_name": "Infosys",
       "project_name": "Enterprise AI Deployment 1",
-      "product_name": "InsightAI Platform 2",
-      "start_date": "2024-01-15",
-      "end_date": "2025-06-30",
+      "product_name": "NexaRisk Guard",
+      "start_date": "2023-01-10",
+      "end_date": "2023-12-20",
       "status": "Completed"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.280915+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.583797+00:00",
       "source_confidence": 1.0,
       "origin_system": "File System"
     }
@@ -23,18 +24,19 @@
     "source_type": "structured",
     "source_name": "projects.csv",
     "entity_type": "Project",
-    "entity_id": "PRO-9ee4dbec",
+    "entity_id": "PRO-63258e44",
     "attributes": {
       "project_id": "PRJ002",
+      "company_name": "TCS",
       "project_name": "Enterprise AI Deployment 2",
-      "product_name": "InsightAI Platform 3",
-      "start_date": "2024-01-15",
-      "end_date": "2025-06-30",
-      "status": "On Hold"
+      "product_name": "HealthAssist AI",
+      "start_date": "2023-03-15",
+      "end_date": "2024-02-28",
+      "status": "Active"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.280970+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.583820+00:00",
       "source_confidence": 1.0,
       "origin_system": "File System"
     }
@@ -43,18 +45,19 @@
     "source_type": "structured",
     "source_name": "projects.csv",
     "entity_type": "Project",
-    "entity_id": "PRO-a421a455",
+    "entity_id": "PRO-e708cffa",
     "attributes": {
       "project_id": "PRJ003",
+      "company_name": "Wipro",
       "project_name": "Enterprise AI Deployment 3",
-      "product_name": "InsightAI Platform 4",
-      "start_date": "2024-01-15",
-      "end_date": "2025-06-30",
-      "status": "Active"
+      "product_name": "FinSecure AI",
+      "start_date": "2023-02-20",
+      "end_date": "2024-03-15",
+      "status": "On Hold"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.280998+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.583831+00:00",
       "source_confidence": 1.0,
       "origin_system": "File System"
     }
@@ -63,18 +66,19 @@
     "source_type": "structured",
     "source_name": "projects.csv",
     "entity_type": "Project",
-    "entity_id": "PRO-cc02cde1",
+    "entity_id": "PRO-d65e64f5",
     "attributes": {
       "project_id": "PRJ004",
+      "company_name": "HCLTech",
       "project_name": "Enterprise AI Deployment 4",
-      "product_name": "InsightAI Platform 5",
-      "start_date": "2024-01-15",
-      "end_date": "2025-06-30",
+      "product_name": "DataLens Core",
+      "start_date": "2023-04-01",
+      "end_date": "2024-01-30",
       "status": "Completed"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.281021+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.583839+00:00",
       "source_confidence": 1.0,
       "origin_system": "File System"
     }
@@ -83,18 +87,19 @@
     "source_type": "structured",
     "source_name": "projects.csv",
     "entity_type": "Project",
-    "entity_id": "PRO-ab2bc14b",
+    "entity_id": "PRO-30038bda",
     "attributes": {
       "project_id": "PRJ005",
+      "company_name": "Accenture",
       "project_name": "Enterprise AI Deployment 5",
-      "product_name": "InsightAI Platform 6",
-      "start_date": "2024-01-15",
-      "end_date": "2025-06-30",
-      "status": "On Hold"
+      "product_name": "ThreatWatch Pro",
+      "start_date": "2023-05-12",
+      "end_date": "2024-06-01",
+      "status": "Active"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.281042+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.583847+00:00",
       "source_confidence": 1.0,
       "origin_system": "File System"
     }
@@ -103,18 +108,19 @@
     "source_type": "structured",
     "source_name": "projects.csv",
     "entity_type": "Project",
-    "entity_id": "PRO-3f299268",
+    "entity_id": "PRO-d9a62267",
     "attributes": {
       "project_id": "PRJ006",
+      "company_name": "Cognizant",
       "project_name": "Enterprise AI Deployment 6",
-      "product_name": "InsightAI Platform 7",
-      "start_date": "2024-01-15",
-      "end_date": "2025-06-30",
-      "status": "Active"
+      "product_name": "CareBot AI",
+      "start_date": "2023-06-05",
+      "end_date": "2024-05-20",
+      "status": "On Hold"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.281062+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.583855+00:00",
       "source_confidence": 1.0,
       "origin_system": "File System"
     }
@@ -123,18 +129,19 @@
     "source_type": "structured",
     "source_name": "projects.csv",
     "entity_type": "Project",
-    "entity_id": "PRO-a5cdc37e",
+    "entity_id": "PRO-603c5808",
     "attributes": {
       "project_id": "PRJ007",
+      "company_name": "Capgemini",
       "project_name": "Enterprise AI Deployment 7",
-      "product_name": "InsightAI Platform 8",
-      "start_date": "2024-01-15",
-      "end_date": "2025-06-30",
+      "product_name": "PayFlow AI",
+      "start_date": "2023-07-18",
+      "end_date": "2024-06-30",
       "status": "Completed"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.281082+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.583863+00:00",
       "source_confidence": 1.0,
       "origin_system": "File System"
     }
@@ -143,18 +150,19 @@
     "source_type": "structured",
     "source_name": "projects.csv",
     "entity_type": "Project",
-    "entity_id": "PRO-a8fef277",
+    "entity_id": "PRO-459c22b6",
     "attributes": {
       "project_id": "PRJ008",
+      "company_name": "IBM",
       "project_name": "Enterprise AI Deployment 8",
-      "product_name": "InsightAI Platform 9",
-      "start_date": "2024-01-15",
-      "end_date": "2025-06-30",
-      "status": "On Hold"
+      "product_name": "Insight360 Analytics",
+      "start_date": "2023-08-02",
+      "end_date": "2024-07-15",
+      "status": "Active"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.281101+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.583870+00:00",
       "source_confidence": 1.0,
       "origin_system": "File System"
     }
@@ -163,18 +171,19 @@
     "source_type": "structured",
     "source_name": "projects.csv",
     "entity_type": "Project",
-    "entity_id": "PRO-d6187dbf",
+    "entity_id": "PRO-a37e5668",
     "attributes": {
       "project_id": "PRJ009",
+      "company_name": "Oracle",
       "project_name": "Enterprise AI Deployment 9",
-      "product_name": "InsightAI Platform 10",
-      "start_date": "2024-01-15",
-      "end_date": "2025-06-30",
-      "status": "Active"
+      "product_name": "FraudShield AI",
+      "start_date": "2023-09-10",
+      "end_date": "2024-08-25",
+      "status": "On Hold"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.281120+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.583878+00:00",
       "source_confidence": 1.0,
       "origin_system": "File System"
     }
@@ -183,18 +192,19 @@
     "source_type": "structured",
     "source_name": "projects.csv",
     "entity_type": "Project",
-    "entity_id": "PRO-9a1f3463",
+    "entity_id": "PRO-3a79a6bf",
     "attributes": {
       "project_id": "PRJ010",
+      "company_name": "Microsoft",
       "project_name": "Enterprise AI Deployment 10",
-      "product_name": "InsightAI Platform 11",
-      "start_date": "2024-01-15",
-      "end_date": "2025-06-30",
+      "product_name": "HealthIQ AI",
+      "start_date": "2023-10-01",
+      "end_date": "2024-09-20",
       "status": "Completed"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.281139+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.583886+00:00",
       "source_confidence": 1.0,
       "origin_system": "File System"
     }
@@ -203,18 +213,19 @@
     "source_type": "structured",
     "source_name": "projects.csv",
     "entity_type": "Project",
-    "entity_id": "PRO-a771aa28",
+    "entity_id": "PRO-cbab30b8",
     "attributes": {
       "project_id": "PRJ011",
+      "company_name": "Google",
       "project_name": "Enterprise AI Deployment 11",
-      "product_name": "InsightAI Platform 12",
-      "start_date": "2024-01-15",
-      "end_date": "2025-06-30",
-      "status": "On Hold"
+      "product_name": "CreditSense AI",
+      "start_date": "2023-11-15",
+      "end_date": "2024-10-30",
+      "status": "Active"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.281157+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.583894+00:00",
       "source_confidence": 1.0,
       "origin_system": "File System"
     }
@@ -223,18 +234,19 @@
     "source_type": "structured",
     "source_name": "projects.csv",
     "entity_type": "Project",
-    "entity_id": "PRO-9a5d4f76",
+    "entity_id": "PRO-c6d98310",
     "attributes": {
       "project_id": "PRJ012",
+      "company_name": "SAP",
       "project_name": "Enterprise AI Deployment 12",
-      "product_name": "InsightAI Platform 13",
-      "start_date": "2024-01-15",
-      "end_date": "2025-06-30",
-      "status": "Active"
+      "product_name": "AnalyticsPro Suite",
+      "start_date": "2023-12-01",
+      "end_date": "2024-11-15",
+      "status": "On Hold"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.281176+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.583901+00:00",
       "source_confidence": 1.0,
       "origin_system": "File System"
     }
@@ -243,18 +255,19 @@
     "source_type": "structured",
     "source_name": "projects.csv",
     "entity_type": "Project",
-    "entity_id": "PRO-eefbd375",
+    "entity_id": "PRO-ffab80a1",
     "attributes": {
       "project_id": "PRJ013",
+      "company_name": "Amazon Web Services",
       "project_name": "Enterprise AI Deployment 13",
-      "product_name": "InsightAI Platform 14",
-      "start_date": "2024-01-15",
-      "end_date": "2025-06-30",
+      "product_name": "RiskRadar Cloud",
+      "start_date": "2024-01-20",
+      "end_date": "2024-12-10",
       "status": "Completed"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.281195+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.583909+00:00",
       "source_confidence": 1.0,
       "origin_system": "File System"
     }
@@ -263,18 +276,19 @@
     "source_type": "structured",
     "source_name": "projects.csv",
     "entity_type": "Project",
-    "entity_id": "PRO-f7f9df88",
+    "entity_id": "PRO-67e5c612",
     "attributes": {
       "project_id": "PRJ014",
+      "company_name": "Salesforce",
       "project_name": "Enterprise AI Deployment 14",
-      "product_name": "InsightAI Platform 15",
-      "start_date": "2024-01-15",
-      "end_date": "2025-06-30",
-      "status": "On Hold"
+      "product_name": "MedVision Cloud",
+      "start_date": "2024-02-15",
+      "end_date": "2025-01-25",
+      "status": "Active"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.281214+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.583918+00:00",
       "source_confidence": 1.0,
       "origin_system": "File System"
     }
@@ -283,18 +297,19 @@
     "source_type": "structured",
     "source_name": "projects.csv",
     "entity_type": "Project",
-    "entity_id": "PRO-ff14fe66",
+    "entity_id": "PRO-a2c8ebad",
     "attributes": {
       "project_id": "PRJ015",
+      "company_name": "Adobe",
       "project_name": "Enterprise AI Deployment 15",
-      "product_name": "InsightAI Platform 16",
-      "start_date": "2024-01-15",
-      "end_date": "2025-06-30",
-      "status": "Active"
+      "product_name": "WealthAI Studio",
+      "start_date": "2024-03-05",
+      "end_date": "2025-02-28",
+      "status": "On Hold"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.281232+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.583925+00:00",
       "source_confidence": 1.0,
       "origin_system": "File System"
     }
@@ -303,18 +318,19 @@
     "source_type": "structured",
     "source_name": "projects.csv",
     "entity_type": "Project",
-    "entity_id": "PRO-7310d9d1",
+    "entity_id": "PRO-5dd02121",
     "attributes": {
       "project_id": "PRJ016",
+      "company_name": "Oracle",
       "project_name": "Enterprise AI Deployment 16",
-      "product_name": "InsightAI Platform 17",
-      "start_date": "2024-01-15",
-      "end_date": "2025-06-30",
+      "product_name": "TrendAnalyzer AI",
+      "start_date": "2024-04-10",
+      "end_date": "2025-03-20",
       "status": "Completed"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.281250+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.583933+00:00",
       "source_confidence": 1.0,
       "origin_system": "File System"
     }
@@ -323,18 +339,19 @@
     "source_type": "structured",
     "source_name": "projects.csv",
     "entity_type": "Project",
-    "entity_id": "PRO-f22b54e2",
+    "entity_id": "PRO-7809b856",
     "attributes": {
       "project_id": "PRJ017",
+      "company_name": "Infosys",
       "project_name": "Enterprise AI Deployment 17",
-      "product_name": "InsightAI Platform 18",
-      "start_date": "2024-01-15",
-      "end_date": "2025-06-30",
-      "status": "On Hold"
+      "product_name": "ComplianceX Suite",
+      "start_date": "2024-05-01",
+      "end_date": "2025-04-15",
+      "status": "Active"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.281269+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.583940+00:00",
       "source_confidence": 1.0,
       "origin_system": "File System"
     }
@@ -343,18 +360,19 @@
     "source_type": "structured",
     "source_name": "projects.csv",
     "entity_type": "Project",
-    "entity_id": "PRO-77613f07",
+    "entity_id": "PRO-135d86d6",
     "attributes": {
       "project_id": "PRJ018",
+      "company_name": "TCS",
       "project_name": "Enterprise AI Deployment 18",
-      "product_name": "InsightAI Platform 19",
-      "start_date": "2024-01-15",
-      "end_date": "2025-06-30",
-      "status": "Active"
+      "product_name": "PatientFlow AI",
+      "start_date": "2024-06-05",
+      "end_date": "2025-05-25",
+      "status": "On Hold"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.281288+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.583948+00:00",
       "source_confidence": 1.0,
       "origin_system": "File System"
     }
@@ -363,18 +381,19 @@
     "source_type": "structured",
     "source_name": "projects.csv",
     "entity_type": "Project",
-    "entity_id": "PRO-546f3cfb",
+    "entity_id": "PRO-12fedf74",
     "attributes": {
       "project_id": "PRJ019",
+      "company_name": "Wipro",
       "project_name": "Enterprise AI Deployment 19",
-      "product_name": "InsightAI Platform 20",
-      "start_date": "2024-01-15",
+      "product_name": "LoanAssist AI",
+      "start_date": "2024-07-10",
       "end_date": "2025-06-30",
       "status": "Completed"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.281306+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.583955+00:00",
       "source_confidence": 1.0,
       "origin_system": "File System"
     }
@@ -383,18 +402,19 @@
     "source_type": "structured",
     "source_name": "projects.csv",
     "entity_type": "Project",
-    "entity_id": "PRO-d65e3b4a",
+    "entity_id": "PRO-1f35e677",
     "attributes": {
       "project_id": "PRJ020",
+      "company_name": "HCLTech",
       "project_name": "Enterprise AI Deployment 20",
-      "product_name": "InsightAI Platform 21",
-      "start_date": "2024-01-15",
-      "end_date": "2025-06-30",
-      "status": "On Hold"
+      "product_name": "MarketPulse Pro",
+      "start_date": "2024-08-15",
+      "end_date": "2025-07-20",
+      "status": "Active"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.281324+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.583963+00:00",
       "source_confidence": 1.0,
       "origin_system": "File System"
     }
@@ -403,18 +423,19 @@
     "source_type": "structured",
     "source_name": "projects.csv",
     "entity_type": "Project",
-    "entity_id": "PRO-eb6fba8e",
+    "entity_id": "PRO-95cd474e",
     "attributes": {
       "project_id": "PRJ021",
+      "company_name": "Accenture",
       "project_name": "Enterprise AI Deployment 21",
-      "product_name": "InsightAI Platform 22",
-      "start_date": "2024-01-15",
-      "end_date": "2025-06-30",
-      "status": "Active"
+      "product_name": "RiskScore Pro",
+      "start_date": "2024-09-01",
+      "end_date": "2025-08-15",
+      "status": "On Hold"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.281342+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.583970+00:00",
       "source_confidence": 1.0,
       "origin_system": "File System"
     }
@@ -423,18 +444,19 @@
     "source_type": "structured",
     "source_name": "projects.csv",
     "entity_type": "Project",
-    "entity_id": "PRO-4555a982",
+    "entity_id": "PRO-1cb45da7",
     "attributes": {
       "project_id": "PRJ022",
+      "company_name": "Cognizant",
       "project_name": "Enterprise AI Deployment 22",
-      "product_name": "InsightAI Platform 23",
-      "start_date": "2024-01-15",
-      "end_date": "2025-06-30",
+      "product_name": "CarePath AI",
+      "start_date": "2024-10-05",
+      "end_date": "2025-09-30",
       "status": "Completed"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.281360+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.583977+00:00",
       "source_confidence": 1.0,
       "origin_system": "File System"
     }
@@ -443,18 +465,19 @@
     "source_type": "structured",
     "source_name": "projects.csv",
     "entity_type": "Project",
-    "entity_id": "PRO-efbd188d",
+    "entity_id": "PRO-2d4aa4ec",
     "attributes": {
       "project_id": "PRJ023",
+      "company_name": "Capgemini",
       "project_name": "Enterprise AI Deployment 23",
-      "product_name": "InsightAI Platform 24",
-      "start_date": "2024-01-15",
-      "end_date": "2025-06-30",
-      "status": "On Hold"
+      "product_name": "TradeAI Platform",
+      "start_date": "2024-11-12",
+      "end_date": "2025-10-20",
+      "status": "Active"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.281379+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.583985+00:00",
       "source_confidence": 1.0,
       "origin_system": "File System"
     }
@@ -463,18 +486,19 @@
     "source_type": "structured",
     "source_name": "projects.csv",
     "entity_type": "Project",
-    "entity_id": "PRO-a32001fc",
+    "entity_id": "PRO-878d9862",
     "attributes": {
       "project_id": "PRJ024",
+      "company_name": "IBM",
       "project_name": "Enterprise AI Deployment 24",
-      "product_name": "InsightAI Platform 25",
-      "start_date": "2024-01-15",
-      "end_date": "2025-06-30",
-      "status": "Active"
+      "product_name": "InsightHub Analytics",
+      "start_date": "2024-12-01",
+      "end_date": "2025-11-25",
+      "status": "On Hold"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.281397+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.583992+00:00",
       "source_confidence": 1.0,
       "origin_system": "File System"
     }
@@ -483,18 +507,19 @@
     "source_type": "structured",
     "source_name": "projects.csv",
     "entity_type": "Project",
-    "entity_id": "PRO-94f05750",
+    "entity_id": "PRO-a861d1a6",
     "attributes": {
       "project_id": "PRJ025",
+      "company_name": "Amazon Web Services",
       "project_name": "Enterprise AI Deployment 25",
-      "product_name": "InsightAI Platform 26",
+      "product_name": "ThreatDetect Cloud",
       "start_date": "2024-01-15",
       "end_date": "2025-06-30",
       "status": "Completed"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.281416+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.584000+00:00",
       "source_confidence": 1.0,
       "origin_system": "File System"
     }
@@ -503,18 +528,19 @@
     "source_type": "structured",
     "source_name": "projects.csv",
     "entity_type": "Project",
-    "entity_id": "PRO-0d38d453",
+    "entity_id": "PRO-f61c06b1",
     "attributes": {
       "project_id": "PRJ026",
+      "company_name": "Salesforce",
       "project_name": "Enterprise AI Deployment 26",
-      "product_name": "InsightAI Platform 27",
-      "start_date": "2024-01-15",
-      "end_date": "2025-06-30",
-      "status": "On Hold"
+      "product_name": "HealthNavigator AI",
+      "start_date": "2024-02-20",
+      "end_date": "2025-07-15",
+      "status": "Active"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.281436+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.584007+00:00",
       "source_confidence": 1.0,
       "origin_system": "File System"
     }
@@ -523,18 +549,19 @@
     "source_type": "structured",
     "source_name": "projects.csv",
     "entity_type": "Project",
-    "entity_id": "PRO-67da0c57",
+    "entity_id": "PRO-3d77862e",
     "attributes": {
       "project_id": "PRJ027",
+      "company_name": "Adobe",
       "project_name": "Enterprise AI Deployment 27",
-      "product_name": "InsightAI Platform 28",
-      "start_date": "2024-01-15",
-      "end_date": "2025-06-30",
-      "status": "Active"
+      "product_name": "InvestIQ AI",
+      "start_date": "2024-03-05",
+      "end_date": "2025-08-01",
+      "status": "On Hold"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.281454+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.584014+00:00",
       "source_confidence": 1.0,
       "origin_system": "File System"
     }
@@ -543,18 +570,19 @@
     "source_type": "structured",
     "source_name": "projects.csv",
     "entity_type": "Project",
-    "entity_id": "PRO-5fb4f443",
+    "entity_id": "PRO-e9f750e8",
     "attributes": {
       "project_id": "PRJ028",
+      "company_name": "SAP",
       "project_name": "Enterprise AI Deployment 28",
-      "product_name": "InsightAI Platform 29",
-      "start_date": "2024-01-15",
-      "end_date": "2025-06-30",
+      "product_name": "DataExplorer Suite",
+      "start_date": "2024-04-10",
+      "end_date": "2025-09-10",
       "status": "Completed"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.281473+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.584022+00:00",
       "source_confidence": 1.0,
       "origin_system": "File System"
     }
@@ -563,18 +591,19 @@
     "source_type": "structured",
     "source_name": "projects.csv",
     "entity_type": "Project",
-    "entity_id": "PRO-2ec8b64c",
+    "entity_id": "PRO-f01dfdcf",
     "attributes": {
       "project_id": "PRJ029",
+      "company_name": "Infosys",
       "project_name": "Enterprise AI Deployment 29",
-      "product_name": "InsightAI Platform 30",
-      "start_date": "2024-01-15",
-      "end_date": "2025-06-30",
-      "status": "On Hold"
+      "product_name": "RiskMatrix Suite",
+      "start_date": "2024-05-15",
+      "end_date": "2025-10-20",
+      "status": "Active"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.281491+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.584030+00:00",
       "source_confidence": 1.0,
       "origin_system": "File System"
     }
@@ -583,18 +612,19 @@
     "source_type": "structured",
     "source_name": "projects.csv",
     "entity_type": "Project",
-    "entity_id": "PRO-e8da881c",
+    "entity_id": "PRO-a5043568",
     "attributes": {
       "project_id": "PRJ030",
+      "company_name": "TCS",
       "project_name": "Enterprise AI Deployment 30",
-      "product_name": "InsightAI Platform 31",
-      "start_date": "2024-01-15",
-      "end_date": "2025-06-30",
-      "status": "Active"
+      "product_name": "ClinicalAI Pro",
+      "start_date": "2024-06-01",
+      "end_date": "2025-11-30",
+      "status": "On Hold"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.281510+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.584037+00:00",
       "source_confidence": 1.0,
       "origin_system": "File System"
     }
@@ -603,18 +633,19 @@
     "source_type": "structured",
     "source_name": "projects.csv",
     "entity_type": "Project",
-    "entity_id": "PRO-28223493",
+    "entity_id": "PRO-6fdab858",
     "attributes": {
       "project_id": "PRJ031",
+      "company_name": "Wipro",
       "project_name": "Enterprise AI Deployment 31",
-      "product_name": "InsightAI Platform 32",
-      "start_date": "2024-01-15",
-      "end_date": "2025-06-30",
+      "product_name": "PaySecure AI",
+      "start_date": "2024-07-10",
+      "end_date": "2025-12-15",
       "status": "Completed"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.281528+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.584044+00:00",
       "source_confidence": 1.0,
       "origin_system": "File System"
     }
@@ -623,18 +654,19 @@
     "source_type": "structured",
     "source_name": "projects.csv",
     "entity_type": "Project",
-    "entity_id": "PRO-0d2313ae",
+    "entity_id": "PRO-adfdfe4e",
     "attributes": {
       "project_id": "PRJ032",
+      "company_name": "HCLTech",
       "project_name": "Enterprise AI Deployment 32",
-      "product_name": "InsightAI Platform 33",
-      "start_date": "2024-01-15",
-      "end_date": "2025-06-30",
-      "status": "On Hold"
+      "product_name": "ReportGen Suite",
+      "start_date": "2024-08-20",
+      "end_date": "2026-01-10",
+      "status": "Active"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.281547+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.584052+00:00",
       "source_confidence": 1.0,
       "origin_system": "File System"
     }
@@ -643,18 +675,19 @@
     "source_type": "structured",
     "source_name": "projects.csv",
     "entity_type": "Project",
-    "entity_id": "PRO-eec0f3f2",
+    "entity_id": "PRO-6ee01a33",
     "attributes": {
       "project_id": "PRJ033",
+      "company_name": "Accenture",
       "project_name": "Enterprise AI Deployment 33",
-      "product_name": "InsightAI Platform 34",
-      "start_date": "2024-01-15",
-      "end_date": "2025-06-30",
-      "status": "Active"
+      "product_name": "RiskOps AI",
+      "start_date": "2024-09-05",
+      "end_date": "2026-02-15",
+      "status": "On Hold"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.281565+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.584059+00:00",
       "source_confidence": 1.0,
       "origin_system": "File System"
     }
@@ -663,18 +696,19 @@
     "source_type": "structured",
     "source_name": "projects.csv",
     "entity_type": "Project",
-    "entity_id": "PRO-19e93201",
+    "entity_id": "PRO-50d8053d",
     "attributes": {
       "project_id": "PRJ034",
+      "company_name": "Cognizant",
       "project_name": "Enterprise AI Deployment 34",
-      "product_name": "InsightAI Platform 35",
-      "start_date": "2024-01-15",
-      "end_date": "2025-06-30",
+      "product_name": "CareInsights AI",
+      "start_date": "2024-10-12",
+      "end_date": "2026-03-01",
       "status": "Completed"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.281584+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.584067+00:00",
       "source_confidence": 1.0,
       "origin_system": "File System"
     }
@@ -683,18 +717,19 @@
     "source_type": "structured",
     "source_name": "projects.csv",
     "entity_type": "Project",
-    "entity_id": "PRO-0b1011eb",
+    "entity_id": "PRO-95d970ec",
     "attributes": {
       "project_id": "PRJ035",
+      "company_name": "Capgemini",
       "project_name": "Enterprise AI Deployment 35",
-      "product_name": "InsightAI Platform 36",
-      "start_date": "2024-01-15",
-      "end_date": "2025-06-30",
-      "status": "On Hold"
+      "product_name": "FinOpsAI Platform",
+      "start_date": "2024-11-01",
+      "end_date": "2026-03-20",
+      "status": "Active"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.281603+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.584074+00:00",
       "source_confidence": 1.0,
       "origin_system": "File System"
     }
@@ -703,18 +738,19 @@
     "source_type": "structured",
     "source_name": "projects.csv",
     "entity_type": "Project",
-    "entity_id": "PRO-a48bd319",
+    "entity_id": "PRO-276fa8b4",
     "attributes": {
       "project_id": "PRJ036",
+      "company_name": "IBM",
       "project_name": "Enterprise AI Deployment 36",
-      "product_name": "InsightAI Platform 37",
-      "start_date": "2024-01-15",
-      "end_date": "2025-06-30",
-      "status": "Active"
+      "product_name": "AnalyticsEdge Suite",
+      "start_date": "2024-12-05",
+      "end_date": "2026-04-10",
+      "status": "On Hold"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.281620+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.584081+00:00",
       "source_confidence": 1.0,
       "origin_system": "File System"
     }
@@ -723,18 +759,19 @@
     "source_type": "structured",
     "source_name": "projects.csv",
     "entity_type": "Project",
-    "entity_id": "PRO-1794683d",
+    "entity_id": "PRO-dda1e59d",
     "attributes": {
       "project_id": "PRJ037",
+      "company_name": "Oracle",
       "project_name": "Enterprise AI Deployment 37",
-      "product_name": "InsightAI Platform 38",
-      "start_date": "2024-01-15",
-      "end_date": "2025-06-30",
+      "product_name": "RiskAI Pro",
+      "start_date": "2024-01-10",
+      "end_date": "2026-05-01",
       "status": "Completed"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.281637+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.584088+00:00",
       "source_confidence": 1.0,
       "origin_system": "File System"
     }
@@ -743,18 +780,19 @@
     "source_type": "structured",
     "source_name": "projects.csv",
     "entity_type": "Project",
-    "entity_id": "PRO-364ea10d",
+    "entity_id": "PRO-e956660b",
     "attributes": {
       "project_id": "PRJ038",
+      "company_name": "Microsoft",
       "project_name": "Enterprise AI Deployment 38",
-      "product_name": "InsightAI Platform 39",
-      "start_date": "2024-01-15",
-      "end_date": "2025-06-30",
-      "status": "On Hold"
+      "product_name": "HealthAnalytics Suite",
+      "start_date": "2024-02-15",
+      "end_date": "2026-05-20",
+      "status": "Active"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.281653+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.584095+00:00",
       "source_confidence": 1.0,
       "origin_system": "File System"
     }
@@ -763,18 +801,19 @@
     "source_type": "structured",
     "source_name": "projects.csv",
     "entity_type": "Project",
-    "entity_id": "PRO-904b6948",
+    "entity_id": "PRO-a685c880",
     "attributes": {
       "project_id": "PRJ039",
+      "company_name": "Google",
       "project_name": "Enterprise AI Deployment 39",
-      "product_name": "InsightAI Platform 40",
-      "start_date": "2024-01-15",
-      "end_date": "2025-06-30",
-      "status": "Active"
+      "product_name": "PaymentAI Studio",
+      "start_date": "2024-03-01",
+      "end_date": "2026-06-10",
+      "status": "On Hold"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.281672+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.584102+00:00",
       "source_confidence": 1.0,
       "origin_system": "File System"
     }
@@ -783,18 +822,19 @@
     "source_type": "structured",
     "source_name": "projects.csv",
     "entity_type": "Project",
-    "entity_id": "PRO-799b1542",
+    "entity_id": "PRO-4cf01df3",
     "attributes": {
       "project_id": "PRJ040",
+      "company_name": "SAP",
       "project_name": "Enterprise AI Deployment 40",
-      "product_name": "InsightAI Platform 41",
-      "start_date": "2024-01-15",
-      "end_date": "2025-06-30",
+      "product_name": "DataVision Cloud",
+      "start_date": "2024-04-12",
+      "end_date": "2026-06-30",
       "status": "Completed"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.281692+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.584110+00:00",
       "source_confidence": 1.0,
       "origin_system": "File System"
     }
@@ -803,18 +843,19 @@
     "source_type": "structured",
     "source_name": "projects.csv",
     "entity_type": "Project",
-    "entity_id": "PRO-b31d69e2",
+    "entity_id": "PRO-62fa628e",
     "attributes": {
       "project_id": "PRJ041",
+      "company_name": "Amazon Web Services",
       "project_name": "Enterprise AI Deployment 41",
-      "product_name": "InsightAI Platform 42",
-      "start_date": "2024-01-15",
-      "end_date": "2025-06-30",
-      "status": "On Hold"
+      "product_name": "RiskCompliance Pro",
+      "start_date": "2024-05-05",
+      "end_date": "2026-07-15",
+      "status": "Active"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.281710+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.584117+00:00",
       "source_confidence": 1.0,
       "origin_system": "File System"
     }
@@ -823,18 +864,19 @@
     "source_type": "structured",
     "source_name": "projects.csv",
     "entity_type": "Project",
-    "entity_id": "PRO-eb523a8e",
+    "entity_id": "PRO-e013ee8c",
     "attributes": {
       "project_id": "PRJ042",
+      "company_name": "Salesforce",
       "project_name": "Enterprise AI Deployment 42",
-      "product_name": "InsightAI Platform 43",
-      "start_date": "2024-01-15",
-      "end_date": "2025-06-30",
-      "status": "Active"
+      "product_name": "MedAnalytics Pro",
+      "start_date": "2024-06-01",
+      "end_date": "2026-07-30",
+      "status": "On Hold"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.281728+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.584124+00:00",
       "source_confidence": 1.0,
       "origin_system": "File System"
     }
@@ -843,18 +885,19 @@
     "source_type": "structured",
     "source_name": "projects.csv",
     "entity_type": "Project",
-    "entity_id": "PRO-8e777d76",
+    "entity_id": "PRO-9b49ec6c",
     "attributes": {
       "project_id": "PRJ043",
+      "company_name": "Adobe",
       "project_name": "Enterprise AI Deployment 43",
-      "product_name": "InsightAI Platform 44",
-      "start_date": "2024-01-15",
-      "end_date": "2025-06-30",
+      "product_name": "FinAnalytics Studio",
+      "start_date": "2024-07-10",
+      "end_date": "2026-08-20",
       "status": "Completed"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.281745+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.584132+00:00",
       "source_confidence": 1.0,
       "origin_system": "File System"
     }
@@ -863,18 +906,19 @@
     "source_type": "structured",
     "source_name": "projects.csv",
     "entity_type": "Project",
-    "entity_id": "PRO-b70d0504",
+    "entity_id": "PRO-69850276",
     "attributes": {
       "project_id": "PRJ044",
+      "company_name": "Infosys",
       "project_name": "Enterprise AI Deployment 44",
-      "product_name": "InsightAI Platform 45",
-      "start_date": "2024-01-15",
-      "end_date": "2025-06-30",
-      "status": "On Hold"
+      "product_name": "InsightEngine Suite",
+      "start_date": "2024-08-15",
+      "end_date": "2026-09-05",
+      "status": "Active"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.281764+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.584139+00:00",
       "source_confidence": 1.0,
       "origin_system": "File System"
     }
@@ -883,18 +927,19 @@
     "source_type": "structured",
     "source_name": "projects.csv",
     "entity_type": "Project",
-    "entity_id": "PRO-0de02b80",
+    "entity_id": "PRO-833cd558",
     "attributes": {
       "project_id": "PRJ045",
+      "company_name": "TCS",
       "project_name": "Enterprise AI Deployment 45",
-      "product_name": "InsightAI Platform 46",
-      "start_date": "2024-01-15",
-      "end_date": "2025-06-30",
-      "status": "Active"
+      "product_name": "RiskPro Plus",
+      "start_date": "2024-09-05",
+      "end_date": "2026-09-25",
+      "status": "On Hold"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.281783+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.584147+00:00",
       "source_confidence": 1.0,
       "origin_system": "File System"
     }
@@ -903,18 +948,19 @@
     "source_type": "structured",
     "source_name": "projects.csv",
     "entity_type": "Project",
-    "entity_id": "PRO-dde2fe21",
+    "entity_id": "PRO-d789a74b",
     "attributes": {
       "project_id": "PRJ046",
+      "company_name": "Wipro",
       "project_name": "Enterprise AI Deployment 46",
-      "product_name": "InsightAI Platform 47",
-      "start_date": "2024-01-15",
-      "end_date": "2025-06-30",
+      "product_name": "HealthAI Plus",
+      "start_date": "2024-10-12",
+      "end_date": "2026-10-10",
       "status": "Completed"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.281800+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.584154+00:00",
       "source_confidence": 1.0,
       "origin_system": "File System"
     }
@@ -923,38 +969,19 @@
     "source_type": "structured",
     "source_name": "projects.csv",
     "entity_type": "Project",
-    "entity_id": "PRO-8f6d7bb7",
+    "entity_id": "PRO-c208f1d6",
     "attributes": {
       "project_id": "PRJ047",
+      "company_name": "HCLTech",
       "project_name": "Enterprise AI Deployment 47",
-      "product_name": "InsightAI Platform 48",
-      "start_date": "2024-01-15",
-      "end_date": "2025-06-30",
-      "status": "On Hold"
-    },
-    "relationships": [],
-    "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.281820+00:00",
-      "source_confidence": 1.0,
-      "origin_system": "File System"
-    }
-  },
-  {
-    "source_type": "structured",
-    "source_name": "projects.csv",
-    "entity_type": "Project",
-    "entity_id": "PRO-8c83cdc6",
-    "attributes": {
-      "project_id": "PRJ048",
-      "project_name": "Enterprise AI Deployment 48",
-      "product_name": "InsightAI Platform 49",
-      "start_date": "2024-01-15",
-      "end_date": "2025-06-30",
+      "product_name": "LendingAI Pro",
+      "start_date": "2024-11-01",
+      "end_date": "2026-10-30",
       "status": "Active"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.281837+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.584163+00:00",
       "source_confidence": 1.0,
       "origin_system": "File System"
     }
@@ -963,38 +990,61 @@
     "source_type": "structured",
     "source_name": "projects.csv",
     "entity_type": "Project",
-    "entity_id": "PRO-e03d4bfa",
+    "entity_id": "PRO-ca0a5de8",
     "attributes": {
-      "project_id": "PRJ049",
-      "project_name": "Enterprise AI Deployment 49",
-      "product_name": "InsightAI Platform 50",
-      "start_date": "2024-01-15",
-      "end_date": "2025-06-30",
-      "status": "Completed"
-    },
-    "relationships": [],
-    "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.281854+00:00",
-      "source_confidence": 1.0,
-      "origin_system": "File System"
-    }
-  },
-  {
-    "source_type": "structured",
-    "source_name": "projects.csv",
-    "entity_type": "Project",
-    "entity_id": "PRO-afb62b40",
-    "attributes": {
-      "project_id": "PRJ050",
-      "project_name": "Enterprise AI Deployment 50",
-      "product_name": "InsightAI Platform 1",
-      "start_date": "2024-01-15",
-      "end_date": "2025-06-30",
+      "project_id": "PRJ048",
+      "company_name": "Accenture",
+      "project_name": "Enterprise AI Deployment 48",
+      "product_name": "AnalyticsCloud Suite",
+      "start_date": "2024-12-05",
+      "end_date": "2026-11-15",
       "status": "On Hold"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.281872+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.584170+00:00",
+      "source_confidence": 1.0,
+      "origin_system": "File System"
+    }
+  },
+  {
+    "source_type": "structured",
+    "source_name": "projects.csv",
+    "entity_type": "Project",
+    "entity_id": "PRO-2da011fb",
+    "attributes": {
+      "project_id": "PRJ049",
+      "company_name": "Cognizant",
+      "project_name": "Enterprise AI Deployment 49",
+      "product_name": "RiskVision AI",
+      "start_date": "2024-01-20",
+      "end_date": "2026-11-30",
+      "status": "Completed"
+    },
+    "relationships": [],
+    "metadata": {
+      "ingestion_timestamp": "2026-01-26T13:52:45.584201+00:00",
+      "source_confidence": 1.0,
+      "origin_system": "File System"
+    }
+  },
+  {
+    "source_type": "structured",
+    "source_name": "projects.csv",
+    "entity_type": "Project",
+    "entity_id": "PRO-7624c1da",
+    "attributes": {
+      "project_id": "PRJ050",
+      "company_name": "Capgemini",
+      "project_name": "Enterprise AI Deployment 50",
+      "product_name": "HealthPro AI",
+      "start_date": "2024-02-15",
+      "end_date": "2026-12-15",
+      "status": "Active"
+    },
+    "relationships": [],
+    "metadata": {
+      "ingestion_timestamp": "2026-01-26T13:52:45.584252+00:00",
       "source_confidence": 1.0,
       "origin_system": "File System"
     }

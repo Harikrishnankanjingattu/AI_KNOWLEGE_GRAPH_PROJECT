@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KnowledgeAI - Enterprise Intelligence</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+
+<body>
+    <div class="app-container">
+
+        <main class="main-chat">
+            <header class="chat-header">
+                <div class="header-info">
+                    <h2>HADDY</h2>
+                    <p></p>
+                </div>
+                <div class="header-actions">
+                    <button class="action-btn" id="clearChat"><i class="fas fa-trash-alt"></i></button>
+                    <button class="action-btn"><i class="fas fa-cog"></i></button>
+                </div>
+            </header>
+
+            <div class="chat-messages" id="chatMessages">
+                <div class="message bot">
+                    <div class="message-inner">
+                        <div class="message-avatar">AI</div>
+                        <div class="message-content">
+                            <p>Welcome to <strong>KnowledgeAI</strong>. I am your enterprise intelligence assistant. How
+                                can I help you today?</p>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
+            <footer class="chat-footer">
+                <div class="input-container">
+                    <textarea id="userInput" placeholder="Ask about employees, clients, IT tickets, or revenue..."
+                        rows="1"></textarea>
+                    <button class="send-btn" id="sendBtn">
+                        <i class="fas fa-paper-plane"></i>
+                    </button>
+                </div>
+                <div class="footer-note">
+
+                </div>
+            </footer>
+        </main>
+    </div>
+
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+
+</html>

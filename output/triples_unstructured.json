@@ -1,0 +1,116 @@
+[
+  {
+    "subject": "Employees",
+    "relation": "COMPLIES_WITH",
+    "object": "ISO 27001",
+    "source": "unstructured/company_policy.txt"
+  },
+  {
+    "subject": "Enterprise Data",
+    "relation": "GOVERNED_BY",
+    "object": "RBAC",
+    "source": "unstructured/company_policy.txt"
+  },
+  {
+    "subject": "Data Breach",
+    "relation": "REPORTED_TO",
+    "object": "Information Security Office",
+    "source": "unstructured/company_policy.txt"
+  },
+  {
+    "subject": "sanjay.mehta@tcs.com",
+    "relation": "SENT_EMAIL_TO",
+    "object": "finance.board@tcs.com",
+    "source": "unstructured/email_communications.txt"
+  },
+  {
+    "subject": "InsightAI",
+    "relation": "GENERATED_REVENUE",
+    "object": "USD 18.4 Million",
+    "source": "unstructured/email_communications.txt"
+  },
+  {
+    "subject": "Axis Bank",
+    "relation": "USES",
+    "object": "InsightAI",
+    "source": "unstructured/email_communications.txt"
+  },
+  {
+    "subject": "HDFC Life",
+    "relation": "USES",
+    "object": "InsightAI",
+    "source": "unstructured/email_communications.txt"
+  },
+  {
+    "subject": "Indian AI Analytics Market",
+    "relation": "GROWING_AT",
+    "object": "25% CAGR",
+    "source": "unstructured/industry_reports.txt"
+  },
+  {
+    "subject": "TCS",
+    "relation": "INVESTS_IN",
+    "object": "Knowledge Graph Platforms",
+    "source": "unstructured/industry_reports.txt"
+  },
+  {
+    "subject": "Infosys",
+    "relation": "INVESTS_IN",
+    "object": "Knowledge Graph Platforms",
+    "source": "unstructured/industry_reports.txt"
+  },
+  {
+    "subject": "Wipro",
+    "relation": "INVESTS_IN",
+    "object": "Knowledge Graph Platforms",
+    "source": "unstructured/industry_reports.txt"
+  },
+  {
+    "subject": "CTO",
+    "relation": "ATTENDED",
+    "object": "Enterprise AI Strategy Review",
+    "source": "unstructured/meeting_notes.txt"
+  },
+  {
+    "subject": "Head of Data Science",
+    "relation": "ATTENDED",
+    "object": "Enterprise AI Strategy Review",
+    "source": "unstructured/meeting_notes.txt"
+  },
+  {
+    "subject": "Sales Director",
+    "relation": "ATTENDED",
+    "object": "Enterprise AI Strategy Review",
+    "source": "unstructured/meeting_notes.txt"
+  },
+  {
+    "subject": "InsightAI",
+    "relation": "EXPANDING_INTO",
+    "object": "Healthcare Diagnostics",
+    "source": "unstructured/meeting_notes.txt"
+  },
+  {
+    "subject": "Apollo Hospitals",
+    "relation": "DEMANDS",
+    "object": "InsightAI",
+    "source": "unstructured/meeting_notes.txt"
+  },
+  {
+    "subject": "Fortis Healthcare",
+    "relation": "DEMANDS",
+    "object": "InsightAI",
+    "source": "unstructured/meeting_notes.txt"
+  },
+  {
+    "subject": "Axis Bank",
+    "relation": "REPORTED_ISSUE",
+    "object": "Delayed fraud detection alerts during UPI peak hours",
+    "source": "unstructured/support_cases.txt"
+  },
+  {
+    "subject": "Delayed fraud detection alerts during UPI peak hours",
+    "relation": "RESOLVED_BY",
+    "object": "Deployed optimized real-time streaming pipeline and increased Kafka throughput",
+    "source": "unstructured/support_cases.txt"
+  }
+]

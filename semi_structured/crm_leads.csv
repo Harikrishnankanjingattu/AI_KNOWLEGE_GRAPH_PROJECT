@@ -1,51 +1,51 @@
 lead_id,company_name,interested_product,sales_stage,account_manager
-L001,Axis Bank Division 1,InsightAI Platform 2,Negotiation,Rohit Kumar 2
-L002,Axis Bank Division 2,InsightAI Platform 3,Closed Won,Rohit Kumar 3
-L003,Axis Bank Division 3,InsightAI Platform 4,Closed Lost,Rohit Kumar 4
-L004,Axis Bank Division 4,InsightAI Platform 5,Prospecting,Rohit Kumar 5
-L005,Axis Bank Division 5,InsightAI Platform 6,Negotiation,Rohit Kumar 6
-L006,Axis Bank Division 6,InsightAI Platform 7,Closed Won,Rohit Kumar 7
-L007,Axis Bank Division 7,InsightAI Platform 8,Closed Lost,Rohit Kumar 8
-L008,Axis Bank Division 8,InsightAI Platform 9,Prospecting,Rohit Kumar 9
-L009,Axis Bank Division 9,InsightAI Platform 10,Negotiation,Rohit Kumar 10
-L010,Axis Bank Division 10,InsightAI Platform 1,Closed Won,Rohit Kumar 11
-L011,Axis Bank Division 11,InsightAI Platform 2,Closed Lost,Rohit Kumar 12
-L012,Axis Bank Division 12,InsightAI Platform 3,Prospecting,Rohit Kumar 13
-L013,Axis Bank Division 13,InsightAI Platform 4,Negotiation,Rohit Kumar 14
-L014,Axis Bank Division 14,InsightAI Platform 5,Closed Won,Rohit Kumar 15
-L015,Axis Bank Division 15,InsightAI Platform 6,Closed Lost,Rohit Kumar 16
-L016,Axis Bank Division 16,InsightAI Platform 7,Prospecting,Rohit Kumar 17
-L017,Axis Bank Division 17,InsightAI Platform 8,Negotiation,Rohit Kumar 18
-L018,Axis Bank Division 18,InsightAI Platform 9,Closed Won,Rohit Kumar 19
-L019,Axis Bank Division 19,InsightAI Platform 10,Closed Lost,Rohit Kumar 20
-L020,Axis Bank Division 20,InsightAI Platform 1,Prospecting,Rohit Kumar 21
-L021,Axis Bank Division 21,InsightAI Platform 2,Negotiation,Rohit Kumar 22
-L022,Axis Bank Division 22,InsightAI Platform 3,Closed Won,Rohit Kumar 23
-L023,Axis Bank Division 23,InsightAI Platform 4,Closed Lost,Rohit Kumar 24
-L024,Axis Bank Division 24,InsightAI Platform 5,Prospecting,Rohit Kumar 25
-L025,Axis Bank Division 25,InsightAI Platform 6,Negotiation,Rohit Kumar 26
-L026,Axis Bank Division 26,InsightAI Platform 7,Closed Won,Rohit Kumar 27
-L027,Axis Bank Division 27,InsightAI Platform 8,Closed Lost,Rohit Kumar 28
-L028,Axis Bank Division 28,InsightAI Platform 9,Prospecting,Rohit Kumar 29
-L029,Axis Bank Division 29,InsightAI Platform 10,Negotiation,Rohit Kumar 30
-L030,Axis Bank Division 30,InsightAI Platform 1,Closed Won,Rohit Kumar 31
-L031,Axis Bank Division 31,InsightAI Platform 2,Closed Lost,Rohit Kumar 32
-L032,Axis Bank Division 32,InsightAI Platform 3,Prospecting,Rohit Kumar 33
-L033,Axis Bank Division 33,InsightAI Platform 4,Negotiation,Rohit Kumar 34
-L034,Axis Bank Division 34,InsightAI Platform 5,Closed Won,Rohit Kumar 35
-L035,Axis Bank Division 35,InsightAI Platform 6,Closed Lost,Rohit Kumar 36
-L036,Axis Bank Division 36,InsightAI Platform 7,Prospecting,Rohit Kumar 37
-L037,Axis Bank Division 37,InsightAI Platform 8,Negotiation,Rohit Kumar 38
-L038,Axis Bank Division 38,InsightAI Platform 9,Closed Won,Rohit Kumar 39
-L039,Axis Bank Division 39,InsightAI Platform 10,Closed Lost,Rohit Kumar 40
-L040,Axis Bank Division 40,InsightAI Platform 1,Prospecting,Rohit Kumar 41
-L041,Axis Bank Division 41,InsightAI Platform 2,Negotiation,Rohit Kumar 42
-L042,Axis Bank Division 42,InsightAI Platform 3,Closed Won,Rohit Kumar 43
-L043,Axis Bank Division 43,InsightAI Platform 4,Closed Lost,Rohit Kumar 44
-L044,Axis Bank Division 44,InsightAI Platform 5,Prospecting,Rohit Kumar 45
-L045,Axis Bank Division 45,InsightAI Platform 6,Negotiation,Rohit Kumar 46
-L046,Axis Bank Division 46,InsightAI Platform 7,Closed Won,Rohit Kumar 47
-L047,Axis Bank Division 47,InsightAI Platform 8,Closed Lost,Rohit Kumar 48
-L048,Axis Bank Division 48,InsightAI Platform 9,Prospecting,Rohit Kumar 49
-L049,Axis Bank Division 49,InsightAI Platform 10,Negotiation,Rohit Kumar 50
-L050,Axis Bank Division 50,InsightAI Platform 1,Closed Won,Rohit Kumar 51
+L001,Axis Bank,MedSense AI,Negotiation,Rohit Kumar 2
+L002,HDFC Bank,PayGuard AI,Closed Won,Rohit Kumar 3
+L003,ICICI Bank,DataLens Analytics,Closed Lost,Rohit Kumar 4
+L004,SBI,HealthWave AI,Prospecting,Rohit Kumar 5
+L005,Kotak Mahindra Bank,LoanPredict AI,Negotiation,Rohit Kumar 6
+L006,Yes Bank,InsightViz Analytics,Closed Won,Rohit Kumar 7
+L007,IndusInd Bank,SecureRisk Suite,Closed Lost,Rohit Kumar 8
+L008,PNB,CareAssist AI,Prospecting,Rohit Kumar 9
+L009,IDBI Bank,TradeFlow AI,Negotiation,Rohit Kumar 10
+L010,Axis Bank,DeepAnalytics Pro,Closed Won,Rohit Kumar 11
+L011,Aditya Birla Finance,RiskGuardian AI,Closed Lost,Rohit Kumar 12
+L012,Bajaj Finserv,HealthGuard AI,Prospecting,Rohit Kumar 13
+L013,Mahindra Finance,FinTrack AI,Negotiation,Rohit Kumar 14
+L014,Tata Capital,AnalyticsX Suite,Closed Won,Rohit Kumar 15
+L015,Fullerton India,RiskIQ Platform,Closed Lost,Rohit Kumar 16
+L016,PhonePe,MedAI Care,Prospecting,Rohit Kumar 17
+L017,Google India,PaySmart AI,Negotiation,Rohit Kumar 18
+L018,Amazon India,VisionAnalytics,Closed Won,Rohit Kumar 19
+L019,Flipkart,ClinicAI Suite,Closed Lost,Rohit Kumar 20
+L020,Swiggy,FinanceGuard AI,Prospecting,Rohit Kumar 21
+L021,Zomato,AnalyticsPro Plus,Negotiation,Rohit Kumar 22
+L022,Paytm,HealthIntel AI,Closed Won,Rohit Kumar 23
+L023,PhonePe,FinOps AI,Closed Lost,Rohit Kumar 24
+L024,Amazon Pay,SmartAnalytics AI,Prospecting,Rohit Kumar 25
+L025,Google Pay,RiskAlert Pro,Negotiation,Rohit Kumar 26
+L026,IBM India,MedInsight AI,Closed Won,Rohit Kumar 27
+L027,Microsoft India,FinWise AI,Closed Lost,Rohit Kumar 28
+L028,Accenture India,AnalyticsEdge,Prospecting,Rohit Kumar 29
+L029,TCS, RiskAnalytics AI,Negotiation,Rohit Kumar 30
+L030,Infosys,RiskSense AI,Closed Won,Rohit Kumar 31
+L031,Wipro,RiskPredict AI,Closed Lost,Rohit Kumar 32
+L032,Capgemini,HealthAI Guardian,Prospecting,Rohit Kumar 33
+L033,Cognizant,FinRisk AI,Negotiation,Rohit Kumar 34
+L034,Deloitte,AnalyticsCloud,Closed Won,Rohit Kumar 35
+L035,PwC,RiskX Pro,Closed Lost,Rohit Kumar 36
+L036,KPMG,HealthFlow AI,Prospecting,Rohit Kumar 37
+L037,Oracle India,FinServe AI,Negotiation,Rohit Kumar 38
+L038,Salesforce India,DataSmart Analytics,Closed Won,Rohit Kumar 39
+L039,SAP India,RiskOps AI,Closed Lost,Rohit Kumar 40
+L040,Adobe India,HealthCare AI Suite,Prospecting,Rohit Kumar 41
+L041,Netflix India,FinAI Insights,Negotiation,Rohit Kumar 42
+L042,Disney+ Hotstar,DataX Analytics,Closed Won,Rohit Kumar 43
+L043,Byju's,RiskMonitor AI,Closed Lost,Rohit Kumar 44
+L044,Unacademy,RiskControl Pro,Prospecting,Rohit Kumar 45
+L045,Vedantu,HealthOps AI,Negotiation,Rohit Kumar 46
+L046,UpGrad,FinAI Insights,Closed Won,Rohit Kumar 47
+L047,Cred,DataLens Analytics,Closed Lost,Rohit Kumar 48
+L048,PhonePe,AnalyticsX Suite,Prospecting,Rohit Kumar 49
+L049,Google Cloud,DataVision Pro,Negotiation,Rohit Kumar 50
+L050,Haricorp Tech,HealthCare AI Suite,Closed Won,Rohit Kumar 51

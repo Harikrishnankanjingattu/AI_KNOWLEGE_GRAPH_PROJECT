@@ -3,14 +3,14 @@
     "source_type": "structured",
     "source_name": "company_revenue.csv",
     "entity_type": "Company_Revenue",
-    "entity_id": "COM-a4c37051",
+    "entity_id": "COM-7c83b4e1",
     "attributes": {
       "year": "2019",
-      "revenue_usd": "45000000"
+      "revenue_usd": "44800000"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.264111+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.579889+00:00",
       "source_confidence": 1.0,
       "origin_system": "File System"
     }
@@ -19,14 +19,14 @@
     "source_type": "structured",
     "source_name": "company_revenue.csv",
     "entity_type": "Company_Revenue",
-    "entity_id": "COM-b897ccf4",
+    "entity_id": "COM-dddcc6ff",
     "attributes": {
       "year": "2020",
-      "revenue_usd": "53500000"
+      "revenue_usd": "53200000"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.264158+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.579908+00:00",
       "source_confidence": 1.0,
       "origin_system": "File System"
     }
@@ -35,14 +35,14 @@
     "source_type": "structured",
     "source_name": "company_revenue.csv",
     "entity_type": "Company_Revenue",
-    "entity_id": "COM-d3d046a9",
+    "entity_id": "COM-f60a5a0b",
     "attributes": {
       "year": "2021",
-      "revenue_usd": "62000000"
+      "revenue_usd": "61900000"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.264179+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.579917+00:00",
       "source_confidence": 1.0,
       "origin_system": "File System"
     }
@@ -51,14 +51,14 @@
     "source_type": "structured",
     "source_name": "company_revenue.csv",
     "entity_type": "Company_Revenue",
-    "entity_id": "COM-4cc46e82",
+    "entity_id": "COM-68deb3d0",
     "attributes": {
       "year": "2022",
-      "revenue_usd": "70500000"
+      "revenue_usd": "70600000"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.264193+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.579923+00:00",
       "source_confidence": 1.0,
       "origin_system": "File System"
     }
@@ -67,14 +67,14 @@
     "source_type": "structured",
     "source_name": "company_revenue.csv",
     "entity_type": "Company_Revenue",
-    "entity_id": "COM-92cbfaeb",
+    "entity_id": "COM-67ca1afb",
     "attributes": {
       "year": "2023",
-      "revenue_usd": "79000000"
+      "revenue_usd": "78900000"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.264205+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.579928+00:00",
       "source_confidence": 1.0,
       "origin_system": "File System"
     }
@@ -83,14 +83,14 @@
     "source_type": "structured",
     "source_name": "company_revenue.csv",
     "entity_type": "Company_Revenue",
-    "entity_id": "COM-b36d2b5e",
+    "entity_id": "COM-e0bba729",
     "attributes": {
       "year": "2024",
-      "revenue_usd": "87500000"
+      "revenue_usd": "86700000"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.264219+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.579934+00:00",
       "source_confidence": 1.0,
       "origin_system": "File System"
     }

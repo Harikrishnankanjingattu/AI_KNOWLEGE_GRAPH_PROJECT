@@ -3,12 +3,14 @@
     "source_type": "semi_structured",
     "source_name": "training_records.csv",
     "entity_type": "Entity",
-    "entity_id": "ENT-020fd728",
+    "entity_id": "ENT-1ca7cd7e",
     "attributes": {
       "training_id": "TR001",
       "course_name": "Cloud Security Compliance",
       "department": "IT",
-      "completion_date": "2025-02-15"
+      "completion_date": "2024-12-10",
+      "trainer_name": "Anjali Menon",
+      "status": "Completed"
     },
     "relationships": [
       {
@@ -17,7 +19,7 @@
       }
     ],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.315924+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.592610+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -26,12 +28,14 @@
     "source_type": "semi_structured",
     "source_name": "training_records.csv",
     "entity_type": "Entity",
-    "entity_id": "ENT-59ba1a04",
+    "entity_id": "ENT-43804f9e",
     "attributes": {
       "training_id": "TR002",
       "course_name": "Enterprise Sales Strategy",
       "department": "Sales",
-      "completion_date": "2025-02-15"
+      "completion_date": "2024-12-12",
+      "trainer_name": "Arjun Nair",
+      "status": "Completed"
     },
     "relationships": [
       {
@@ -40,7 +44,7 @@
       }
     ],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.316055+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.592629+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -49,12 +53,14 @@
     "source_type": "semi_structured",
     "source_name": "training_records.csv",
     "entity_type": "Entity",
-    "entity_id": "ENT-0f05a6d5",
+    "entity_id": "ENT-51186ba5",
     "attributes": {
       "training_id": "TR003",
       "course_name": "Advanced Machine Learning",
       "department": "Engineering",
-      "completion_date": "2025-02-15"
+      "completion_date": "2024-12-15",
+      "trainer_name": "Dr. Suresh Iyer",
+      "status": "Completed"
     },
     "relationships": [
       {
@@ -63,7 +69,7 @@
       }
     ],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.316069+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.592639+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -72,21 +78,23 @@
     "source_type": "semi_structured",
     "source_name": "training_records.csv",
     "entity_type": "Entity",
-    "entity_id": "ENT-c91b4446",
+    "entity_id": "ENT-70ddc4ef",
     "attributes": {
       "training_id": "TR004",
-      "course_name": "Cloud Security Compliance",
-      "department": "IT",
-      "completion_date": "2025-02-15"
+      "course_name": "Data Privacy & GDPR",
+      "department": "Legal",
+      "completion_date": "2024-12-18",
+      "trainer_name": "Meera Krishnan",
+      "status": "Completed"
     },
     "relationships": [
       {
         "relation": "BELONGS_TO",
-        "target_entity": "DEP-cd32106b"
+        "target_entity": "DEP-a10a9bcd"
       }
     ],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.316079+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.592647+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -95,21 +103,23 @@
     "source_type": "semi_structured",
     "source_name": "training_records.csv",
     "entity_type": "Entity",
-    "entity_id": "ENT-d218005a",
+    "entity_id": "ENT-13c51c90",
     "attributes": {
       "training_id": "TR005",
-      "course_name": "Enterprise Sales Strategy",
-      "department": "Sales",
-      "completion_date": "2025-02-15"
+      "course_name": "Customer Success Best Practices",
+      "department": "Support",
+      "completion_date": "2024-12-20",
+      "trainer_name": "Ravi Kumar",
+      "status": "Completed"
     },
     "relationships": [
       {
         "relation": "BELONGS_TO",
-        "target_entity": "DEP-11ff9f68"
+        "target_entity": "DEP-db5eb841"
       }
     ],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.316092+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.592656+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -118,21 +128,23 @@
     "source_type": "semi_structured",
     "source_name": "training_records.csv",
     "entity_type": "Entity",
-    "entity_id": "ENT-4d0eb4b6",
+    "entity_id": "ENT-aac9efbb",
     "attributes": {
       "training_id": "TR006",
-      "course_name": "Advanced Machine Learning",
-      "department": "Engineering",
-      "completion_date": "2025-02-15"
+      "course_name": "DevOps Automation",
+      "department": "IT",
+      "completion_date": "2024-12-22",
+      "trainer_name": "Sneha Thomas",
+      "status": "Completed"
     },
     "relationships": [
       {
         "relation": "BELONGS_TO",
-        "target_entity": "DEP-ab0268fb"
+        "target_entity": "DEP-cd32106b"
       }
     ],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.316114+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.592664+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -141,21 +153,23 @@
     "source_type": "semi_structured",
     "source_name": "training_records.csv",
     "entity_type": "Entity",
-    "entity_id": "ENT-f01d8150",
+    "entity_id": "ENT-41008260",
     "attributes": {
       "training_id": "TR007",
-      "course_name": "Cloud Security Compliance",
-      "department": "IT",
-      "completion_date": "2025-02-15"
+      "course_name": "AI Ethics & Governance",
+      "department": "HR",
+      "completion_date": "2024-12-25",
+      "trainer_name": "Neha Singh",
+      "status": "Completed"
     },
     "relationships": [
       {
         "relation": "BELONGS_TO",
-        "target_entity": "DEP-cd32106b"
+        "target_entity": "DEP-fd4c638d"
       }
     ],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.316125+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.592672+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -164,12 +178,14 @@
     "source_type": "semi_structured",
     "source_name": "training_records.csv",
     "entity_type": "Entity",
-    "entity_id": "ENT-959b8f12",
+    "entity_id": "ENT-f6f6460a",
     "attributes": {
       "training_id": "TR008",
-      "course_name": "Enterprise Sales Strategy",
+      "course_name": "Negotiation & Closing Deals",
       "department": "Sales",
-      "completion_date": "2025-02-15"
+      "completion_date": "2024-12-27",
+      "trainer_name": "Manish Sharma",
+      "status": "Completed"
     },
     "relationships": [
       {
@@ -178,7 +194,7 @@
       }
     ],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.316146+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.592680+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -187,12 +203,14 @@
     "source_type": "semi_structured",
     "source_name": "training_records.csv",
     "entity_type": "Entity",
-    "entity_id": "ENT-90b18037",
+    "entity_id": "ENT-e469dc38",
     "attributes": {
       "training_id": "TR009",
-      "course_name": "Advanced Machine Learning",
+      "course_name": "IoT & Edge Computing",
       "department": "Engineering",
-      "completion_date": "2025-02-15"
+      "completion_date": "2024-12-29",
+      "trainer_name": "Dr. Nithin Rao",
+      "status": "Completed"
     },
     "relationships": [
       {
@@ -201,7 +219,7 @@
       }
     ],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.316161+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.592688+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -210,21 +228,23 @@
     "source_type": "semi_structured",
     "source_name": "training_records.csv",
     "entity_type": "Entity",
-    "entity_id": "ENT-b4e19110",
+    "entity_id": "ENT-0b53ee70",
     "attributes": {
       "training_id": "TR010",
-      "course_name": "Cloud Security Compliance",
-      "department": "IT",
-      "completion_date": "2025-02-15"
+      "course_name": "Data Visualization with PowerBI",
+      "department": "Analytics",
+      "completion_date": "2025-01-05",
+      "trainer_name": "Anitha George",
+      "status": "Completed"
     },
     "relationships": [
       {
         "relation": "BELONGS_TO",
-        "target_entity": "DEP-cd32106b"
+        "target_entity": "DEP-a768caa9"
       }
     ],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.316175+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.592696+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -233,21 +253,23 @@
     "source_type": "semi_structured",
     "source_name": "training_records.csv",
     "entity_type": "Entity",
-    "entity_id": "ENT-08af3fb5",
+    "entity_id": "ENT-2a366228",
     "attributes": {
       "training_id": "TR011",
-      "course_name": "Enterprise Sales Strategy",
-      "department": "Sales",
-      "completion_date": "2025-02-15"
+      "course_name": "Cloud Cost Optimization",
+      "department": "IT",
+      "completion_date": "2025-01-08",
+      "trainer_name": "Rohit Menon",
+      "status": "In Progress"
     },
     "relationships": [
       {
         "relation": "BELONGS_TO",
-        "target_entity": "DEP-11ff9f68"
+        "target_entity": "DEP-cd32106b"
       }
     ],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.316189+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.592704+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -256,21 +278,23 @@
     "source_type": "semi_structured",
     "source_name": "training_records.csv",
     "entity_type": "Entity",
-    "entity_id": "ENT-5881cf4b",
+    "entity_id": "ENT-0571cb9d",
     "attributes": {
       "training_id": "TR012",
-      "course_name": "Advanced Machine Learning",
-      "department": "Engineering",
-      "completion_date": "2025-02-15"
+      "course_name": "Sales Forecasting Techniques",
+      "department": "Sales",
+      "completion_date": "2025-01-10",
+      "trainer_name": "Shreya Pillai",
+      "status": "In Progress"
     },
     "relationships": [
       {
         "relation": "BELONGS_TO",
-        "target_entity": "DEP-ab0268fb"
+        "target_entity": "DEP-11ff9f68"
       }
     ],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.316207+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.592711+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -279,21 +303,23 @@
     "source_type": "semi_structured",
     "source_name": "training_records.csv",
     "entity_type": "Entity",
-    "entity_id": "ENT-80220c41",
+    "entity_id": "ENT-0ffb63e8",
     "attributes": {
       "training_id": "TR013",
-      "course_name": "Cloud Security Compliance",
-      "department": "IT",
-      "completion_date": "2025-02-15"
+      "course_name": "Deep Learning Fundamentals",
+      "department": "Engineering",
+      "completion_date": "2025-01-12",
+      "trainer_name": "Dr. Priya Nair",
+      "status": "In Progress"
     },
     "relationships": [
       {
         "relation": "BELONGS_TO",
-        "target_entity": "DEP-cd32106b"
+        "target_entity": "DEP-ab0268fb"
       }
     ],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.316220+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.592720+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -302,21 +328,23 @@
     "source_type": "semi_structured",
     "source_name": "training_records.csv",
     "entity_type": "Entity",
-    "entity_id": "ENT-ab479866",
+    "entity_id": "ENT-ad4db400",
     "attributes": {
       "training_id": "TR014",
-      "course_name": "Enterprise Sales Strategy",
-      "department": "Sales",
-      "completion_date": "2025-02-15"
+      "course_name": "Risk Management & Compliance",
+      "department": "Legal",
+      "completion_date": "2025-01-15",
+      "trainer_name": "Arun Thomas",
+      "status": "In Progress"
     },
     "relationships": [
       {
         "relation": "BELONGS_TO",
-        "target_entity": "DEP-11ff9f68"
+        "target_entity": "DEP-a10a9bcd"
       }
     ],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.316234+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.592728+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -325,21 +353,23 @@
     "source_type": "semi_structured",
     "source_name": "training_records.csv",
     "entity_type": "Entity",
-    "entity_id": "ENT-d947896c",
+    "entity_id": "ENT-ad22b60f",
     "attributes": {
       "training_id": "TR015",
-      "course_name": "Advanced Machine Learning",
-      "department": "Engineering",
-      "completion_date": "2025-02-15"
+      "course_name": "Customer Onboarding Excellence",
+      "department": "Support",
+      "completion_date": "2025-01-18",
+      "trainer_name": "Divya Nair",
+      "status": "In Progress"
     },
     "relationships": [
       {
         "relation": "BELONGS_TO",
-        "target_entity": "DEP-ab0268fb"
+        "target_entity": "DEP-db5eb841"
       }
     ],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.316248+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.592735+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -348,12 +378,14 @@
     "source_type": "semi_structured",
     "source_name": "training_records.csv",
     "entity_type": "Entity",
-    "entity_id": "ENT-5aeed3ab",
+    "entity_id": "ENT-035808aa",
     "attributes": {
       "training_id": "TR016",
-      "course_name": "Cloud Security Compliance",
+      "course_name": "CI/CD Pipeline Implementation",
       "department": "IT",
-      "completion_date": "2025-02-15"
+      "completion_date": "2025-01-20",
+      "trainer_name": "Ajay Kumar",
+      "status": "In Progress"
     },
     "relationships": [
       {
@@ -362,7 +394,7 @@
       }
     ],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.316263+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.592743+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -371,21 +403,23 @@
     "source_type": "semi_structured",
     "source_name": "training_records.csv",
     "entity_type": "Entity",
-    "entity_id": "ENT-ae2b94bd",
+    "entity_id": "ENT-9202841b",
     "attributes": {
       "training_id": "TR017",
-      "course_name": "Enterprise Sales Strategy",
-      "department": "Sales",
-      "completion_date": "2025-02-15"
+      "course_name": "Workplace Ethics & Policy",
+      "department": "HR",
+      "completion_date": "2025-01-22",
+      "trainer_name": "Sunita Das",
+      "status": "In Progress"
     },
     "relationships": [
       {
         "relation": "BELONGS_TO",
-        "target_entity": "DEP-11ff9f68"
+        "target_entity": "DEP-fd4c638d"
       }
     ],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.316276+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.592751+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -394,21 +428,23 @@
     "source_type": "semi_structured",
     "source_name": "training_records.csv",
     "entity_type": "Entity",
-    "entity_id": "ENT-deb7ec3e",
+    "entity_id": "ENT-8ced9c9c",
     "attributes": {
       "training_id": "TR018",
-      "course_name": "Advanced Machine Learning",
-      "department": "Engineering",
-      "completion_date": "2025-02-15"
+      "course_name": "Advanced Selling Skills",
+      "department": "Sales",
+      "completion_date": "2025-01-25",
+      "trainer_name": "Anil Gupta",
+      "status": "In Progress"
     },
     "relationships": [
       {
         "relation": "BELONGS_TO",
-        "target_entity": "DEP-ab0268fb"
+        "target_entity": "DEP-11ff9f68"
       }
     ],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.316289+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.592759+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -417,21 +453,23 @@
     "source_type": "semi_structured",
     "source_name": "training_records.csv",
     "entity_type": "Entity",
-    "entity_id": "ENT-37e4be5b",
+    "entity_id": "ENT-f0114c56",
     "attributes": {
       "training_id": "TR019",
-      "course_name": "Cloud Security Compliance",
-      "department": "IT",
-      "completion_date": "2025-02-15"
+      "course_name": "Embedded Systems Design",
+      "department": "Engineering",
+      "completion_date": "2025-01-28",
+      "trainer_name": "Dr. Siva Kumar",
+      "status": "In Progress"
     },
     "relationships": [
       {
         "relation": "BELONGS_TO",
-        "target_entity": "DEP-cd32106b"
+        "target_entity": "DEP-ab0268fb"
       }
     ],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.316310+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.592768+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -440,21 +478,23 @@
     "source_type": "semi_structured",
     "source_name": "training_records.csv",
     "entity_type": "Entity",
-    "entity_id": "ENT-47f31a82",
+    "entity_id": "ENT-2bb75fc6",
     "attributes": {
       "training_id": "TR020",
-      "course_name": "Enterprise Sales Strategy",
-      "department": "Sales",
-      "completion_date": "2025-02-15"
+      "course_name": "Data Engineering Basics",
+      "department": "Analytics",
+      "completion_date": "2025-02-01",
+      "trainer_name": "Neeraj Kumar",
+      "status": "In Progress"
     },
     "relationships": [
       {
         "relation": "BELONGS_TO",
-        "target_entity": "DEP-11ff9f68"
+        "target_entity": "DEP-a768caa9"
       }
     ],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.316324+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.592776+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -463,21 +503,23 @@
     "source_type": "semi_structured",
     "source_name": "training_records.csv",
     "entity_type": "Entity",
-    "entity_id": "ENT-2b2b58d8",
+    "entity_id": "ENT-65de7f2b",
     "attributes": {
       "training_id": "TR021",
-      "course_name": "Advanced Machine Learning",
-      "department": "Engineering",
-      "completion_date": "2025-02-15"
+      "course_name": "Zero Trust Security",
+      "department": "IT",
+      "completion_date": "2025-02-05",
+      "trainer_name": "Megha Reddy",
+      "status": "Pending"
     },
     "relationships": [
       {
         "relation": "BELONGS_TO",
-        "target_entity": "DEP-ab0268fb"
+        "target_entity": "DEP-cd32106b"
       }
     ],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.316336+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.592784+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -486,21 +528,23 @@
     "source_type": "semi_structured",
     "source_name": "training_records.csv",
     "entity_type": "Entity",
-    "entity_id": "ENT-8847fefb",
+    "entity_id": "ENT-32c728ba",
     "attributes": {
       "training_id": "TR022",
-      "course_name": "Cloud Security Compliance",
-      "department": "IT",
-      "completion_date": "2025-02-15"
+      "course_name": "Account Management Strategies",
+      "department": "Sales",
+      "completion_date": "2025-02-08",
+      "trainer_name": "Varun Menon",
+      "status": "Pending"
     },
     "relationships": [
       {
         "relation": "BELONGS_TO",
-        "target_entity": "DEP-cd32106b"
+        "target_entity": "DEP-11ff9f68"
       }
     ],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.316347+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.592792+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -509,21 +553,23 @@
     "source_type": "semi_structured",
     "source_name": "training_records.csv",
     "entity_type": "Entity",
-    "entity_id": "ENT-5710f0c6",
+    "entity_id": "ENT-fc3031b4",
     "attributes": {
       "training_id": "TR023",
-      "course_name": "Enterprise Sales Strategy",
-      "department": "Sales",
-      "completion_date": "2025-02-15"
+      "course_name": "Natural Language Processing",
+      "department": "Engineering",
+      "completion_date": "2025-02-10",
+      "trainer_name": "Dr. Kavya Iyer",
+      "status": "Pending"
     },
     "relationships": [
       {
         "relation": "BELONGS_TO",
-        "target_entity": "DEP-11ff9f68"
+        "target_entity": "DEP-ab0268fb"
       }
     ],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.316359+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.592800+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -532,21 +578,23 @@
     "source_type": "semi_structured",
     "source_name": "training_records.csv",
     "entity_type": "Entity",
-    "entity_id": "ENT-b1cb6648",
+    "entity_id": "ENT-43399036",
     "attributes": {
       "training_id": "TR024",
-      "course_name": "Advanced Machine Learning",
-      "department": "Engineering",
-      "completion_date": "2025-02-15"
+      "course_name": "Contract Law Essentials",
+      "department": "Legal",
+      "completion_date": "2025-02-12",
+      "trainer_name": "Ramya Krishnan",
+      "status": "Pending"
     },
     "relationships": [
       {
         "relation": "BELONGS_TO",
-        "target_entity": "DEP-ab0268fb"
+        "target_entity": "DEP-a10a9bcd"
       }
     ],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.316372+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.592808+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -555,21 +603,23 @@
     "source_type": "semi_structured",
     "source_name": "training_records.csv",
     "entity_type": "Entity",
-    "entity_id": "ENT-94d215ef",
+    "entity_id": "ENT-f35fe86f",
     "attributes": {
       "training_id": "TR025",
-      "course_name": "Cloud Security Compliance",
-      "department": "IT",
-      "completion_date": "2025-02-15"
+      "course_name": "Support Ticket Management",
+      "department": "Support",
+      "completion_date": "2025-02-14",
+      "trainer_name": "Rahul Nair",
+      "status": "Pending"
     },
     "relationships": [
       {
         "relation": "BELONGS_TO",
-        "target_entity": "DEP-cd32106b"
+        "target_entity": "DEP-db5eb841"
       }
     ],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.316384+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.592815+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -578,21 +628,23 @@
     "source_type": "semi_structured",
     "source_name": "training_records.csv",
     "entity_type": "Entity",
-    "entity_id": "ENT-d26435d4",
+    "entity_id": "ENT-35906c26",
     "attributes": {
       "training_id": "TR026",
-      "course_name": "Enterprise Sales Strategy",
-      "department": "Sales",
-      "completion_date": "2025-02-15"
+      "course_name": "Cloud Networking Fundamentals",
+      "department": "IT",
+      "completion_date": "2025-02-16",
+      "trainer_name": "Anu Mathew",
+      "status": "Pending"
     },
     "relationships": [
       {
         "relation": "BELONGS_TO",
-        "target_entity": "DEP-11ff9f68"
+        "target_entity": "DEP-cd32106b"
       }
     ],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.316395+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.592823+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -601,21 +653,23 @@
     "source_type": "semi_structured",
     "source_name": "training_records.csv",
     "entity_type": "Entity",
-    "entity_id": "ENT-45dad2e4",
+    "entity_id": "ENT-00209add",
     "attributes": {
       "training_id": "TR027",
-      "course_name": "Advanced Machine Learning",
-      "department": "Engineering",
-      "completion_date": "2025-02-15"
+      "course_name": "HR Analytics & Insights",
+      "department": "HR",
+      "completion_date": "2025-02-18",
+      "trainer_name": "Neha Kapoor",
+      "status": "Pending"
     },
     "relationships": [
       {
         "relation": "BELONGS_TO",
-        "target_entity": "DEP-ab0268fb"
+        "target_entity": "DEP-fd4c638d"
       }
     ],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.316405+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.592831+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -624,21 +678,23 @@
     "source_type": "semi_structured",
     "source_name": "training_records.csv",
     "entity_type": "Entity",
-    "entity_id": "ENT-62509df6",
+    "entity_id": "ENT-57481492",
     "attributes": {
       "training_id": "TR028",
-      "course_name": "Cloud Security Compliance",
-      "department": "IT",
-      "completion_date": "2025-02-15"
+      "course_name": "Strategic Account Growth",
+      "department": "Sales",
+      "completion_date": "2025-02-20",
+      "trainer_name": "Praveen Kumar",
+      "status": "Pending"
     },
     "relationships": [
       {
         "relation": "BELONGS_TO",
-        "target_entity": "DEP-cd32106b"
+        "target_entity": "DEP-11ff9f68"
       }
     ],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.316415+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.592839+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -647,21 +703,23 @@
     "source_type": "semi_structured",
     "source_name": "training_records.csv",
     "entity_type": "Entity",
-    "entity_id": "ENT-2ff95158",
+    "entity_id": "ENT-98719167",
     "attributes": {
       "training_id": "TR029",
-      "course_name": "Enterprise Sales Strategy",
-      "department": "Sales",
-      "completion_date": "2025-02-15"
+      "course_name": "Robotics & Automation",
+      "department": "Engineering",
+      "completion_date": "2025-02-22",
+      "trainer_name": "Dr. Rajesh Menon",
+      "status": "Pending"
     },
     "relationships": [
       {
         "relation": "BELONGS_TO",
-        "target_entity": "DEP-11ff9f68"
+        "target_entity": "DEP-ab0268fb"
       }
     ],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.316425+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.592848+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -670,21 +728,23 @@
     "source_type": "semi_structured",
     "source_name": "training_records.csv",
     "entity_type": "Entity",
-    "entity_id": "ENT-7cda24f0",
+    "entity_id": "ENT-0542ff7b",
     "attributes": {
       "training_id": "TR030",
-      "course_name": "Advanced Machine Learning",
-      "department": "Engineering",
-      "completion_date": "2025-02-15"
+      "course_name": "SQL for Data Analysts",
+      "department": "Analytics",
+      "completion_date": "2025-02-24",
+      "trainer_name": "Meena Joseph",
+      "status": "Pending"
     },
     "relationships": [
       {
         "relation": "BELONGS_TO",
-        "target_entity": "DEP-ab0268fb"
+        "target_entity": "DEP-a768caa9"
       }
     ],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.316436+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.592856+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -693,12 +753,14 @@
     "source_type": "semi_structured",
     "source_name": "training_records.csv",
     "entity_type": "Entity",
-    "entity_id": "ENT-a9d70a7a",
+    "entity_id": "ENT-a726d350",
     "attributes": {
       "training_id": "TR031",
-      "course_name": "Cloud Security Compliance",
+      "course_name": "Incident Response Planning",
       "department": "IT",
-      "completion_date": "2025-02-15"
+      "completion_date": "2025-02-26",
+      "trainer_name": "Ajith Kumar",
+      "status": "Completed"
     },
     "relationships": [
       {
@@ -707,7 +769,7 @@
       }
     ],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.316448+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.592864+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -716,12 +778,14 @@
     "source_type": "semi_structured",
     "source_name": "training_records.csv",
     "entity_type": "Entity",
-    "entity_id": "ENT-03ff5326",
+    "entity_id": "ENT-39e9af5e",
     "attributes": {
       "training_id": "TR032",
-      "course_name": "Enterprise Sales Strategy",
+      "course_name": "Sales Enablement Tools",
       "department": "Sales",
-      "completion_date": "2025-02-15"
+      "completion_date": "2025-02-28",
+      "trainer_name": "Shalini Nair",
+      "status": "Completed"
     },
     "relationships": [
       {
@@ -730,7 +794,7 @@
       }
     ],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.316456+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.592871+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -739,12 +803,14 @@
     "source_type": "semi_structured",
     "source_name": "training_records.csv",
     "entity_type": "Entity",
-    "entity_id": "ENT-c9a96d6a",
+    "entity_id": "ENT-235ba50c",
     "attributes": {
       "training_id": "TR033",
-      "course_name": "Advanced Machine Learning",
+      "course_name": "Computer Vision Applications",
       "department": "Engineering",
-      "completion_date": "2025-02-15"
+      "completion_date": "2025-03-02",
+      "trainer_name": "Dr. Anu Varma",
+      "status": "Completed"
     },
     "relationships": [
       {
@@ -753,7 +819,7 @@
       }
     ],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.316465+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.592880+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -762,21 +828,23 @@
     "source_type": "semi_structured",
     "source_name": "training_records.csv",
     "entity_type": "Entity",
-    "entity_id": "ENT-c2ac3c01",
+    "entity_id": "ENT-bfc6be67",
     "attributes": {
       "training_id": "TR034",
-      "course_name": "Cloud Security Compliance",
-      "department": "IT",
-      "completion_date": "2025-02-15"
+      "course_name": "Legal Contract Negotiations",
+      "department": "Legal",
+      "completion_date": "2025-03-05",
+      "trainer_name": "Ravi Shankar",
+      "status": "Completed"
     },
     "relationships": [
       {
         "relation": "BELONGS_TO",
-        "target_entity": "DEP-cd32106b"
+        "target_entity": "DEP-a10a9bcd"
       }
     ],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.316475+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.592887+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -785,21 +853,23 @@
     "source_type": "semi_structured",
     "source_name": "training_records.csv",
     "entity_type": "Entity",
-    "entity_id": "ENT-37946ae7",
+    "entity_id": "ENT-ca718203",
     "attributes": {
       "training_id": "TR035",
-      "course_name": "Enterprise Sales Strategy",
-      "department": "Sales",
-      "completion_date": "2025-02-15"
+      "course_name": "Customer Retention Strategies",
+      "department": "Support",
+      "completion_date": "2025-03-08",
+      "trainer_name": "Deepa Menon",
+      "status": "Completed"
     },
     "relationships": [
       {
         "relation": "BELONGS_TO",
-        "target_entity": "DEP-11ff9f68"
+        "target_entity": "DEP-db5eb841"
       }
     ],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.316482+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.592896+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -808,21 +878,23 @@
     "source_type": "semi_structured",
     "source_name": "training_records.csv",
     "entity_type": "Entity",
-    "entity_id": "ENT-0bb88b67",
+    "entity_id": "ENT-c2a4c849",
     "attributes": {
       "training_id": "TR036",
-      "course_name": "Advanced Machine Learning",
-      "department": "Engineering",
-      "completion_date": "2025-02-15"
+      "course_name": "Cloud Migration Best Practices",
+      "department": "IT",
+      "completion_date": "2025-03-10",
+      "trainer_name": "Prakash Iyer",
+      "status": "Completed"
     },
     "relationships": [
       {
         "relation": "BELONGS_TO",
-        "target_entity": "DEP-ab0268fb"
+        "target_entity": "DEP-cd32106b"
       }
     ],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.316490+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.592903+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -831,21 +903,23 @@
     "source_type": "semi_structured",
     "source_name": "training_records.csv",
     "entity_type": "Entity",
-    "entity_id": "ENT-c899e631",
+    "entity_id": "ENT-015c63b9",
     "attributes": {
       "training_id": "TR037",
-      "course_name": "Cloud Security Compliance",
-      "department": "IT",
-      "completion_date": "2025-02-15"
+      "course_name": "Conflict Resolution at Work",
+      "department": "HR",
+      "completion_date": "2025-03-12",
+      "trainer_name": "Anita Rao",
+      "status": "Completed"
     },
     "relationships": [
       {
         "relation": "BELONGS_TO",
-        "target_entity": "DEP-cd32106b"
+        "target_entity": "DEP-fd4c638d"
       }
     ],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.316499+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.592911+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -854,12 +928,14 @@
     "source_type": "semi_structured",
     "source_name": "training_records.csv",
     "entity_type": "Entity",
-    "entity_id": "ENT-912f077f",
+    "entity_id": "ENT-8cecfb3f",
     "attributes": {
       "training_id": "TR038",
-      "course_name": "Enterprise Sales Strategy",
+      "course_name": "Advanced Sales Pitching",
       "department": "Sales",
-      "completion_date": "2025-02-15"
+      "completion_date": "2025-03-15",
+      "trainer_name": "Anish Kumar",
+      "status": "Completed"
     },
     "relationships": [
       {
@@ -868,7 +944,7 @@
       }
     ],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.316507+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.592919+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -877,12 +953,14 @@
     "source_type": "semi_structured",
     "source_name": "training_records.csv",
     "entity_type": "Entity",
-    "entity_id": "ENT-93dcddc6",
+    "entity_id": "ENT-117b697d",
     "attributes": {
       "training_id": "TR039",
-      "course_name": "Advanced Machine Learning",
+      "course_name": "Microservices Architecture",
       "department": "Engineering",
-      "completion_date": "2025-02-15"
+      "completion_date": "2025-03-18",
+      "trainer_name": "Dr. Vinod Nair",
+      "status": "Completed"
     },
     "relationships": [
       {
@@ -891,7 +969,7 @@
       }
     ],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.316516+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.592927+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -900,21 +978,23 @@
     "source_type": "semi_structured",
     "source_name": "training_records.csv",
     "entity_type": "Entity",
-    "entity_id": "ENT-3ac1db24",
+    "entity_id": "ENT-e16dd594",
     "attributes": {
       "training_id": "TR040",
-      "course_name": "Cloud Security Compliance",
-      "department": "IT",
-      "completion_date": "2025-02-15"
+      "course_name": "Data Quality & Governance",
+      "department": "Analytics",
+      "completion_date": "2025-03-20",
+      "trainer_name": "Sunil Kumar",
+      "status": "Completed"
     },
     "relationships": [
       {
         "relation": "BELONGS_TO",
-        "target_entity": "DEP-cd32106b"
+        "target_entity": "DEP-a768caa9"
       }
     ],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.316525+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.592935+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -923,21 +1003,23 @@
     "source_type": "semi_structured",
     "source_name": "training_records.csv",
     "entity_type": "Entity",
-    "entity_id": "ENT-e52b458c",
+    "entity_id": "ENT-b6da6f54",
     "attributes": {
       "training_id": "TR041",
-      "course_name": "Enterprise Sales Strategy",
-      "department": "Sales",
-      "completion_date": "2025-02-15"
+      "course_name": "Identity & Access Management",
+      "department": "IT",
+      "completion_date": "2025-03-22",
+      "trainer_name": "Neha Sharma",
+      "status": "In Progress"
     },
     "relationships": [
       {
         "relation": "BELONGS_TO",
-        "target_entity": "DEP-11ff9f68"
+        "target_entity": "DEP-cd32106b"
       }
     ],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.316534+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.592943+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -946,21 +1028,23 @@
     "source_type": "semi_structured",
     "source_name": "training_records.csv",
     "entity_type": "Entity",
-    "entity_id": "ENT-926d79b9",
+    "entity_id": "ENT-29ef6953",
     "attributes": {
       "training_id": "TR042",
-      "course_name": "Advanced Machine Learning",
-      "department": "Engineering",
-      "completion_date": "2025-02-15"
+      "course_name": "Sales KPI Analytics",
+      "department": "Sales",
+      "completion_date": "2025-03-24",
+      "trainer_name": "Arjun Reddy",
+      "status": "In Progress"
     },
     "relationships": [
       {
         "relation": "BELONGS_TO",
-        "target_entity": "DEP-ab0268fb"
+        "target_entity": "DEP-11ff9f68"
       }
     ],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.316544+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.592952+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -969,21 +1053,23 @@
     "source_type": "semi_structured",
     "source_name": "training_records.csv",
     "entity_type": "Entity",
-    "entity_id": "ENT-e3936063",
+    "entity_id": "ENT-6ad0a076",
     "attributes": {
       "training_id": "TR043",
-      "course_name": "Cloud Security Compliance",
-      "department": "IT",
-      "completion_date": "2025-02-15"
+      "course_name": "AI Model Deployment",
+      "department": "Engineering",
+      "completion_date": "2025-03-26",
+      "trainer_name": "Dr. Meera Iyer",
+      "status": "In Progress"
     },
     "relationships": [
       {
         "relation": "BELONGS_TO",
-        "target_entity": "DEP-cd32106b"
+        "target_entity": "DEP-ab0268fb"
       }
     ],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.316553+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.592960+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -992,21 +1078,23 @@
     "source_type": "semi_structured",
     "source_name": "training_records.csv",
     "entity_type": "Entity",
-    "entity_id": "ENT-58e65dc0",
+    "entity_id": "ENT-dd80a62f",
     "attributes": {
       "training_id": "TR044",
-      "course_name": "Enterprise Sales Strategy",
-      "department": "Sales",
-      "completion_date": "2025-02-15"
+      "course_name": "Corporate Compliance Training",
+      "department": "Legal",
+      "completion_date": "2025-03-28",
+      "trainer_name": "Anand Menon",
+      "status": "In Progress"
     },
     "relationships": [
       {
         "relation": "BELONGS_TO",
-        "target_entity": "DEP-11ff9f68"
+        "target_entity": "DEP-a10a9bcd"
       }
     ],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.316560+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.592968+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -1015,21 +1103,23 @@
     "source_type": "semi_structured",
     "source_name": "training_records.csv",
     "entity_type": "Entity",
-    "entity_id": "ENT-79903d0b",
+    "entity_id": "ENT-8d788997",
     "attributes": {
       "training_id": "TR045",
-      "course_name": "Advanced Machine Learning",
-      "department": "Engineering",
-      "completion_date": "2025-02-15"
+      "course_name": "Support SLA Management",
+      "department": "Support",
+      "completion_date": "2025-03-30",
+      "trainer_name": "Rekha Nair",
+      "status": "In Progress"
     },
     "relationships": [
       {
         "relation": "BELONGS_TO",
-        "target_entity": "DEP-ab0268fb"
+        "target_entity": "DEP-db5eb841"
       }
     ],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.316570+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.592976+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -1038,12 +1128,14 @@
     "source_type": "semi_structured",
     "source_name": "training_records.csv",
     "entity_type": "Entity",
-    "entity_id": "ENT-339c2247",
+    "entity_id": "ENT-db5d48d5",
     "attributes": {
       "training_id": "TR046",
-      "course_name": "Cloud Security Compliance",
+      "course_name": "Cloud Automation with Terraform",
       "department": "IT",
-      "completion_date": "2025-02-15"
+      "completion_date": "2025-04-02",
+      "trainer_name": "Harish Kumar",
+      "status": "In Progress"
     },
     "relationships": [
       {
@@ -1052,7 +1144,7 @@
       }
     ],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.316579+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.592984+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -1061,12 +1153,39 @@
     "source_type": "semi_structured",
     "source_name": "training_records.csv",
     "entity_type": "Entity",
-    "entity_id": "ENT-629a84a3",
+    "entity_id": "ENT-d070aa8e",
     "attributes": {
       "training_id": "TR047",
-      "course_name": "Enterprise Sales Strategy",
+      "course_name": "Employee Engagement Strategies",
+      "department": "HR",
+      "completion_date": "2025-04-05",
+      "trainer_name": "Shweta Singh",
+      "status": "Pending"
+    },
+    "relationships": [
+      {
+        "relation": "BELONGS_TO",
+        "target_entity": "DEP-fd4c638d"
+      }
+    ],
+    "metadata": {
+      "ingestion_timestamp": "2026-01-26T13:52:45.592992+00:00",
+      "source_confidence": 0.8,
+      "origin_system": "File System"
+    }
+  },
+  {
+    "source_type": "semi_structured",
+    "source_name": "training_records.csv",
+    "entity_type": "Entity",
+    "entity_id": "ENT-a8cc5568",
+    "attributes": {
+      "training_id": "TR048",
+      "course_name": "Sales Coaching & Mentoring",
       "department": "Sales",
-      "completion_date": "2025-02-15"
+      "completion_date": "2025-04-08",
+      "trainer_name": "Prashant Gupta",
+      "status": "Pending"
     },
     "relationships": [
       {
@@ -1075,7 +1194,7 @@
       }
     ],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.316589+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.592999+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -1084,12 +1203,14 @@
     "source_type": "semi_structured",
     "source_name": "training_records.csv",
     "entity_type": "Entity",
-    "entity_id": "ENT-12b60407",
+    "entity_id": "ENT-ee36c2cf",
     "attributes": {
-      "training_id": "TR048",
-      "course_name": "Advanced Machine Learning",
+      "training_id": "TR049",
+      "course_name": "Edge AI for IoT",
       "department": "Engineering",
-      "completion_date": "2025-02-15"
+      "completion_date": "2025-04-10",
+      "trainer_name": "Dr. Latha Menon",
+      "status": "Pending"
     },
     "relationships": [
       {
@@ -1098,7 +1219,7 @@
       }
     ],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.316597+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.593008+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -1107,44 +1228,23 @@
     "source_type": "semi_structured",
     "source_name": "training_records.csv",
     "entity_type": "Entity",
-    "entity_id": "ENT-828ec4d0",
-    "attributes": {
-      "training_id": "TR049",
-      "course_name": "Cloud Security Compliance",
-      "department": "IT",
-      "completion_date": "2025-02-15"
-    },
-    "relationships": [
-      {
-        "relation": "BELONGS_TO",
-        "target_entity": "DEP-cd32106b"
-      }
-    ],
-    "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.316607+00:00",
-      "source_confidence": 0.8,
-      "origin_system": "File System"
-    }
-  },
-  {
-    "source_type": "semi_structured",
-    "source_name": "training_records.csv",
-    "entity_type": "Entity",
-    "entity_id": "ENT-43c77e5e",
+    "entity_id": "ENT-165a4a6f",
     "attributes": {
       "training_id": "TR050",
-      "course_name": "Enterprise Sales Strategy",
-      "department": "Sales",
-      "completion_date": "2025-02-15"
+      "course_name": "Data Science for Business",
+      "department": "Analytics",
+      "completion_date": "2025-04-12",
+      "trainer_name": "Sneha Raj",
+      "status": "Pending"
     },
     "relationships": [
       {
         "relation": "BELONGS_TO",
-        "target_entity": "DEP-11ff9f68"
+        "target_entity": "DEP-a768caa9"
       }
     ],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.316623+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.593017+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }

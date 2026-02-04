@@ -1,61 +1,31 @@
 employee_id,full_name,department,designation,email,location,monthly_salary_inr
-E001,Rohit Kumar 1,Data Science,Data Analyst,rohit.kumar1@tcs.com,Hyderabad,66200
-E002,Rohit Kumar 2,Sales,Account Manager,rohit.kumar2@tcs.com,Pune,67400
-E003,Rohit Kumar 3,HR,HR Executive,rohit.kumar3@tcs.com,Chennai,68600
-E004,Rohit Kumar 4,Finance,Finance Manager,rohit.kumar4@tcs.com,Noida,69800
-E005,Rohit Kumar 5,Engineering,Senior Engineer,rohit.kumar5@tcs.com,Bengaluru,71000
-E006,Rohit Kumar 6,Data Science,Data Analyst,rohit.kumar6@tcs.com,Hyderabad,72200
-E007,Rohit Kumar 7,Sales,Account Manager,rohit.kumar7@tcs.com,Pune,73400
-E008,Rohit Kumar 8,HR,HR Executive,rohit.kumar8@tcs.com,Chennai,74600
-E009,Rohit Kumar 9,Finance,Finance Manager,rohit.kumar9@tcs.com,Noida,75800
-E010,Rohit Kumar 10,Engineering,Senior Engineer,rohit.kumar10@tcs.com,Bengaluru,77000
-E011,Rohit Kumar 11,Data Science,Data Analyst,rohit.kumar11@tcs.com,Hyderabad,78200
-E012,Rohit Kumar 12,Sales,Account Manager,rohit.kumar12@tcs.com,Pune,79400
-E013,Rohit Kumar 13,HR,HR Executive,rohit.kumar13@tcs.com,Chennai,80600
-E014,Rohit Kumar 14,Finance,Finance Manager,rohit.kumar14@tcs.com,Noida,81800
-E015,Rohit Kumar 15,Engineering,Senior Engineer,rohit.kumar15@tcs.com,Bengaluru,83000
-E016,Rohit Kumar 16,Data Science,Data Analyst,rohit.kumar16@tcs.com,Hyderabad,84200
-E017,Rohit Kumar 17,Sales,Account Manager,rohit.kumar17@tcs.com,Pune,85400
-E018,Rohit Kumar 18,HR,HR Executive,rohit.kumar18@tcs.com,Chennai,86600
-E019,Rohit Kumar 19,Finance,Finance Manager,rohit.kumar19@tcs.com,Noida,87800
-E020,Rohit Kumar 20,Engineering,Senior Engineer,rohit.kumar20@tcs.com,Bengaluru,89000
-E021,Rohit Kumar 21,Data Science,Data Analyst,rohit.kumar21@tcs.com,Hyderabad,90200
-E022,Rohit Kumar 22,Sales,Account Manager,rohit.kumar22@tcs.com,Pune,91400
-E023,Rohit Kumar 23,HR,HR Executive,rohit.kumar23@tcs.com,Chennai,92600
-E024,Rohit Kumar 24,Finance,Finance Manager,rohit.kumar24@tcs.com,Noida,93800
-E025,Rohit Kumar 25,Engineering,Senior Engineer,rohit.kumar25@tcs.com,Bengaluru,95000
-E026,Rohit Kumar 26,Data Science,Data Analyst,rohit.kumar26@tcs.com,Hyderabad,96200
-E027,Rohit Kumar 27,Sales,Account Manager,rohit.kumar27@tcs.com,Pune,97400
-E028,Rohit Kumar 28,HR,HR Executive,rohit.kumar28@tcs.com,Chennai,98600
-E029,Rohit Kumar 29,Finance,Finance Manager,rohit.kumar29@tcs.com,Noida,99800
-E030,Rohit Kumar 30,Engineering,Senior Engineer,rohit.kumar30@tcs.com,Bengaluru,101000
-E031,Rohit Kumar 31,Data Science,Data Analyst,rohit.kumar31@tcs.com,Hyderabad,102200
-E032,Rohit Kumar 32,Sales,Account Manager,rohit.kumar32@tcs.com,Pune,103400
-E033,Rohit Kumar 33,HR,HR Executive,rohit.kumar33@tcs.com,Chennai,104600
-E034,Rohit Kumar 34,Finance,Finance Manager,rohit.kumar34@tcs.com,Noida,105800
-E035,Rohit Kumar 35,Engineering,Senior Engineer,rohit.kumar35@tcs.com,Bengaluru,107000
-E036,Rohit Kumar 36,Data Science,Data Analyst,rohit.kumar36@tcs.com,Hyderabad,108200
-E037,Rohit Kumar 37,Sales,Account Manager,rohit.kumar37@tcs.com,Pune,109400
-E038,Rohit Kumar 38,HR,HR Executive,rohit.kumar38@tcs.com,Chennai,110600
-E039,Rohit Kumar 39,Finance,Finance Manager,rohit.kumar39@tcs.com,Noida,111800
-E040,Rohit Kumar 40,Engineering,Senior Engineer,rohit.kumar40@tcs.com,Bengaluru,113000
-E041,Rohit Kumar 41,Data Science,Data Analyst,rohit.kumar41@tcs.com,Hyderabad,114200
-E042,Rohit Kumar 42,Sales,Account Manager,rohit.kumar42@tcs.com,Pune,115400
-E043,Rohit Kumar 43,HR,HR Executive,rohit.kumar43@tcs.com,Chennai,116600
-E044,Rohit Kumar 44,Finance,Finance Manager,rohit.kumar44@tcs.com,Noida,117800
-E045,Rohit Kumar 45,Engineering,Senior Engineer,rohit.kumar45@tcs.com,Bengaluru,119000
-E046,Rohit Kumar 46,Data Science,Data Analyst,rohit.kumar46@tcs.com,Hyderabad,120200
-E047,Rohit Kumar 47,Sales,Account Manager,rohit.kumar47@tcs.com,Pune,121400
-E048,Rohit Kumar 48,HR,HR Executive,rohit.kumar48@tcs.com,Chennai,122600
-E049,Rohit Kumar 49,Finance,Finance Manager,rohit.kumar49@tcs.com,Noida,123800
-E050,Rohit Kumar 50,Engineering,Senior Engineer,rohit.kumar50@tcs.com,Bengaluru,125000
-E051,Rohit Kumar 51,Data Science,Data Analyst,rohit.kumar51@tcs.com,Hyderabad,126200
-E052,Rohit Kumar 52,Sales,Account Manager,rohit.kumar52@tcs.com,Pune,127400
-E053,Rohit Kumar 53,HR,HR Executive,rohit.kumar53@tcs.com,Chennai,128600
-E054,Rohit Kumar 54,Finance,Finance Manager,rohit.kumar54@tcs.com,Noida,129800
-E055,Rohit Kumar 55,Engineering,Senior Engineer,rohit.kumar55@tcs.com,Bengaluru,131000
-E056,Rohit Kumar 56,Data Science,Data Analyst,rohit.kumar56@tcs.com,Hyderabad,132200
-E057,Rohit Kumar 57,Sales,Account Manager,rohit.kumar57@tcs.com,Pune,133400
-E058,Rohit Kumar 58,HR,HR Executive,rohit.kumar58@tcs.com,Chennai,134600
-E059,Rohit Kumar 59,Finance,Finance Manager,rohit.kumar59@tcs.com,Noida,135800
-E060,Rohit Kumar 60,Engineering,Senior Engineer,rohit.kumar60@tcs.com,Bengaluru,137000
+E1261,Sandeep Rao,Engineering,Backend Engineer,sandeep.rao@tcs.com,Bengaluru,92000
+E1262,Divya Menon,Data Science,Data Scientist,divya.menon@tcs.com,Kochi,108000
+E1263,Mohit Aggarwal,Sales,Account Executive,mohit.aggarwal@tcs.com,Gurugram,87000
+E1264,Pooja Kulkarni,HR,HR Operations Manager,pooja.kulkarni@tcs.com,Pune,94000
+E1265,Rajesh Khanna,Finance,Senior Financial Analyst,rajesh.khanna@tcs.com,Mumbai,118500
+E1266,Nikhil Jain,Engineering,Frontend Engineer,nikhil.jain@tcs.com,Indore,85000
+E1267,Swathi Reddy,Engineering,QA Automation Engineer,swathi.reddy@tcs.com,Hyderabad,79000
+E1268,Farhan Ali,Data Science,AI Research Engineer,farhan.ali@tcs.com,Bengaluru,134000
+E1269,Shubham Mishra,Sales,Key Account Manager,shubham.mishra@tcs.com,Delhi,110000
+E1270,Ankita Bose,HR,Learning & Development Lead,ankita.bose@tcs.com,Kolkata,99000
+E1271,Manoj Pillai,Engineering,Cloud Architect,manoj.pillai@tcs.com,Trivandrum,152000
+E1272,Ritika Choudhary,Finance,Payroll Manager,ritika.choudhary@tcs.com,Jaipur,88000
+E1273,Abhishek Tiwari,Engineering,Full Stack Developer,abhishek.tiwari@tcs.com,Bhopal,97000
+E1274,Lakshmi Narayanan,Data Science,Data Engineer,lakshmi.narayanan@tcs.com,Chennai,101000
+E1275,Kunal Shah,Sales,Regional Sales Lead,kunal.shah@tcs.com,Ahmedabad,138000
+E1276,Mehul Vora,Finance,Risk Analyst,mehul.vora@tcs.com,Surat,91000
+E1277,Ayesha Khan,HR,Employee Relations Manager,ayesha.khan@tcs.com,Mumbai,104000
+E1278,Rohini Patil,Engineering,Mobile App Developer,rohini.patil@tcs.com,Nashik,88000
+E1279,Sai Teja,Engineering,Site Reliability Engineer,sai.teja@tcs.com,Hyderabad,125000
+E1280,Harshit Bansal,Data Science,BI Analyst,harshit.bansal@tcs.com,Noida,93000
+E1281,Neeraj Yadav,Sales,Inside Sales Manager,neeraj.yadav@tcs.com,Faridabad,82000
+E1282,Pallavi Deshmukh,HR,Recruitment Specialist,pallavi.deshmukh@tcs.com,Amravati,76000
+E1283,Joseph Mathew,Finance,Compliance Officer,joseph.mathew@tcs.com,Kottayam,89000
+E1284,Vignesh S,Engineering,Embedded Systems Engineer,vignesh.s@tcs.com,Coimbatore,96000
+E1285,Preeti Saxena,Data Science,Product Analyst,preeti.saxena@tcs.com,Gurugram,107500
+E1286,Imran Sheikh,Sales,Channel Sales Manager,imran.sheikh@tcs.com,Bhopal,98000
+E1287,Sonal Arora,HR,HR Analytics Lead,sonal.arora@tcs.com,Delhi,115000
+E1288,Ajith Kumar,Engineering,Network Security Engineer,ajith.kumar@tcs.com,Chennai,123000
+E1289,Pranav Kuldeep,Finance,Investment Analyst,pranav.kuldeep@tcs.com,Pune,112000
+E1290,Neha Malhotra,Data Science,Applied ML Engineer,neha.malhotra@tcs.com,Bengaluru,141000

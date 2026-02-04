@@ -1,51 +1,51 @@
-training_id,course_name,department,completion_date
-TR001,Cloud Security Compliance,IT,2025-02-15
-TR002,Enterprise Sales Strategy,Sales,2025-02-15
-TR003,Advanced Machine Learning,Engineering,2025-02-15
-TR004,Cloud Security Compliance,IT,2025-02-15
-TR005,Enterprise Sales Strategy,Sales,2025-02-15
-TR006,Advanced Machine Learning,Engineering,2025-02-15
-TR007,Cloud Security Compliance,IT,2025-02-15
-TR008,Enterprise Sales Strategy,Sales,2025-02-15
-TR009,Advanced Machine Learning,Engineering,2025-02-15
-TR010,Cloud Security Compliance,IT,2025-02-15
-TR011,Enterprise Sales Strategy,Sales,2025-02-15
-TR012,Advanced Machine Learning,Engineering,2025-02-15
-TR013,Cloud Security Compliance,IT,2025-02-15
-TR014,Enterprise Sales Strategy,Sales,2025-02-15
-TR015,Advanced Machine Learning,Engineering,2025-02-15
-TR016,Cloud Security Compliance,IT,2025-02-15
-TR017,Enterprise Sales Strategy,Sales,2025-02-15
-TR018,Advanced Machine Learning,Engineering,2025-02-15
-TR019,Cloud Security Compliance,IT,2025-02-15
-TR020,Enterprise Sales Strategy,Sales,2025-02-15
-TR021,Advanced Machine Learning,Engineering,2025-02-15
-TR022,Cloud Security Compliance,IT,2025-02-15
-TR023,Enterprise Sales Strategy,Sales,2025-02-15
-TR024,Advanced Machine Learning,Engineering,2025-02-15
-TR025,Cloud Security Compliance,IT,2025-02-15
-TR026,Enterprise Sales Strategy,Sales,2025-02-15
-TR027,Advanced Machine Learning,Engineering,2025-02-15
-TR028,Cloud Security Compliance,IT,2025-02-15
-TR029,Enterprise Sales Strategy,Sales,2025-02-15
-TR030,Advanced Machine Learning,Engineering,2025-02-15
-TR031,Cloud Security Compliance,IT,2025-02-15
-TR032,Enterprise Sales Strategy,Sales,2025-02-15
-TR033,Advanced Machine Learning,Engineering,2025-02-15
-TR034,Cloud Security Compliance,IT,2025-02-15
-TR035,Enterprise Sales Strategy,Sales,2025-02-15
-TR036,Advanced Machine Learning,Engineering,2025-02-15
-TR037,Cloud Security Compliance,IT,2025-02-15
-TR038,Enterprise Sales Strategy,Sales,2025-02-15
-TR039,Advanced Machine Learning,Engineering,2025-02-15
-TR040,Cloud Security Compliance,IT,2025-02-15
-TR041,Enterprise Sales Strategy,Sales,2025-02-15
-TR042,Advanced Machine Learning,Engineering,2025-02-15
-TR043,Cloud Security Compliance,IT,2025-02-15
-TR044,Enterprise Sales Strategy,Sales,2025-02-15
-TR045,Advanced Machine Learning,Engineering,2025-02-15
-TR046,Cloud Security Compliance,IT,2025-02-15
-TR047,Enterprise Sales Strategy,Sales,2025-02-15
-TR048,Advanced Machine Learning,Engineering,2025-02-15
-TR049,Cloud Security Compliance,IT,2025-02-15
-TR050,Enterprise Sales Strategy,Sales,2025-02-15
+training_id,course_name,department,completion_date,trainer_name,status
+TR001,Cloud Security Compliance,IT,2024-12-10,Anjali Menon,Completed
+TR002,Enterprise Sales Strategy,Sales,2024-12-12,Arjun Nair,Completed
+TR003,Advanced Machine Learning,Engineering,2024-12-15,Dr. Suresh Iyer,Completed
+TR004,Data Privacy & GDPR,Legal,2024-12-18,Meera Krishnan,Completed
+TR005,Customer Success Best Practices,Support,2024-12-20,Ravi Kumar,Completed
+TR006,DevOps Automation,IT,2024-12-22,Sneha Thomas,Completed
+TR007,AI Ethics & Governance,HR,2024-12-25,Neha Singh,Completed
+TR008,Negotiation & Closing Deals,Sales,2024-12-27,Manish Sharma,Completed
+TR009,IoT & Edge Computing,Engineering,2024-12-29,Dr. Nithin Rao,Completed
+TR010,Data Visualization with PowerBI,Analytics,2025-01-05,Anitha George,Completed
+TR011,Cloud Cost Optimization,IT,2025-01-08,Rohit Menon,In Progress
+TR012,Sales Forecasting Techniques,Sales,2025-01-10,Shreya Pillai,In Progress
+TR013,Deep Learning Fundamentals,Engineering,2025-01-12,Dr. Priya Nair,In Progress
+TR014,Risk Management & Compliance,Legal,2025-01-15,Arun Thomas,In Progress
+TR015,Customer Onboarding Excellence,Support,2025-01-18,Divya Nair,In Progress
+TR016,CI/CD Pipeline Implementation,IT,2025-01-20,Ajay Kumar,In Progress
+TR017,Workplace Ethics & Policy,HR,2025-01-22,Sunita Das,In Progress
+TR018,Advanced Selling Skills,Sales,2025-01-25,Anil Gupta,In Progress
+TR019,Embedded Systems Design,Engineering,2025-01-28,Dr. Siva Kumar,In Progress
+TR020,Data Engineering Basics,Analytics,2025-02-01,Neeraj Kumar,In Progress
+TR021,Zero Trust Security,IT,2025-02-05,Megha Reddy,Pending
+TR022,Account Management Strategies,Sales,2025-02-08,Varun Menon,Pending
+TR023,Natural Language Processing,Engineering,2025-02-10,Dr. Kavya Iyer,Pending
+TR024,Contract Law Essentials,Legal,2025-02-12,Ramya Krishnan,Pending
+TR025,Support Ticket Management,Support,2025-02-14,Rahul Nair,Pending
+TR026,Cloud Networking Fundamentals,IT,2025-02-16,Anu Mathew,Pending
+TR027,HR Analytics & Insights,HR,2025-02-18,Neha Kapoor,Pending
+TR028,Strategic Account Growth,Sales,2025-02-20,Praveen Kumar,Pending
+TR029,Robotics & Automation,Engineering,2025-02-22,Dr. Rajesh Menon,Pending
+TR030,SQL for Data Analysts,Analytics,2025-02-24,Meena Joseph,Pending
+TR031,Incident Response Planning,IT,2025-02-26,Ajith Kumar,Completed
+TR032,Sales Enablement Tools,Sales,2025-02-28,Shalini Nair,Completed
+TR033,Computer Vision Applications,Engineering,2025-03-02,Dr. Anu Varma,Completed
+TR034,Legal Contract Negotiations,Legal,2025-03-05,Ravi Shankar,Completed
+TR035,Customer Retention Strategies,Support,2025-03-08,Deepa Menon,Completed
+TR036,Cloud Migration Best Practices,IT,2025-03-10,Prakash Iyer,Completed
+TR037,Conflict Resolution at Work,HR,2025-03-12,Anita Rao,Completed
+TR038,Advanced Sales Pitching,Sales,2025-03-15,Anish Kumar,Completed
+TR039,Microservices Architecture,Engineering,2025-03-18,Dr. Vinod Nair,Completed
+TR040,Data Quality & Governance,Analytics,2025-03-20,Sunil Kumar,Completed
+TR041,Identity & Access Management,IT,2025-03-22,Neha Sharma,In Progress
+TR042,Sales KPI Analytics,Sales,2025-03-24,Arjun Reddy,In Progress
+TR043,AI Model Deployment,Engineering,2025-03-26,Dr. Meera Iyer,In Progress
+TR044,Corporate Compliance Training,Legal,2025-03-28,Anand Menon,In Progress
+TR045,Support SLA Management,Support,2025-03-30,Rekha Nair,In Progress
+TR046,Cloud Automation with Terraform,IT,2025-04-02,Harish Kumar,In Progress
+TR047,Employee Engagement Strategies,HR,2025-04-05,Shweta Singh,Pending
+TR048,Sales Coaching & Mentoring,Sales,2025-04-08,Prashant Gupta,Pending
+TR049,Edge AI for IoT,Engineering,2025-04-10,Dr. Latha Menon,Pending
+TR050,Data Science for Business,Analytics,2025-04-12,Sneha Raj,Pending

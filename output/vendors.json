@@ -3,16 +3,16 @@
     "source_type": "semi_structured",
     "source_name": "vendors.csv",
     "entity_type": "Vendor",
-    "entity_id": "VEN-0ed49419",
+    "entity_id": "VEN-2bb6950f",
     "attributes": {
       "vendor_id": "V001",
-      "vendor_name": "Tata Communications Partner 1",
+      "vendor_name": "Tata Communications",
       "service": "Network Security",
       "country": "India"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.321160+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.594723+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -21,16 +21,16 @@
     "source_type": "semi_structured",
     "source_name": "vendors.csv",
     "entity_type": "Vendor",
-    "entity_id": "VEN-27516937",
+    "entity_id": "VEN-e3b03b54",
     "attributes": {
       "vendor_id": "V002",
-      "vendor_name": "Tata Communications Partner 2",
+      "vendor_name": "Infosys Data Services",
       "service": "Data Center Services",
       "country": "India"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.321227+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.594743+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -39,16 +39,16 @@
     "source_type": "semi_structured",
     "source_name": "vendors.csv",
     "entity_type": "Vendor",
-    "entity_id": "VEN-60b7f27e",
+    "entity_id": "VEN-862bc941",
     "attributes": {
       "vendor_id": "V003",
-      "vendor_name": "Tata Communications Partner 3",
+      "vendor_name": "Amazon Web Services",
       "service": "Cloud Hosting",
-      "country": "India"
+      "country": "USA"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.321239+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.594751+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -57,16 +57,16 @@
     "source_type": "semi_structured",
     "source_name": "vendors.csv",
     "entity_type": "Vendor",
-    "entity_id": "VEN-c4f7a527",
+    "entity_id": "VEN-e641f7aa",
     "attributes": {
       "vendor_id": "V004",
-      "vendor_name": "Tata Communications Partner 4",
-      "service": "Network Security",
-      "country": "India"
+      "vendor_name": "Microsoft Azure",
+      "service": "Cloud Hosting",
+      "country": "USA"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.321248+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.594758+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -75,16 +75,16 @@
     "source_type": "semi_structured",
     "source_name": "vendors.csv",
     "entity_type": "Vendor",
-    "entity_id": "VEN-889ff52f",
+    "entity_id": "VEN-59785d58",
     "attributes": {
       "vendor_id": "V005",
-      "vendor_name": "Tata Communications Partner 5",
-      "service": "Data Center Services",
+      "vendor_name": "Google Cloud India",
+      "service": "Cloud Hosting",
       "country": "India"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.321256+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.594765+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -93,16 +93,16 @@
     "source_type": "semi_structured",
     "source_name": "vendors.csv",
     "entity_type": "Vendor",
-    "entity_id": "VEN-f95d714b",
+    "entity_id": "VEN-c82f51e6",
     "attributes": {
       "vendor_id": "V006",
-      "vendor_name": "Tata Communications Partner 6",
-      "service": "Cloud Hosting",
-      "country": "India"
+      "vendor_name": "NTT Data",
+      "service": "Network Security",
+      "country": "Japan"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.321265+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.594771+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -111,16 +111,16 @@
     "source_type": "semi_structured",
     "source_name": "vendors.csv",
     "entity_type": "Vendor",
-    "entity_id": "VEN-e1ef7b5e",
+    "entity_id": "VEN-771a9bf7",
     "attributes": {
       "vendor_id": "V007",
-      "vendor_name": "Tata Communications Partner 7",
-      "service": "Network Security",
-      "country": "India"
+      "vendor_name": "IBM Cloud Services",
+      "service": "Cloud Hosting",
+      "country": "USA"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.321272+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.594777+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -129,16 +129,16 @@
     "source_type": "semi_structured",
     "source_name": "vendors.csv",
     "entity_type": "Vendor",
-    "entity_id": "VEN-c48a3e4c",
+    "entity_id": "VEN-70ee05e4",
     "attributes": {
       "vendor_id": "V008",
-      "vendor_name": "Tata Communications Partner 8",
+      "vendor_name": "Oracle Data Centers",
       "service": "Data Center Services",
-      "country": "India"
+      "country": "USA"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.321279+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.594783+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -147,16 +147,16 @@
     "source_type": "semi_structured",
     "source_name": "vendors.csv",
     "entity_type": "Vendor",
-    "entity_id": "VEN-b2ca73c6",
+    "entity_id": "VEN-e4ea4129",
     "attributes": {
       "vendor_id": "V009",
-      "vendor_name": "Tata Communications Partner 9",
-      "service": "Cloud Hosting",
-      "country": "India"
+      "vendor_name": "Accenture Cyber Defense",
+      "service": "Network Security",
+      "country": "Ireland"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.321288+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.594789+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -165,16 +165,16 @@
     "source_type": "semi_structured",
     "source_name": "vendors.csv",
     "entity_type": "Vendor",
-    "entity_id": "VEN-76b975d3",
+    "entity_id": "VEN-f74fb115",
     "attributes": {
       "vendor_id": "V010",
-      "vendor_name": "Tata Communications Partner 10",
-      "service": "Network Security",
+      "vendor_name": "Wipro Infrastructure Services",
+      "service": "Data Center Services",
       "country": "India"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.321295+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.594796+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -183,16 +183,16 @@
     "source_type": "semi_structured",
     "source_name": "vendors.csv",
     "entity_type": "Vendor",
-    "entity_id": "VEN-58ae32ab",
+    "entity_id": "VEN-c8c4f2f6",
     "attributes": {
       "vendor_id": "V011",
-      "vendor_name": "Tata Communications Partner 11",
-      "service": "Data Center Services",
+      "vendor_name": "HCL Cloud Solutions",
+      "service": "Cloud Hosting",
       "country": "India"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.321302+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.594802+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -201,16 +201,16 @@
     "source_type": "semi_structured",
     "source_name": "vendors.csv",
     "entity_type": "Vendor",
-    "entity_id": "VEN-4e356954",
+    "entity_id": "VEN-d673975e",
     "attributes": {
       "vendor_id": "V012",
-      "vendor_name": "Tata Communications Partner 12",
-      "service": "Cloud Hosting",
-      "country": "India"
+      "vendor_name": "Capgemini Technology Services",
+      "service": "Network Security",
+      "country": "France"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.321310+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.594808+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -219,16 +219,16 @@
     "source_type": "semi_structured",
     "source_name": "vendors.csv",
     "entity_type": "Vendor",
-    "entity_id": "VEN-2e88c4ae",
+    "entity_id": "VEN-da6fadb1",
     "attributes": {
       "vendor_id": "V013",
-      "vendor_name": "Tata Communications Partner 13",
-      "service": "Network Security",
-      "country": "India"
+      "vendor_name": "Dell Technologies",
+      "service": "Data Center Services",
+      "country": "USA"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.321317+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.594814+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -237,16 +237,16 @@
     "source_type": "semi_structured",
     "source_name": "vendors.csv",
     "entity_type": "Vendor",
-    "entity_id": "VEN-e1951e9f",
+    "entity_id": "VEN-d553af93",
     "attributes": {
       "vendor_id": "V014",
-      "vendor_name": "Tata Communications Partner 14",
+      "vendor_name": "HP Enterprise Services",
       "service": "Data Center Services",
-      "country": "India"
+      "country": "USA"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.321325+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.594820+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -255,16 +255,16 @@
     "source_type": "semi_structured",
     "source_name": "vendors.csv",
     "entity_type": "Vendor",
-    "entity_id": "VEN-1f802e57",
+    "entity_id": "VEN-0ff489fa",
     "attributes": {
       "vendor_id": "V015",
-      "vendor_name": "Tata Communications Partner 15",
-      "service": "Cloud Hosting",
-      "country": "India"
+      "vendor_name": "Cisco Secure Solutions",
+      "service": "Network Security",
+      "country": "USA"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.321332+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.594826+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -273,16 +273,16 @@
     "source_type": "semi_structured",
     "source_name": "vendors.csv",
     "entity_type": "Vendor",
-    "entity_id": "VEN-4bdebd81",
+    "entity_id": "VEN-4665488d",
     "attributes": {
       "vendor_id": "V016",
-      "vendor_name": "Tata Communications Partner 16",
+      "vendor_name": "Palo Alto Networks",
       "service": "Network Security",
-      "country": "India"
+      "country": "USA"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.321339+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.594832+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -291,16 +291,16 @@
     "source_type": "semi_structured",
     "source_name": "vendors.csv",
     "entity_type": "Vendor",
-    "entity_id": "VEN-aad17e21",
+    "entity_id": "VEN-cea67131",
     "attributes": {
       "vendor_id": "V017",
-      "vendor_name": "Tata Communications Partner 17",
-      "service": "Data Center Services",
-      "country": "India"
+      "vendor_name": "Fortinet Security Services",
+      "service": "Network Security",
+      "country": "USA"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.321349+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.594838+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -309,16 +309,16 @@
     "source_type": "semi_structured",
     "source_name": "vendors.csv",
     "entity_type": "Vendor",
-    "entity_id": "VEN-c7fe3627",
+    "entity_id": "VEN-355d2169",
     "attributes": {
       "vendor_id": "V018",
-      "vendor_name": "Tata Communications Partner 18",
+      "vendor_name": "Rackspace Technology",
       "service": "Cloud Hosting",
-      "country": "India"
+      "country": "USA"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.321357+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.594844+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -327,16 +327,16 @@
     "source_type": "semi_structured",
     "source_name": "vendors.csv",
     "entity_type": "Vendor",
-    "entity_id": "VEN-4e0116bb",
+    "entity_id": "VEN-35319664",
     "attributes": {
       "vendor_id": "V019",
-      "vendor_name": "Tata Communications Partner 19",
-      "service": "Network Security",
-      "country": "India"
+      "vendor_name": "DigitalOcean",
+      "service": "Cloud Hosting",
+      "country": "USA"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.321366+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.594850+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -345,16 +345,16 @@
     "source_type": "semi_structured",
     "source_name": "vendors.csv",
     "entity_type": "Vendor",
-    "entity_id": "VEN-fa9db7bc",
+    "entity_id": "VEN-70e8e723",
     "attributes": {
       "vendor_id": "V020",
-      "vendor_name": "Tata Communications Partner 20",
-      "service": "Data Center Services",
-      "country": "India"
+      "vendor_name": "Alibaba Cloud",
+      "service": "Cloud Hosting",
+      "country": "China"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.321374+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.594856+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -363,16 +363,16 @@
     "source_type": "semi_structured",
     "source_name": "vendors.csv",
     "entity_type": "Vendor",
-    "entity_id": "VEN-115a644b",
+    "entity_id": "VEN-8255012f",
     "attributes": {
       "vendor_id": "V021",
-      "vendor_name": "Tata Communications Partner 21",
-      "service": "Cloud Hosting",
+      "vendor_name": "Tech Mahindra Networks",
+      "service": "Network Security",
       "country": "India"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.321382+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.594862+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -381,16 +381,16 @@
     "source_type": "semi_structured",
     "source_name": "vendors.csv",
     "entity_type": "Vendor",
-    "entity_id": "VEN-c0acd4bf",
+    "entity_id": "VEN-6a1b34c4",
     "attributes": {
       "vendor_id": "V022",
-      "vendor_name": "Tata Communications Partner 22",
-      "service": "Network Security",
-      "country": "India"
+      "vendor_name": "Atos Data Services",
+      "service": "Data Center Services",
+      "country": "France"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.321389+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.594868+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -399,16 +399,16 @@
     "source_type": "semi_structured",
     "source_name": "vendors.csv",
     "entity_type": "Vendor",
-    "entity_id": "VEN-e0353403",
+    "entity_id": "VEN-e19ab51d",
     "attributes": {
       "vendor_id": "V023",
-      "vendor_name": "Tata Communications Partner 23",
-      "service": "Data Center Services",
-      "country": "India"
+      "vendor_name": "Fujitsu Cloud Services",
+      "service": "Cloud Hosting",
+      "country": "Japan"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.321396+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.594874+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -417,16 +417,16 @@
     "source_type": "semi_structured",
     "source_name": "vendors.csv",
     "entity_type": "Vendor",
-    "entity_id": "VEN-e40ac223",
+    "entity_id": "VEN-9dd2bf88",
     "attributes": {
       "vendor_id": "V024",
-      "vendor_name": "Tata Communications Partner 24",
-      "service": "Cloud Hosting",
-      "country": "India"
+      "vendor_name": "Hitachi Systems Security",
+      "service": "Network Security",
+      "country": "Japan"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.321404+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.594880+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -435,16 +435,16 @@
     "source_type": "semi_structured",
     "source_name": "vendors.csv",
     "entity_type": "Vendor",
-    "entity_id": "VEN-ece5a22d",
+    "entity_id": "VEN-3cc14fc7",
     "attributes": {
       "vendor_id": "V025",
-      "vendor_name": "Tata Communications Partner 25",
-      "service": "Network Security",
-      "country": "India"
+      "vendor_name": "Red Hat OpenShift Services",
+      "service": "Cloud Hosting",
+      "country": "USA"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.321412+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.594886+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -453,16 +453,16 @@
     "source_type": "semi_structured",
     "source_name": "vendors.csv",
     "entity_type": "Vendor",
-    "entity_id": "VEN-200cd6a9",
+    "entity_id": "VEN-eabf6803",
     "attributes": {
       "vendor_id": "V026",
-      "vendor_name": "Tata Communications Partner 26",
-      "service": "Data Center Services",
+      "vendor_name": "Zoho Cloud Infrastructure",
+      "service": "Cloud Hosting",
       "country": "India"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.321421+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.594892+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -471,16 +471,16 @@
     "source_type": "semi_structured",
     "source_name": "vendors.csv",
     "entity_type": "Vendor",
-    "entity_id": "VEN-651d4fa7",
+    "entity_id": "VEN-ffbc6b41",
     "attributes": {
       "vendor_id": "V027",
-      "vendor_name": "Tata Communications Partner 27",
+      "vendor_name": "SAP Cloud Platform",
       "service": "Cloud Hosting",
-      "country": "India"
+      "country": "Germany"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.321429+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.594898+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -489,16 +489,16 @@
     "source_type": "semi_structured",
     "source_name": "vendors.csv",
     "entity_type": "Vendor",
-    "entity_id": "VEN-5bf5ed88",
+    "entity_id": "VEN-3527a12a",
     "attributes": {
       "vendor_id": "V028",
-      "vendor_name": "Tata Communications Partner 28",
+      "vendor_name": "VMware Secure Cloud",
       "service": "Network Security",
-      "country": "India"
+      "country": "USA"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.321436+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.594904+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -507,16 +507,16 @@
     "source_type": "semi_structured",
     "source_name": "vendors.csv",
     "entity_type": "Vendor",
-    "entity_id": "VEN-372a0145",
+    "entity_id": "VEN-51fff43c",
     "attributes": {
       "vendor_id": "V029",
-      "vendor_name": "Tata Communications Partner 29",
-      "service": "Data Center Services",
-      "country": "India"
+      "vendor_name": "BT Global Services",
+      "service": "Network Security",
+      "country": "UK"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.321443+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.594910+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -525,16 +525,16 @@
     "source_type": "semi_structured",
     "source_name": "vendors.csv",
     "entity_type": "Vendor",
-    "entity_id": "VEN-585f37d8",
+    "entity_id": "VEN-aa69785a",
     "attributes": {
       "vendor_id": "V030",
-      "vendor_name": "Tata Communications Partner 30",
-      "service": "Cloud Hosting",
-      "country": "India"
+      "vendor_name": "Orange Business Services",
+      "service": "Data Center Services",
+      "country": "France"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.321449+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.594916+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -543,16 +543,16 @@
     "source_type": "semi_structured",
     "source_name": "vendors.csv",
     "entity_type": "Vendor",
-    "entity_id": "VEN-051ebba2",
+    "entity_id": "VEN-791eed53",
     "attributes": {
       "vendor_id": "V031",
-      "vendor_name": "Tata Communications Partner 31",
-      "service": "Network Security",
-      "country": "India"
+      "vendor_name": "Equinix Data Centers",
+      "service": "Data Center Services",
+      "country": "USA"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.321457+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.594922+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -561,16 +561,16 @@
     "source_type": "semi_structured",
     "source_name": "vendors.csv",
     "entity_type": "Vendor",
-    "entity_id": "VEN-ae65ed9d",
+    "entity_id": "VEN-084b82ba",
     "attributes": {
       "vendor_id": "V032",
-      "vendor_name": "Tata Communications Partner 32",
-      "service": "Data Center Services",
-      "country": "India"
+      "vendor_name": "OVHcloud",
+      "service": "Cloud Hosting",
+      "country": "France"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.321465+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.594928+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -579,16 +579,16 @@
     "source_type": "semi_structured",
     "source_name": "vendors.csv",
     "entity_type": "Vendor",
-    "entity_id": "VEN-bf22b8ee",
+    "entity_id": "VEN-45d88700",
     "attributes": {
       "vendor_id": "V033",
-      "vendor_name": "Tata Communications Partner 33",
-      "service": "Cloud Hosting",
+      "vendor_name": "TCS Cyber Security",
+      "service": "Network Security",
       "country": "India"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.321473+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.594933+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -597,16 +597,16 @@
     "source_type": "semi_structured",
     "source_name": "vendors.csv",
     "entity_type": "Vendor",
-    "entity_id": "VEN-f3d46d50",
+    "entity_id": "VEN-5b870d62",
     "attributes": {
       "vendor_id": "V034",
-      "vendor_name": "Tata Communications Partner 34",
-      "service": "Network Security",
+      "vendor_name": "LTIMindtree Cloud Services",
+      "service": "Cloud Hosting",
       "country": "India"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.321484+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.594940+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -615,16 +615,16 @@
     "source_type": "semi_structured",
     "source_name": "vendors.csv",
     "entity_type": "Vendor",
-    "entity_id": "VEN-997dc057",
+    "entity_id": "VEN-d34dec30",
     "attributes": {
       "vendor_id": "V035",
-      "vendor_name": "Tata Communications Partner 35",
+      "vendor_name": "Cognizant Infrastructure Services",
       "service": "Data Center Services",
-      "country": "India"
+      "country": "USA"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.321492+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.594946+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -633,16 +633,16 @@
     "source_type": "semi_structured",
     "source_name": "vendors.csv",
     "entity_type": "Vendor",
-    "entity_id": "VEN-e72c58ae",
+    "entity_id": "VEN-ad9f9fc2",
     "attributes": {
       "vendor_id": "V036",
-      "vendor_name": "Tata Communications Partner 36",
-      "service": "Cloud Hosting",
-      "country": "India"
+      "vendor_name": "DXC Technology",
+      "service": "Network Security",
+      "country": "USA"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.321499+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.594951+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -651,16 +651,16 @@
     "source_type": "semi_structured",
     "source_name": "vendors.csv",
     "entity_type": "Vendor",
-    "entity_id": "VEN-0797e235",
+    "entity_id": "VEN-f829e28e",
     "attributes": {
       "vendor_id": "V037",
-      "vendor_name": "Tata Communications Partner 37",
-      "service": "Network Security",
-      "country": "India"
+      "vendor_name": "Siemens IT Solutions",
+      "service": "Data Center Services",
+      "country": "Germany"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.321508+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.594957+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -669,16 +669,16 @@
     "source_type": "semi_structured",
     "source_name": "vendors.csv",
     "entity_type": "Vendor",
-    "entity_id": "VEN-162588eb",
+    "entity_id": "VEN-9ff594f6",
     "attributes": {
       "vendor_id": "V038",
-      "vendor_name": "Tata Communications Partner 38",
-      "service": "Data Center Services",
-      "country": "India"
+      "vendor_name": "Ericsson Network Services",
+      "service": "Network Security",
+      "country": "Sweden"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.321515+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.594963+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -687,16 +687,16 @@
     "source_type": "semi_structured",
     "source_name": "vendors.csv",
     "entity_type": "Vendor",
-    "entity_id": "VEN-b74dd4b5",
+    "entity_id": "VEN-d15bab71",
     "attributes": {
       "vendor_id": "V039",
-      "vendor_name": "Tata Communications Partner 39",
-      "service": "Cloud Hosting",
-      "country": "India"
+      "vendor_name": "Juniper Networks",
+      "service": "Network Security",
+      "country": "USA"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.321522+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.594969+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -705,16 +705,16 @@
     "source_type": "semi_structured",
     "source_name": "vendors.csv",
     "entity_type": "Vendor",
-    "entity_id": "VEN-647e9361",
+    "entity_id": "VEN-704be221",
     "attributes": {
       "vendor_id": "V040",
-      "vendor_name": "Tata Communications Partner 40",
-      "service": "Network Security",
+      "vendor_name": "Netmagic Solutions",
+      "service": "Data Center Services",
       "country": "India"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.321531+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.594975+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -723,16 +723,16 @@
     "source_type": "semi_structured",
     "source_name": "vendors.csv",
     "entity_type": "Vendor",
-    "entity_id": "VEN-b908c5be",
+    "entity_id": "VEN-9250af7f",
     "attributes": {
       "vendor_id": "V041",
-      "vendor_name": "Tata Communications Partner 41",
-      "service": "Data Center Services",
-      "country": "India"
+      "vendor_name": "Cloudflare Security",
+      "service": "Network Security",
+      "country": "USA"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.321540+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.594981+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -741,16 +741,16 @@
     "source_type": "semi_structured",
     "source_name": "vendors.csv",
     "entity_type": "Vendor",
-    "entity_id": "VEN-a28c2cbe",
+    "entity_id": "VEN-3681b296",
     "attributes": {
       "vendor_id": "V042",
-      "vendor_name": "Tata Communications Partner 42",
-      "service": "Cloud Hosting",
-      "country": "India"
+      "vendor_name": "Akamai Technologies",
+      "service": "Network Security",
+      "country": "USA"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.321548+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.594988+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -759,16 +759,16 @@
     "source_type": "semi_structured",
     "source_name": "vendors.csv",
     "entity_type": "Vendor",
-    "entity_id": "VEN-2d0d1d07",
+    "entity_id": "VEN-16c6623e",
     "attributes": {
       "vendor_id": "V043",
-      "vendor_name": "Tata Communications Partner 43",
-      "service": "Network Security",
-      "country": "India"
+      "vendor_name": "SoftBank Cloud Services",
+      "service": "Cloud Hosting",
+      "country": "Japan"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.321555+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.594995+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -777,16 +777,16 @@
     "source_type": "semi_structured",
     "source_name": "vendors.csv",
     "entity_type": "Vendor",
-    "entity_id": "VEN-c4806cf7",
+    "entity_id": "VEN-19d8446d",
     "attributes": {
       "vendor_id": "V044",
-      "vendor_name": "Tata Communications Partner 44",
-      "service": "Data Center Services",
-      "country": "India"
+      "vendor_name": "Telef\u00f3nica Tech",
+      "service": "Network Security",
+      "country": "Spain"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.321564+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.595002+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -795,16 +795,16 @@
     "source_type": "semi_structured",
     "source_name": "vendors.csv",
     "entity_type": "Vendor",
-    "entity_id": "VEN-206e8b7d",
+    "entity_id": "VEN-7d4596ed",
     "attributes": {
       "vendor_id": "V045",
-      "vendor_name": "Tata Communications Partner 45",
-      "service": "Cloud Hosting",
-      "country": "India"
+      "vendor_name": "Dimension Data",
+      "service": "Data Center Services",
+      "country": "South Africa"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.321572+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.595008+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -813,52 +813,16 @@
     "source_type": "semi_structured",
     "source_name": "vendors.csv",
     "entity_type": "Vendor",
-    "entity_id": "VEN-5363d37e",
+    "entity_id": "VEN-5293af4d",
     "attributes": {
       "vendor_id": "V046",
-      "vendor_name": "Tata Communications Partner 46",
-      "service": "Network Security",
-      "country": "India"
-    },
-    "relationships": [],
-    "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.321580+00:00",
-      "source_confidence": 0.8,
-      "origin_system": "File System"
-    }
-  },
-  {
-    "source_type": "semi_structured",
-    "source_name": "vendors.csv",
-    "entity_type": "Vendor",
-    "entity_id": "VEN-954bdfaa",
-    "attributes": {
-      "vendor_id": "V047",
-      "vendor_name": "Tata Communications Partner 47",
-      "service": "Data Center Services",
-      "country": "India"
-    },
-    "relationships": [],
-    "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.321587+00:00",
-      "source_confidence": 0.8,
-      "origin_system": "File System"
-    }
-  },
-  {
-    "source_type": "semi_structured",
-    "source_name": "vendors.csv",
-    "entity_type": "Vendor",
-    "entity_id": "VEN-f6f4fa24",
-    "attributes": {
-      "vendor_id": "V048",
-      "vendor_name": "Tata Communications Partner 48",
+      "vendor_name": "Infosys Cloud Edge",
       "service": "Cloud Hosting",
       "country": "India"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.321600+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.595014+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -867,16 +831,16 @@
     "source_type": "semi_structured",
     "source_name": "vendors.csv",
     "entity_type": "Vendor",
-    "entity_id": "VEN-ce07d68c",
+    "entity_id": "VEN-3d0561a5",
     "attributes": {
-      "vendor_id": "V049",
-      "vendor_name": "Tata Communications Partner 49",
-      "service": "Network Security",
+      "vendor_id": "V047",
+      "vendor_name": "Haricorp Tech",
+      "service": "Cloud Hosting",
       "country": "India"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.321610+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.595020+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -885,16 +849,52 @@
     "source_type": "semi_structured",
     "source_name": "vendors.csv",
     "entity_type": "Vendor",
-    "entity_id": "VEN-d8a8ea28",
+    "entity_id": "VEN-bc1c9c43",
     "attributes": {
-      "vendor_id": "V050",
-      "vendor_name": "Tata Communications Partner 50",
+      "vendor_id": "V048",
+      "vendor_name": "Hexaware Infrastructure Services",
       "service": "Data Center Services",
       "country": "India"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.321622+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.595027+00:00",
+      "source_confidence": 0.8,
+      "origin_system": "File System"
+    }
+  },
+  {
+    "source_type": "semi_structured",
+    "source_name": "vendors.csv",
+    "entity_type": "Vendor",
+    "entity_id": "VEN-a9ef1fd2",
+    "attributes": {
+      "vendor_id": "V049",
+      "vendor_name": "NEC Network Solutions",
+      "service": "Network Security",
+      "country": "Japan"
+    },
+    "relationships": [],
+    "metadata": {
+      "ingestion_timestamp": "2026-01-26T13:52:45.595033+00:00",
+      "source_confidence": 0.8,
+      "origin_system": "File System"
+    }
+  },
+  {
+    "source_type": "semi_structured",
+    "source_name": "vendors.csv",
+    "entity_type": "Vendor",
+    "entity_id": "VEN-66a60c01",
+    "attributes": {
+      "vendor_id": "V050",
+      "vendor_name": "Bosch IT Services",
+      "service": "Data Center Services",
+      "country": "Germany"
+    },
+    "relationships": [],
+    "metadata": {
+      "ingestion_timestamp": "2026-01-26T13:52:45.595040+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }

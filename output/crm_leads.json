@@ -6,14 +6,14 @@
     "entity_id": "L001",
     "attributes": {
       "lead_id": "L001",
-      "company_name": "Axis Bank Division 1",
-      "interested_product": "InsightAI Platform 2",
+      "company_name": "Axis Bank",
+      "interested_product": "MedSense AI",
       "sales_stage": "Negotiation",
       "account_manager": "Rohit Kumar 2"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.301162+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.589655+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -25,14 +25,14 @@
     "entity_id": "L002",
     "attributes": {
       "lead_id": "L002",
-      "company_name": "Axis Bank Division 2",
-      "interested_product": "InsightAI Platform 3",
+      "company_name": "HDFC Bank",
+      "interested_product": "PayGuard AI",
       "sales_stage": "Closed Won",
       "account_manager": "Rohit Kumar 3"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.301211+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.589667+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -44,14 +44,14 @@
     "entity_id": "L003",
     "attributes": {
       "lead_id": "L003",
-      "company_name": "Axis Bank Division 3",
-      "interested_product": "InsightAI Platform 4",
+      "company_name": "ICICI Bank",
+      "interested_product": "DataLens Analytics",
       "sales_stage": "Closed Lost",
       "account_manager": "Rohit Kumar 4"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.301221+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.589671+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -63,14 +63,14 @@
     "entity_id": "L004",
     "attributes": {
       "lead_id": "L004",
-      "company_name": "Axis Bank Division 4",
-      "interested_product": "InsightAI Platform 5",
+      "company_name": "SBI",
+      "interested_product": "HealthWave AI",
       "sales_stage": "Prospecting",
       "account_manager": "Rohit Kumar 5"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.301231+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.589673+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -82,14 +82,14 @@
     "entity_id": "L005",
     "attributes": {
       "lead_id": "L005",
-      "company_name": "Axis Bank Division 5",
-      "interested_product": "InsightAI Platform 6",
+      "company_name": "Kotak Mahindra Bank",
+      "interested_product": "LoanPredict AI",
       "sales_stage": "Negotiation",
       "account_manager": "Rohit Kumar 6"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.301239+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.589676+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -101,14 +101,14 @@
     "entity_id": "L006",
     "attributes": {
       "lead_id": "L006",
-      "company_name": "Axis Bank Division 6",
-      "interested_product": "InsightAI Platform 7",
+      "company_name": "Yes Bank",
+      "interested_product": "InsightViz Analytics",
       "sales_stage": "Closed Won",
       "account_manager": "Rohit Kumar 7"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.301247+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.589679+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -120,14 +120,14 @@
     "entity_id": "L007",
     "attributes": {
       "lead_id": "L007",
-      "company_name": "Axis Bank Division 7",
-      "interested_product": "InsightAI Platform 8",
+      "company_name": "IndusInd Bank",
+      "interested_product": "SecureRisk Suite",
       "sales_stage": "Closed Lost",
       "account_manager": "Rohit Kumar 8"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.301257+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.589682+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -139,14 +139,14 @@
     "entity_id": "L008",
     "attributes": {
       "lead_id": "L008",
-      "company_name": "Axis Bank Division 8",
-      "interested_product": "InsightAI Platform 9",
+      "company_name": "PNB",
+      "interested_product": "CareAssist AI",
       "sales_stage": "Prospecting",
       "account_manager": "Rohit Kumar 9"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.301264+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.589684+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -158,14 +158,14 @@
     "entity_id": "L009",
     "attributes": {
       "lead_id": "L009",
-      "company_name": "Axis Bank Division 9",
-      "interested_product": "InsightAI Platform 10",
+      "company_name": "IDBI Bank",
+      "interested_product": "TradeFlow AI",
       "sales_stage": "Negotiation",
       "account_manager": "Rohit Kumar 10"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.301272+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.589687+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -177,14 +177,14 @@
     "entity_id": "L010",
     "attributes": {
       "lead_id": "L010",
-      "company_name": "Axis Bank Division 10",
-      "interested_product": "InsightAI Platform 1",
+      "company_name": "Axis Bank",
+      "interested_product": "DeepAnalytics Pro",
       "sales_stage": "Closed Won",
       "account_manager": "Rohit Kumar 11"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.301280+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.589689+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -196,14 +196,14 @@
     "entity_id": "L011",
     "attributes": {
       "lead_id": "L011",
-      "company_name": "Axis Bank Division 11",
-      "interested_product": "InsightAI Platform 2",
+      "company_name": "Aditya Birla Finance",
+      "interested_product": "RiskGuardian AI",
       "sales_stage": "Closed Lost",
       "account_manager": "Rohit Kumar 12"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.301287+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.589692+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -215,14 +215,14 @@
     "entity_id": "L012",
     "attributes": {
       "lead_id": "L012",
-      "company_name": "Axis Bank Division 12",
-      "interested_product": "InsightAI Platform 3",
+      "company_name": "Bajaj Finserv",
+      "interested_product": "HealthGuard AI",
       "sales_stage": "Prospecting",
       "account_manager": "Rohit Kumar 13"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.301295+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.589695+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -234,14 +234,14 @@
     "entity_id": "L013",
     "attributes": {
       "lead_id": "L013",
-      "company_name": "Axis Bank Division 13",
-      "interested_product": "InsightAI Platform 4",
+      "company_name": "Mahindra Finance",
+      "interested_product": "FinTrack AI",
       "sales_stage": "Negotiation",
       "account_manager": "Rohit Kumar 14"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.301303+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.589697+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -253,14 +253,14 @@
     "entity_id": "L014",
     "attributes": {
       "lead_id": "L014",
-      "company_name": "Axis Bank Division 14",
-      "interested_product": "InsightAI Platform 5",
+      "company_name": "Tata Capital",
+      "interested_product": "AnalyticsX Suite",
       "sales_stage": "Closed Won",
       "account_manager": "Rohit Kumar 15"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.301309+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.589700+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -272,14 +272,14 @@
     "entity_id": "L015",
     "attributes": {
       "lead_id": "L015",
-      "company_name": "Axis Bank Division 15",
-      "interested_product": "InsightAI Platform 6",
+      "company_name": "Fullerton India",
+      "interested_product": "RiskIQ Platform",
       "sales_stage": "Closed Lost",
       "account_manager": "Rohit Kumar 16"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.301315+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.589703+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -291,14 +291,14 @@
     "entity_id": "L016",
     "attributes": {
       "lead_id": "L016",
-      "company_name": "Axis Bank Division 16",
-      "interested_product": "InsightAI Platform 7",
+      "company_name": "PhonePe",
+      "interested_product": "MedAI Care",
       "sales_stage": "Prospecting",
       "account_manager": "Rohit Kumar 17"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.301323+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.589705+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -310,14 +310,14 @@
     "entity_id": "L017",
     "attributes": {
       "lead_id": "L017",
-      "company_name": "Axis Bank Division 17",
-      "interested_product": "InsightAI Platform 8",
+      "company_name": "Google India",
+      "interested_product": "PaySmart AI",
       "sales_stage": "Negotiation",
       "account_manager": "Rohit Kumar 18"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.301330+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.589708+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -329,14 +329,14 @@
     "entity_id": "L018",
     "attributes": {
       "lead_id": "L018",
-      "company_name": "Axis Bank Division 18",
-      "interested_product": "InsightAI Platform 9",
+      "company_name": "Amazon India",
+      "interested_product": "VisionAnalytics",
       "sales_stage": "Closed Won",
       "account_manager": "Rohit Kumar 19"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.301338+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.589710+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -348,14 +348,14 @@
     "entity_id": "L019",
     "attributes": {
       "lead_id": "L019",
-      "company_name": "Axis Bank Division 19",
-      "interested_product": "InsightAI Platform 10",
+      "company_name": "Flipkart",
+      "interested_product": "ClinicAI Suite",
       "sales_stage": "Closed Lost",
       "account_manager": "Rohit Kumar 20"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.301345+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.589713+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -367,14 +367,14 @@
     "entity_id": "L020",
     "attributes": {
       "lead_id": "L020",
-      "company_name": "Axis Bank Division 20",
-      "interested_product": "InsightAI Platform 1",
+      "company_name": "Swiggy",
+      "interested_product": "FinanceGuard AI",
       "sales_stage": "Prospecting",
       "account_manager": "Rohit Kumar 21"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.301351+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.589716+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -386,14 +386,14 @@
     "entity_id": "L021",
     "attributes": {
       "lead_id": "L021",
-      "company_name": "Axis Bank Division 21",
-      "interested_product": "InsightAI Platform 2",
+      "company_name": "Zomato",
+      "interested_product": "AnalyticsPro Plus",
       "sales_stage": "Negotiation",
       "account_manager": "Rohit Kumar 22"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.301358+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.589718+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -405,14 +405,14 @@
     "entity_id": "L022",
     "attributes": {
       "lead_id": "L022",
-      "company_name": "Axis Bank Division 22",
-      "interested_product": "InsightAI Platform 3",
+      "company_name": "Paytm",
+      "interested_product": "HealthIntel AI",
       "sales_stage": "Closed Won",
       "account_manager": "Rohit Kumar 23"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.301365+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.589721+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -424,14 +424,14 @@
     "entity_id": "L023",
     "attributes": {
       "lead_id": "L023",
-      "company_name": "Axis Bank Division 23",
-      "interested_product": "InsightAI Platform 4",
+      "company_name": "PhonePe",
+      "interested_product": "FinOps AI",
       "sales_stage": "Closed Lost",
       "account_manager": "Rohit Kumar 24"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.301373+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.589724+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -443,14 +443,14 @@
     "entity_id": "L024",
     "attributes": {
       "lead_id": "L024",
-      "company_name": "Axis Bank Division 24",
-      "interested_product": "InsightAI Platform 5",
+      "company_name": "Amazon Pay",
+      "interested_product": "SmartAnalytics AI",
       "sales_stage": "Prospecting",
       "account_manager": "Rohit Kumar 25"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.301380+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.589727+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -462,14 +462,14 @@
     "entity_id": "L025",
     "attributes": {
       "lead_id": "L025",
-      "company_name": "Axis Bank Division 25",
-      "interested_product": "InsightAI Platform 6",
+      "company_name": "Google Pay",
+      "interested_product": "RiskAlert Pro",
       "sales_stage": "Negotiation",
       "account_manager": "Rohit Kumar 26"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.301387+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.589729+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -481,14 +481,14 @@
     "entity_id": "L026",
     "attributes": {
       "lead_id": "L026",
-      "company_name": "Axis Bank Division 26",
-      "interested_product": "InsightAI Platform 7",
+      "company_name": "IBM India",
+      "interested_product": "MedInsight AI",
       "sales_stage": "Closed Won",
       "account_manager": "Rohit Kumar 27"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.301395+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.589732+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -500,14 +500,14 @@
     "entity_id": "L027",
     "attributes": {
       "lead_id": "L027",
-      "company_name": "Axis Bank Division 27",
-      "interested_product": "InsightAI Platform 8",
+      "company_name": "Microsoft India",
+      "interested_product": "FinWise AI",
       "sales_stage": "Closed Lost",
       "account_manager": "Rohit Kumar 28"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.301402+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.589735+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -519,14 +519,14 @@
     "entity_id": "L028",
     "attributes": {
       "lead_id": "L028",
-      "company_name": "Axis Bank Division 28",
-      "interested_product": "InsightAI Platform 9",
+      "company_name": "Accenture India",
+      "interested_product": "AnalyticsEdge",
       "sales_stage": "Prospecting",
       "account_manager": "Rohit Kumar 29"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.301408+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.589737+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -538,14 +538,14 @@
     "entity_id": "L029",
     "attributes": {
       "lead_id": "L029",
-      "company_name": "Axis Bank Division 29",
-      "interested_product": "InsightAI Platform 10",
+      "company_name": "TCS",
+      "interested_product": " RiskAnalytics AI",
       "sales_stage": "Negotiation",
       "account_manager": "Rohit Kumar 30"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.301414+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.589740+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -557,14 +557,14 @@
     "entity_id": "L030",
     "attributes": {
       "lead_id": "L030",
-      "company_name": "Axis Bank Division 30",
-      "interested_product": "InsightAI Platform 1",
+      "company_name": "Infosys",
+      "interested_product": "RiskSense AI",
       "sales_stage": "Closed Won",
       "account_manager": "Rohit Kumar 31"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.301419+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.589742+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -576,14 +576,14 @@
     "entity_id": "L031",
     "attributes": {
       "lead_id": "L031",
-      "company_name": "Axis Bank Division 31",
-      "interested_product": "InsightAI Platform 2",
+      "company_name": "Wipro",
+      "interested_product": "RiskPredict AI",
       "sales_stage": "Closed Lost",
       "account_manager": "Rohit Kumar 32"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.301427+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.589745+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -595,14 +595,14 @@
     "entity_id": "L032",
     "attributes": {
       "lead_id": "L032",
-      "company_name": "Axis Bank Division 32",
-      "interested_product": "InsightAI Platform 3",
+      "company_name": "Capgemini",
+      "interested_product": "HealthAI Guardian",
       "sales_stage": "Prospecting",
       "account_manager": "Rohit Kumar 33"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.301434+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.589748+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -614,14 +614,14 @@
     "entity_id": "L033",
     "attributes": {
       "lead_id": "L033",
-      "company_name": "Axis Bank Division 33",
-      "interested_product": "InsightAI Platform 4",
+      "company_name": "Cognizant",
+      "interested_product": "FinRisk AI",
       "sales_stage": "Negotiation",
       "account_manager": "Rohit Kumar 34"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.301440+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.589751+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -633,14 +633,14 @@
     "entity_id": "L034",
     "attributes": {
       "lead_id": "L034",
-      "company_name": "Axis Bank Division 34",
-      "interested_product": "InsightAI Platform 5",
+      "company_name": "Deloitte",
+      "interested_product": "AnalyticsCloud",
       "sales_stage": "Closed Won",
       "account_manager": "Rohit Kumar 35"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.301447+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.589754+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -652,14 +652,14 @@
     "entity_id": "L035",
     "attributes": {
       "lead_id": "L035",
-      "company_name": "Axis Bank Division 35",
-      "interested_product": "InsightAI Platform 6",
+      "company_name": "PwC",
+      "interested_product": "RiskX Pro",
       "sales_stage": "Closed Lost",
       "account_manager": "Rohit Kumar 36"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.301454+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.589756+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -671,14 +671,14 @@
     "entity_id": "L036",
     "attributes": {
       "lead_id": "L036",
-      "company_name": "Axis Bank Division 36",
-      "interested_product": "InsightAI Platform 7",
+      "company_name": "KPMG",
+      "interested_product": "HealthFlow AI",
       "sales_stage": "Prospecting",
       "account_manager": "Rohit Kumar 37"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.301460+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.589759+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -690,14 +690,14 @@
     "entity_id": "L037",
     "attributes": {
       "lead_id": "L037",
-      "company_name": "Axis Bank Division 37",
-      "interested_product": "InsightAI Platform 8",
+      "company_name": "Oracle India",
+      "interested_product": "FinServe AI",
       "sales_stage": "Negotiation",
       "account_manager": "Rohit Kumar 38"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.301467+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.589761+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -709,14 +709,14 @@
     "entity_id": "L038",
     "attributes": {
       "lead_id": "L038",
-      "company_name": "Axis Bank Division 38",
-      "interested_product": "InsightAI Platform 9",
+      "company_name": "Salesforce India",
+      "interested_product": "DataSmart Analytics",
       "sales_stage": "Closed Won",
       "account_manager": "Rohit Kumar 39"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.301473+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.589764+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -728,14 +728,14 @@
     "entity_id": "L039",
     "attributes": {
       "lead_id": "L039",
-      "company_name": "Axis Bank Division 39",
-      "interested_product": "InsightAI Platform 10",
+      "company_name": "SAP India",
+      "interested_product": "RiskOps AI",
       "sales_stage": "Closed Lost",
       "account_manager": "Rohit Kumar 40"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.301479+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.589766+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -747,14 +747,14 @@
     "entity_id": "L040",
     "attributes": {
       "lead_id": "L040",
-      "company_name": "Axis Bank Division 40",
-      "interested_product": "InsightAI Platform 1",
+      "company_name": "Adobe India",
+      "interested_product": "HealthCare AI Suite",
       "sales_stage": "Prospecting",
       "account_manager": "Rohit Kumar 41"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.301486+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.589769+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -766,14 +766,14 @@
     "entity_id": "L041",
     "attributes": {
       "lead_id": "L041",
-      "company_name": "Axis Bank Division 41",
-      "interested_product": "InsightAI Platform 2",
+      "company_name": "Netflix India",
+      "interested_product": "FinAI Insights",
       "sales_stage": "Negotiation",
       "account_manager": "Rohit Kumar 42"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.301493+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.589771+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -785,14 +785,14 @@
     "entity_id": "L042",
     "attributes": {
       "lead_id": "L042",
-      "company_name": "Axis Bank Division 42",
-      "interested_product": "InsightAI Platform 3",
+      "company_name": "Disney+ Hotstar",
+      "interested_product": "DataX Analytics",
       "sales_stage": "Closed Won",
       "account_manager": "Rohit Kumar 43"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.301500+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.589774+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -804,14 +804,14 @@
     "entity_id": "L043",
     "attributes": {
       "lead_id": "L043",
-      "company_name": "Axis Bank Division 43",
-      "interested_product": "InsightAI Platform 4",
+      "company_name": "Byju's",
+      "interested_product": "RiskMonitor AI",
       "sales_stage": "Closed Lost",
       "account_manager": "Rohit Kumar 44"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.301506+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.589777+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -823,14 +823,14 @@
     "entity_id": "L044",
     "attributes": {
       "lead_id": "L044",
-      "company_name": "Axis Bank Division 44",
-      "interested_product": "InsightAI Platform 5",
+      "company_name": "Unacademy",
+      "interested_product": "RiskControl Pro",
       "sales_stage": "Prospecting",
       "account_manager": "Rohit Kumar 45"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.301512+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.589780+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -842,14 +842,14 @@
     "entity_id": "L045",
     "attributes": {
       "lead_id": "L045",
-      "company_name": "Axis Bank Division 45",
-      "interested_product": "InsightAI Platform 6",
+      "company_name": "Vedantu",
+      "interested_product": "HealthOps AI",
       "sales_stage": "Negotiation",
       "account_manager": "Rohit Kumar 46"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.301519+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.589782+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -861,14 +861,14 @@
     "entity_id": "L046",
     "attributes": {
       "lead_id": "L046",
-      "company_name": "Axis Bank Division 46",
-      "interested_product": "InsightAI Platform 7",
+      "company_name": "UpGrad",
+      "interested_product": "FinAI Insights",
       "sales_stage": "Closed Won",
       "account_manager": "Rohit Kumar 47"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.301525+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.589785+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -880,14 +880,14 @@
     "entity_id": "L047",
     "attributes": {
       "lead_id": "L047",
-      "company_name": "Axis Bank Division 47",
-      "interested_product": "InsightAI Platform 8",
+      "company_name": "Cred",
+      "interested_product": "DataLens Analytics",
       "sales_stage": "Closed Lost",
       "account_manager": "Rohit Kumar 48"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.301532+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.589787+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -899,14 +899,14 @@
     "entity_id": "L048",
     "attributes": {
       "lead_id": "L048",
-      "company_name": "Axis Bank Division 48",
-      "interested_product": "InsightAI Platform 9",
+      "company_name": "PhonePe",
+      "interested_product": "AnalyticsX Suite",
       "sales_stage": "Prospecting",
       "account_manager": "Rohit Kumar 49"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.301538+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.589790+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -918,14 +918,14 @@
     "entity_id": "L049",
     "attributes": {
       "lead_id": "L049",
-      "company_name": "Axis Bank Division 49",
-      "interested_product": "InsightAI Platform 10",
+      "company_name": "Google Cloud",
+      "interested_product": "DataVision Pro",
       "sales_stage": "Negotiation",
       "account_manager": "Rohit Kumar 50"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.301545+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.589792+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }
@@ -937,14 +937,14 @@
     "entity_id": "L050",
     "attributes": {
       "lead_id": "L050",
-      "company_name": "Axis Bank Division 50",
-      "interested_product": "InsightAI Platform 1",
+      "company_name": "Haricorp Tech",
+      "interested_product": "HealthCare AI Suite",
       "sales_stage": "Closed Won",
       "account_manager": "Rohit Kumar 51"
     },
     "relationships": [],
     "metadata": {
-      "ingestion_timestamp": "2026-01-03T13:51:46.301553+00:00",
+      "ingestion_timestamp": "2026-01-26T13:52:45.589795+00:00",
       "source_confidence": 0.8,
       "origin_system": "File System"
     }

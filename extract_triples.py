@@ -3,17 +3,38 @@ import json
 import re
 import csv
 
-# Configuration
-DATA_DIR = r"C:\Users\Admin\Downloads\ai enterprise"
+DATA_DIR = os.path.dirname(os.path.abspath(__file__))
 STRUCTURED_DIR = os.path.join(DATA_DIR, "structured")
 SEMI_STRUCTURED_DIR = os.path.join(DATA_DIR, "semi_structured")
 UNSTRUCTURED_DIR = os.path.join(DATA_DIR, "unstructured")
 OUTPUT_DIR = os.path.join(DATA_DIR, "output")
 
+def save_triples(triples, base_filename):
+    """Helper function to save triples to JSON and CSV."""
+    if not triples:
+        return
+        
+
+    json_file = os.path.join(OUTPUT_DIR, f"{base_filename}.json")
+    with open(json_file, 'w', encoding='utf-8') as f:
+        json.dump(triples, f, indent=2)
+
+  
+    csv_file = os.path.join(OUTPUT_DIR, f"{base_filename}.csv")
+    with open(csv_file, 'w', encoding='utf-8') as f:
+        f.write("subject,relation,object,source\n")
+        for t in triples:
+            sub = str(t["subject"]).replace('"', '""')
+            rel = str(t["relation"]).replace('"', '""')
+            obj = str(t["object"]).replace('"', '""')
+            src = str(t["source"]).replace('"', '""')
+            f.write(f'"{sub}","{rel}","{obj}","{src}"\n')
+    
+    print(f"Saved {len(triples)} triples to {base_filename}.json/csv")
+
 def extract_triples_from_text(filename, text):
     triples = []
-    
-    # Meeting Notes Patterns
+
     if "meeting_notes" in filename:
         attendees_match = re.search(r"Attendees:\s*(.*)", text)
         if attendees_match:
@@ -118,12 +139,14 @@ def extract_triples_from_semi_structured(filename, filepath):
     return triples
 
 def main():
-    all_triples = []
+    unstructured_triples = []
+    structured_triples = []
+    semi_structured_triples = []
     
     if not os.path.exists(OUTPUT_DIR):
         os.makedirs(OUTPUT_DIR)
 
-    # Process Unstructured
+ 
     if os.path.exists(UNSTRUCTURED_DIR):
         for filename in os.listdir(UNSTRUCTURED_DIR):
             if filename.endswith(".txt"):
@@ -133,9 +156,7 @@ def main():
                     triples = extract_triples_from_text(filename, content)
                     for t in triples:
                         t["source"] = f"unstructured/{filename}"
-                    all_triples.extend(triples)
-
-    # Process Structured
+                    unstructured_triples.extend(triples)
     if os.path.exists(STRUCTURED_DIR):
         for filename in os.listdir(STRUCTURED_DIR):
             if filename.endswith(".csv"):
@@ -143,9 +164,8 @@ def main():
                 triples = extract_triples_from_structured(filename, filepath)
                 for t in triples:
                     t["source"] = f"structured/{filename}"
-                all_triples.extend(triples)
+                structured_triples.extend(triples)
 
-    # Process Semi-Structured
     if os.path.exists(SEMI_STRUCTURED_DIR):
         for filename in os.listdir(SEMI_STRUCTURED_DIR):
             if filename.endswith(".csv"):
@@ -153,27 +173,18 @@ def main():
                 triples = extract_triples_from_semi_structured(filename, filepath)
                 for t in triples:
                     t["source"] = f"semi_structured/{filename}"
-                all_triples.extend(triples)
+                semi_structured_triples.extend(triples)
 
-    # Output JSON
-    output_file = os.path.join(OUTPUT_DIR, "knowledge_graph_triples.json")
-    with open(output_file, 'w', encoding='utf-8') as f:
-        json.dump(all_triples, f, indent=2)
+    save_triples(unstructured_triples, "triples_unstructured")
+    save_triples(structured_triples, "triples_structured")
+    save_triples(semi_structured_triples, "triples_semi_structured")
 
-    # Output CSV
-    csv_file = os.path.join(OUTPUT_DIR, "knowledge_graph_triples.csv")
-    with open(csv_file, 'w', encoding='utf-8') as f:
-        f.write("subject,relation,object,source\n")
-        for t in all_triples:
-            # Simple CSV escaping for quotes
-            sub = str(t["subject"]).replace('"', '""')
-            rel = str(t["relation"]).replace('"', '""')
-            obj = str(t["object"]).replace('"', '""')
-            src = str(t["source"]).replace('"', '""')
-            f.write(f'"{sub}","{rel}","{obj}","{src}"\n')
 
-    print(f"Extracted {len(all_triples)} triples.")
-    print(f"Saved to {output_file} and {csv_file}")
+    all_triples = unstructured_triples + structured_triples + semi_structured_triples
+    save_triples(all_triples, "knowledge_graph_triples")
+
+    print("-" * 30)
+    print(f"Total Triples Extracted: {len(all_triples)}")
 
 if __name__ == "__main__":
     main()

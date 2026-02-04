@@ -1,51 +1,41 @@
 client_id,client_name,industry,country,annual_contract_value_usd
-C001,Infosys Client Unit 1,Healthcare,India,325000
-C002,Infosys Client Unit 2,Retail,India,350000
-C003,Infosys Client Unit 3,Manufacturing,India,375000
-C004,Infosys Client Unit 4,BFSI,India,400000
-C005,Infosys Client Unit 5,Healthcare,India,425000
-C006,Infosys Client Unit 6,Retail,India,450000
-C007,Infosys Client Unit 7,Manufacturing,India,475000
-C008,Infosys Client Unit 8,BFSI,India,500000
-C009,Infosys Client Unit 9,Healthcare,India,525000
-C010,Infosys Client Unit 10,Retail,India,550000
-C011,Infosys Client Unit 11,Manufacturing,India,575000
-C012,Infosys Client Unit 12,BFSI,India,600000
-C013,Infosys Client Unit 13,Healthcare,India,625000
-C014,Infosys Client Unit 14,Retail,India,650000
-C015,Infosys Client Unit 15,Manufacturing,India,675000
-C016,Infosys Client Unit 16,BFSI,India,700000
-C017,Infosys Client Unit 17,Healthcare,India,725000
-C018,Infosys Client Unit 18,Retail,India,750000
-C019,Infosys Client Unit 19,Manufacturing,India,775000
-C020,Infosys Client Unit 20,BFSI,India,800000
-C021,Infosys Client Unit 21,Healthcare,India,825000
-C022,Infosys Client Unit 22,Retail,India,850000
-C023,Infosys Client Unit 23,Manufacturing,India,875000
-C024,Infosys Client Unit 24,BFSI,India,900000
-C025,Infosys Client Unit 25,Healthcare,India,925000
-C026,Infosys Client Unit 26,Retail,India,950000
-C027,Infosys Client Unit 27,Manufacturing,India,975000
-C028,Infosys Client Unit 28,BFSI,India,1000000
-C029,Infosys Client Unit 29,Healthcare,India,1025000
-C030,Infosys Client Unit 30,Retail,India,1050000
-C031,Infosys Client Unit 31,Manufacturing,India,1075000
-C032,Infosys Client Unit 32,BFSI,India,1100000
-C033,Infosys Client Unit 33,Healthcare,India,1125000
-C034,Infosys Client Unit 34,Retail,India,1150000
-C035,Infosys Client Unit 35,Manufacturing,India,1175000
-C036,Infosys Client Unit 36,BFSI,India,1200000
-C037,Infosys Client Unit 37,Healthcare,India,1225000
-C038,Infosys Client Unit 38,Retail,India,1250000
-C039,Infosys Client Unit 39,Manufacturing,India,1275000
-C040,Infosys Client Unit 40,BFSI,India,1300000
-C041,Infosys Client Unit 41,Healthcare,India,1325000
-C042,Infosys Client Unit 42,Retail,India,1350000
-C043,Infosys Client Unit 43,Manufacturing,India,1375000
-C044,Infosys Client Unit 44,BFSI,India,1400000
-C045,Infosys Client Unit 45,Healthcare,India,1425000
-C046,Infosys Client Unit 46,Retail,India,1450000
-C047,Infosys Client Unit 47,Manufacturing,India,1475000
-C048,Infosys Client Unit 48,BFSI,India,1500000
-C049,Infosys Client Unit 49,Healthcare,India,1525000
-C050,Infosys Client Unit 50,Retail,India,1550000
+C301,Fortis Healthcare Services,Healthcare,India,820000
+C302,Reliance Retail Ltd,Retail,India,1450000
+C303,Tata Motors Ltd,Manufacturing,India,2100000
+C304,HDFC Life Insurance,BFSI,India,1750000
+C305,Apollo Hospitals Group,Healthcare,India,1320000
+C306,Flipkart Internet Pvt Ltd,Retail,India,1950000
+C307,Larsen & Toubro,Manufacturing,India,2600000
+C308,ICICI Prudential,BFSI,India,1680000
+C309,Max Healthcare Institute,Healthcare,India,990000
+C310,DMart Retail,Retail,India,1180000
+C311,Ashok Leyland,Manufacturing,India,1540000
+C312,Bajaj Finserv,BFSI,India,1825000
+C313,Narayana Health,Healthcare,India,870000
+C314,Shoppers Stop,Retail,India,640000
+C315,JSW Steel,Manufacturing,India,2750000
+C316,Kotak Mahindra Bank,BFSI,India,2300000
+C317,Manipal Health Enterprises,Healthcare,India,1100000
+C318,Future Group Retail,Retail,India,720000
+C319,TVS Motor Company,Manufacturing,India,1480000
+C320,SBI General Insurance,BFSI,India,1250000
+C321,Cloudnine Hospitals,Healthcare,India,560000
+C322,Amazon India,Retail,India,4200000
+C323,Godrej Consumer Products,Manufacturing,India,1350000
+C324,Axis Bank,BFSI,India,1980000
+C325,Medanta Hospitals,Healthcare,India,940000
+C326,Nykaa E-Retail,Retail,India,830000
+C327,UltraTech Cement,Manufacturing,India,3100000
+C328,HDFC Bank,BFSI,India,4800000
+C329,KIMS Healthcare,Healthcare,India,610000
+C330,BigBasket Retail,Retail,India,910000
+C331,Bharat Forge,Manufacturing,India,1670000
+C332,Paytm Payments Bank,BFSI,India,890000
+C333,Aster DM Healthcare,Healthcare,UAE,1250000
+C334,Lulu Hypermarkets,Retail,UAE,2150000
+C335,Emirates Global Aluminium,Manufacturing,UAE,3500000
+C336,First Abu Dhabi Bank,BFSI,UAE,4200000
+C337,Mount Sinai Health System,Healthcare,USA,5100000
+C338,Walmart Inc,Retail,USA,9800000
+C339,General Electric,Manufacturing,USA,7200000
+C340,JPMorgan Chase,BFSI,USA,10500000

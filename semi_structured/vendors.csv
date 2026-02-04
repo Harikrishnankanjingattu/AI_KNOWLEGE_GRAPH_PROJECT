@@ -1,51 +1,51 @@
 vendor_id,vendor_name,service,country
-V001,Tata Communications Partner 1,Network Security,India
-V002,Tata Communications Partner 2,Data Center Services,India
-V003,Tata Communications Partner 3,Cloud Hosting,India
-V004,Tata Communications Partner 4,Network Security,India
-V005,Tata Communications Partner 5,Data Center Services,India
-V006,Tata Communications Partner 6,Cloud Hosting,India
-V007,Tata Communications Partner 7,Network Security,India
-V008,Tata Communications Partner 8,Data Center Services,India
-V009,Tata Communications Partner 9,Cloud Hosting,India
-V010,Tata Communications Partner 10,Network Security,India
-V011,Tata Communications Partner 11,Data Center Services,India
-V012,Tata Communications Partner 12,Cloud Hosting,India
-V013,Tata Communications Partner 13,Network Security,India
-V014,Tata Communications Partner 14,Data Center Services,India
-V015,Tata Communications Partner 15,Cloud Hosting,India
-V016,Tata Communications Partner 16,Network Security,India
-V017,Tata Communications Partner 17,Data Center Services,India
-V018,Tata Communications Partner 18,Cloud Hosting,India
-V019,Tata Communications Partner 19,Network Security,India
-V020,Tata Communications Partner 20,Data Center Services,India
-V021,Tata Communications Partner 21,Cloud Hosting,India
-V022,Tata Communications Partner 22,Network Security,India
-V023,Tata Communications Partner 23,Data Center Services,India
-V024,Tata Communications Partner 24,Cloud Hosting,India
-V025,Tata Communications Partner 25,Network Security,India
-V026,Tata Communications Partner 26,Data Center Services,India
-V027,Tata Communications Partner 27,Cloud Hosting,India
-V028,Tata Communications Partner 28,Network Security,India
-V029,Tata Communications Partner 29,Data Center Services,India
-V030,Tata Communications Partner 30,Cloud Hosting,India
-V031,Tata Communications Partner 31,Network Security,India
-V032,Tata Communications Partner 32,Data Center Services,India
-V033,Tata Communications Partner 33,Cloud Hosting,India
-V034,Tata Communications Partner 34,Network Security,India
-V035,Tata Communications Partner 35,Data Center Services,India
-V036,Tata Communications Partner 36,Cloud Hosting,India
-V037,Tata Communications Partner 37,Network Security,India
-V038,Tata Communications Partner 38,Data Center Services,India
-V039,Tata Communications Partner 39,Cloud Hosting,India
-V040,Tata Communications Partner 40,Network Security,India
-V041,Tata Communications Partner 41,Data Center Services,India
-V042,Tata Communications Partner 42,Cloud Hosting,India
-V043,Tata Communications Partner 43,Network Security,India
-V044,Tata Communications Partner 44,Data Center Services,India
-V045,Tata Communications Partner 45,Cloud Hosting,India
-V046,Tata Communications Partner 46,Network Security,India
-V047,Tata Communications Partner 47,Data Center Services,India
-V048,Tata Communications Partner 48,Cloud Hosting,India
-V049,Tata Communications Partner 49,Network Security,India
-V050,Tata Communications Partner 50,Data Center Services,India
+V001,Tata Communications,Network Security,India
+V002,Infosys Data Services,Data Center Services,India
+V003,Amazon Web Services,Cloud Hosting,USA
+V004,Microsoft Azure,Cloud Hosting,USA
+V005,Google Cloud India,Cloud Hosting,India
+V006,NTT Data,Network Security,Japan
+V007,IBM Cloud Services,Cloud Hosting,USA
+V008,Oracle Data Centers,Data Center Services,USA
+V009,Accenture Cyber Defense,Network Security,Ireland
+V010,Wipro Infrastructure Services,Data Center Services,India
+V011,HCL Cloud Solutions,Cloud Hosting,India
+V012,Capgemini Technology Services,Network Security,France
+V013,Dell Technologies,Data Center Services,USA
+V014,HP Enterprise Services,Data Center Services,USA
+V015,Cisco Secure Solutions,Network Security,USA
+V016,Palo Alto Networks,Network Security,USA
+V017,Fortinet Security Services,Network Security,USA
+V018,Rackspace Technology,Cloud Hosting,USA
+V019,DigitalOcean,Cloud Hosting,USA
+V020,Alibaba Cloud,Cloud Hosting,China
+V021,Tech Mahindra Networks,Network Security,India
+V022,Atos Data Services,Data Center Services,France
+V023,Fujitsu Cloud Services,Cloud Hosting,Japan
+V024,Hitachi Systems Security,Network Security,Japan
+V025,Red Hat OpenShift Services,Cloud Hosting,USA
+V026,Zoho Cloud Infrastructure,Cloud Hosting,India
+V027,SAP Cloud Platform,Cloud Hosting,Germany
+V028,VMware Secure Cloud,Network Security,USA
+V029,BT Global Services,Network Security,UK
+V030,Orange Business Services,Data Center Services,France
+V031,Equinix Data Centers,Data Center Services,USA
+V032,OVHcloud,Cloud Hosting,France
+V033,TCS Cyber Security,Network Security,India
+V034,LTIMindtree Cloud Services,Cloud Hosting,India
+V035,Cognizant Infrastructure Services,Data Center Services,USA
+V036,DXC Technology,Network Security,USA
+V037,Siemens IT Solutions,Data Center Services,Germany
+V038,Ericsson Network Services,Network Security,Sweden
+V039,Juniper Networks,Network Security,USA
+V040,Netmagic Solutions,Data Center Services,India
+V041,Cloudflare Security,Network Security,USA
+V042,Akamai Technologies,Network Security,USA
+V043,SoftBank Cloud Services,Cloud Hosting,Japan
+V044,Telefónica Tech,Network Security,Spain
+V045,Dimension Data,Data Center Services,South Africa
+V046,Infosys Cloud Edge,Cloud Hosting,India
+V047,Haricorp Tech,Cloud Hosting,India
+V048,Hexaware Infrastructure Services,Data Center Services,India
+V049,NEC Network Solutions,Network Security,Japan
+V050,Bosch IT Services,Data Center Services,Germany
